@@ -8,7 +8,7 @@ published: true
 
 [#632438 - popularity-contest: a way to exclude certain packages - Debian Bug report logs](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=632438)
 
-このバグにあるように、Debianのパッケージ調査に参加した場合、特定のパッケージのみ除外するようば設定はありません。
+このバグにあるように、Debianのパッケージ調査に参加した場合、特定のパッケージのみ除外するような設定はありません。
 したがって、特定のパッケージを除外したい場合には参加自体をとりやめるしか選択肢がありません。
 
 例えば、個人的なパッケージを作成している場合や、開発中のパッケージを公開したくないような状況では、それらが含まれてしまうとノイズにしかならないので、除外したいと思うことがあります。
