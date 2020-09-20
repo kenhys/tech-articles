@@ -1,5 +1,5 @@
 ---
-title: "popularity-contestで特定のパッケージを除外するには"
+title: "Debian: popularity-contestで特定のパッケージを除外するには"
 emoji: "🪔"
 type: "tech"
 topics: ["Debian"]
