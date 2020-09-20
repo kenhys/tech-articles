@@ -6,6 +6,8 @@ topics: ["Debian"]
 published: true
 ---
 
+@[tweet](https://twitter.com/kenhys/status/1307536635093897222)
+
 [#632438 - popularity-contest: a way to exclude certain packages - Debian Bug report logs](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=632438)
 
 このバグにあるように、Debianのパッケージ調査に参加した場合、特定のパッケージのみ除外するような設定はありません。
