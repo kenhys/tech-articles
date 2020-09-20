@@ -1,6 +1,6 @@
 ---
 title: "popularity-contestで特定のパッケージを除外するには"
-emoji: "😸"
+emoji: "🪔"
 type: "tech"
 topics: ["Debian"]
 published: true
