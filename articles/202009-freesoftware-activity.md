@@ -12,3 +12,5 @@ published: false
   * popularity-contestで特定のパッケージを除外できるようにするべきかどうかの議論に参加した。
 * [Use correct SPDX license identifier](https://github.com/rubyzip/rubyzip/pull/458)
   * BSD-2-Clauseが正しいというのでフィードバックした。
+* [build with lua-cjson 2.1.0-1 fails for luajit 2.1](https://github.com/JakobGreen/lua-requests/issues/24)
+  * luajitだとビルドできない問題は、lua-requestsがlua-cjson 2.1.0.6-1に依存すれば解決するはずなのでコメントした。
