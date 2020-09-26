@@ -14,3 +14,5 @@ published: false
   * BSD-2-Clauseが正しいというのでフィードバックした。
 * [build with lua-cjson 2.1.0-1 fails for luajit 2.1](https://github.com/JakobGreen/lua-requests/issues/24)
   * luajitだとビルドできない問題は、lua-requestsがlua-cjson 2.1.0.6-1に依存すれば解決するはずなのでコメントした。
+* fasttext 0.9.2-3 をアップロード
+  * hurdでFTBFSを修正。DEB_BUILD_GNU_TYPEを使うようにすることで.soが見つからない問題を解決した。
