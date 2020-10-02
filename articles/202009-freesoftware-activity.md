@@ -19,3 +19,5 @@ published: false
 * debian: sentencepiece 0.1.92-2 をアップロード
   * hurdでFTBFSを修正。DEB_BUILD_GNU_TYPEを使うようにすることで.soが見つからない問題を解決した。
   * m68k,powerpc,sh4向けに-latomicを追加するパッチを更新した。
+* [Please move(transfer) debian/fasttext, debian/sentencepiece into Debian Science Team](https://salsa.debian.org/salsa/support/-/issues/235)
+  * fasttext,sentencepieceのリポジトリをDebian Science Teamに移動するようにリクエストした。
