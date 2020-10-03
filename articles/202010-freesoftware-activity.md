@@ -12,5 +12,11 @@ published: false
   * 既知のバグっぽいので1.11.2で修正されている旨をコメントした。
 * [Q: When dnsZoneEntry is freed after DD retired](https://lists.debian.org/debian-project/2020/09/msg00027.html)
   * DDが退役したあともdnsZoneEntryが維持されているのでその件の問題提起をした。あとfabre.debian.netを再利用する交渉をした。
-* lltsv: [Specify background color explicitly for readability](https://github.com/sonots/lltsv/pull/29)
+* lltsv [Specify background color explicitly for readability](https://github.com/sonots/lltsv/pull/29)
   * 背景色を明示することで黒背景でも視認しやすくするようにした。
+* growl-for-linux [Fix some issues reported by lintian ](https://salsa.debian.org/debian/growl-for-linux/-/merge_requests/2)
+  * マージした
+* gntp-send: [Fix some issues reported by lintian](https://salsa.debian.org/debian/gntp-send/-/merge_requests/1)
+  * マージした
+* hal-flash [Fix some issues reported by lintian](https://salsa.debian.org/debian/hal-flash/-/merge_requests/1)
+  * マージした
