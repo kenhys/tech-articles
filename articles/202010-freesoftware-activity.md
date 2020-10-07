@@ -20,3 +20,5 @@ published: false
   * マージした
 * hal-flash [Fix some issues reported by lintian](https://salsa.debian.org/debian/hal-flash/-/merge_requests/1)
   * マージした
+* sentencepiece
+  * Fedoraで明示的にBuildRequires: python3-setuptoolsしないといけないので修正した
