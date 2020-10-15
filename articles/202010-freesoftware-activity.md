@@ -22,3 +22,5 @@ published: false
   * マージした
 * sentencepiece
   * Fedoraで明示的にBuildRequires: python3-setuptoolsしないといけないので修正した
+* sentencepiece
+  * Debian: 0.1.93-1をアップロードした
