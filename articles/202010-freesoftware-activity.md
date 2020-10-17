@@ -24,3 +24,9 @@ published: false
   * Fedoraで明示的にBuildRequires: python3-setuptoolsしないといけないので修正した
 * sentencepiece
   * Debian: 0.1.93-1をアップロードした
+* sentencepiece https://github.com/google/sentencepiece/issues/561
+  * sentencepiece 0.1.93 fails to build on hppa を報告しておいた。
+* sentencepiece https://github.com/google/sentencepiece/pull/562
+  * cmake: use GNUInstallDirs.cmake on UNIX #562
+* sentencepiece https://github.com/google/sentencepiece/pull/563
+  * cmake: fix FTBFS on armel, mips, powerpc, m68k and sh4
