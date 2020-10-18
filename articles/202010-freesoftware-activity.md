@@ -30,3 +30,5 @@ published: false
   * cmake: use GNUInstallDirs.cmake on UNIX #562
 * sentencepiece https://github.com/google/sentencepiece/pull/563
   * cmake: fix FTBFS on armel, mips, powerpc, m68k and sh4
+* fonts-dejavu-core: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=972431
+  * piuparts fails by "FAIL: Package purging left files on system" 報告した。
