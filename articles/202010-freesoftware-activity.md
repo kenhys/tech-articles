@@ -32,3 +32,5 @@ published: false
   * cmake: fix FTBFS on armel, mips, powerpc, m68k and sh4
 * fonts-dejavu-core: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=972431
   * piuparts fails by "FAIL: Package purging left files on system" 報告した。
+* xfce4-weather-plugin https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=966668
+  * fixed-upstream なのでフィードバックした
