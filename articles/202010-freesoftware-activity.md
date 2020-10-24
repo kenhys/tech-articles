@@ -34,3 +34,5 @@ published: false
   * piuparts fails by "FAIL: Package purging left files on system" 報告した。
 * xfce4-weather-plugin https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=966668
   * fixed-upstream なのでフィードバックした
+* fonts-dejavu-core: piuparts fails by "FAIL: Package purging left files on system" https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=972431
+  * 重複していたので、forcemerge 897040 972431 した。
