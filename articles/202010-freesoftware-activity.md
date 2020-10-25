@@ -36,3 +36,5 @@ published: false
   * fixed-upstream なのでフィードバックした
 * fonts-dejavu-core: piuparts fails by "FAIL: Package purging left files on system" https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=972431
   * 重複していたので、forcemerge 897040 972431 した。
+* hal-flash 0.3.3-4 https://salsa.debian.org/debian/hal-flash
+  * QA upload. Maintainerフィールドを更新漏れしていたのを直したのとかSalsa CIの設定を更新したりとか。
