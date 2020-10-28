@@ -40,3 +40,5 @@ published: false
   * QA upload. Maintainerフィールドを更新漏れしていたのを直したのとかSalsa CIの設定を更新したりとか。
 * sentencepiece 0.1.94
   * 0.1.94-1 をアップロードした。マージしてもらったので抱えているパッチが2つ減った。
+* groonga-normalizer-mysql 1.1.4-4
+  * JanitorのMRをマージしてアップロードしておいた。
