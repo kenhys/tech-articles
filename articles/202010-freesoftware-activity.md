@@ -38,3 +38,5 @@ published: false
   * 重複していたので、forcemerge 897040 972431 した。
 * hal-flash 0.3.3-4 https://salsa.debian.org/debian/hal-flash
   * QA upload. Maintainerフィールドを更新漏れしていたのを直したのとかSalsa CIの設定を更新したりとか。
+* sentencepiece 0.1.94
+  * 0.1.94-1 をアップロードした。マージしてもらったので抱えているパッチが2つ減った。
