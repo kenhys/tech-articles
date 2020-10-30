@@ -44,3 +44,6 @@ published: false
   * JanitorのMRをマージしてアップロードしておいた。
 * lltsv 0.6.1-2
   * 背景色パッチをあててアップロードしておいた。
+* lsof/4.93.2+dfsg-1
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=940863 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=950601 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=961248 が同じ問題なのでforcemerge
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=950601#10 のパッチが妥当そうなのでメンテナにCc:でコメント。
