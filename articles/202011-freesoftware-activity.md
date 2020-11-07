@@ -10,3 +10,5 @@ published: false
   * ユーザーアカウント関連の記述がないのでフィードバックした。
 * debexpo https://salsa.debian.org/mentors.debian.net-team/debexpo/-/merge_requests/165
   * サーバー起動時のポート番号があっていないのでフィードバックした。
+* debexpo https://salsa.debian.org/mentors.debian.net-team/debexpo/-/merge_requests/167
+  * パッケージがDebianにすでにあるのかどうかをPackage listから区別できるようにした
