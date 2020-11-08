@@ -14,3 +14,5 @@ published: false
   * パッケージがDebianにすでにあるのかどうかをPackage listから区別できるようにした
 * planet-team https://salsa.debian.org/planet-team/config
   * configにhackergotchiと呼ばれるfaceimageを設定した
+* [http://rt.debian.org #8461]
+  * やめたDDのdnsZoneEntryの取扱について消すか残すか分別しようとメールした
