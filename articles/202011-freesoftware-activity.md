@@ -12,3 +12,5 @@ published: false
   * サーバー起動時のポート番号があっていないのでフィードバックした。
 * debexpo https://salsa.debian.org/mentors.debian.net-team/debexpo/-/merge_requests/167
   * パッケージがDebianにすでにあるのかどうかをPackage listから区別できるようにした
+* planet-team https://salsa.debian.org/planet-team/config
+  * configにhackergotchiと呼ばれるfaceimageを設定した
