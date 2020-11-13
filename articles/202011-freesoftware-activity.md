@@ -6,6 +6,7 @@ topics: ["Debian"]
 published: false
 ---
 
+* fabre.debian.netを取得し、Aレコードを設定した
 * debexpo https://salsa.debian.org/mentors.debian.net-team/debexpo/-/issues/125
   * ユーザーアカウント関連の記述がないのでフィードバックした。
 * debexpo https://salsa.debian.org/mentors.debian.net-team/debexpo/-/merge_requests/165
