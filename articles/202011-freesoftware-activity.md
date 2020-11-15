@@ -19,3 +19,5 @@ published: false
   * configにhackergotchiと呼ばれるfaceimageを設定した
 * [http://rt.debian.org #8461]
   * やめたDDのdnsZoneEntryの取扱について消すか残すか分別しようとメールした
+* lltsv_0.7.0-1
+  * unstableへとアップロードした
