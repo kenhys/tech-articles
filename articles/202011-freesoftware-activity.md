@@ -13,6 +13,7 @@ published: false
   * サーバー起動時のポート番号があっていないのでフィードバックした。
 * debexpo https://salsa.debian.org/mentors.debian.net-team/debexpo/-/merge_requests/167
   * パッケージがDebianにすでにあるのかどうかをPackage listから区別できるようにした
+  * ↑のMRをどうすすめるべきか相談した
 * https://kenhys.hatenablog.jp/entry/2020/11/08/151654
   * ↑のPRに関して、planet.d.o向け記事を書いた
 * planet-team https://salsa.debian.org/planet-team/config
@@ -21,3 +22,7 @@ published: false
   * やめたDDのdnsZoneEntryの取扱について消すか残すか分別しようとメールした
 * lltsv_0.7.0-1
   * unstableへとアップロードした
+* https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-debexpo-20201121/
+  * Debian勉強会 12月の資料を作成した。
+* libbenchmark-dev https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=968461
+  * .aがシンボルをエクスポートしていない不具合について調べてみた。-fltoを-ffat-lto-objectsを適用するとたしかに良さそうであることを確認した。
