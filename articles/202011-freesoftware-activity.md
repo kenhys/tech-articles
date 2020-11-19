@@ -26,3 +26,5 @@ published: false
   * Debian勉強会 12月の資料を作成した。
 * libbenchmark-dev https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=968461
   * .aがシンボルをエクスポートしていない不具合について調べてみた。-fltoを-ffat-lto-objectsを適用するとたしかに良さそうであることを確認した。
+* https://salsa.debian.org/science-team/benchmark/-/merge_requests/1
+  * libbenchmarkでシンボルの問題を修正してMRを投げた。
