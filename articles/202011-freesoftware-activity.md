@@ -30,3 +30,5 @@ published: false
   * libbenchmarkでシンボルの問題を修正してMRを投げた。
 * lsof https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=950601
   * manpageの問題を修正してDELAYED/10にした。dput --delayed 10 lsof_4.93.2+dfsg-1.1_source.changes
+* google/benchmark https://github.com/google/benchmark/issues/1070
+  * masterでも再現しようとしたが、ビルドエラーになるのでIssueでフィードバック
