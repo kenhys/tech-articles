@@ -32,3 +32,5 @@ published: false
   * manpageの問題を修正してDELAYED/10にした。dput --delayed 10 lsof_4.93.2+dfsg-1.1_source.changes
 * google/benchmark https://github.com/google/benchmark/issues/1070
   * masterでも再現しようとしたが、ビルドエラーになるのでIssueでフィードバック
+* mentors.d.nについて発表 https://debianjp.connpass.com/event/194059/
+  * Debian勉強会 2020年11月で発表しました
