@@ -34,3 +34,5 @@ published: false
   * masterでも再現しようとしたが、ビルドエラーになるのでIssueでフィードバック
 * mentors.d.nについて発表 https://debianjp.connpass.com/event/194059/
   * Debian勉強会 2020年11月で発表しました
+* https://mentors.debian.net/package/awf-gtk3/#upload-1
+  * awf-gtk2についてレビューのコメントをした。ただしawfにフィードバックするほうがプロジェクトのすすめかたとしてよかったんじゃないかという気がする。
