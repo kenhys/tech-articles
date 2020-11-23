@@ -36,3 +36,5 @@ published: false
   * Debian勉強会 2020年11月で発表しました
 * https://mentors.debian.net/package/awf-gtk3/#upload-1
   * awf-gtk2についてレビューのコメントをした。ただしawfにフィードバックするほうがプロジェクトのすすめかたとしてよかったんじゃないかという気がする。
+* fcitx-imlist 0.5.1-6
+  * uscanのエラーを修正した0.5.1-6をアップロードした。
