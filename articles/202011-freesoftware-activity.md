@@ -40,3 +40,5 @@ published: false
   * uscanのエラーを修正した0.5.1-6をアップロードした。
 * libhinawa 2.1.0-1
   * unstableに2.1.0-1をアップロードした。2.2.0はアーカイブの扱いが不明なので確認中。
+* https://fabre.xdump.org/bugs/show/955835
+  * enchant-2のバグが修正されていたのでclose
