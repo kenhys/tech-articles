@@ -42,3 +42,5 @@ published: false
   * unstableに2.1.0-1をアップロードした。2.2.0はアーカイブの扱いが不明なので確認中。
 * https://fabre.xdump.org/bugs/show/955835
   * enchant-2のバグが修正されていたのでclose
+* 11/30 libhinawa https://salsa.debian.org/debian/libhinawa/-/issues/16
+  * 2.2.0-1をアップロードした
