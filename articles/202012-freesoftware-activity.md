@@ -14,3 +14,5 @@ published: false
   * すでにQA扱いだし、RM: libhal1-flash -- RoQA; No longer maintained and replaced by HTML5(DRM)の削除リクエストに変更した。
 * 12/6 https://mentors.debian.net/package/ngraph-gtk/#upload-1
   * ngraph-gtk 6.08.08-1 がスポンサー待ちだったのでビルドしてみたらテストがこけたのでフィードバックした。
+* 12/7 https://mentors.debian.net/package/budgie-desktop-view/#upload-1
+  * budgie-desktop-view 1.0.2-1のスポンサー待ちだったのでフィードバックした。
