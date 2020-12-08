@@ -16,3 +16,5 @@ published: false
   * ngraph-gtk 6.08.08-1 がスポンサー待ちだったのでビルドしてみたらテストがこけたのでフィードバックした。
 * 12/7 https://mentors.debian.net/package/budgie-desktop-view/#upload-1
   * budgie-desktop-view 1.0.2-1のスポンサー待ちだったのでフィードバックした。
+* 12/8 https://mentors.debian.net/package/ngraph-gtk/
+  * ngraph-gtk 6.08.08-1 のスポンサーアップロードをした。
