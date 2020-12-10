@@ -72,7 +72,7 @@ sudo apt install dropbear busybox
 そのあと、initramfsを作り直します。
 
 ```
-$ sudo update-initramfs -uしなおした。
+$ sudo update-initramfs -u
 ```
 
 ## IPアドレスの指定
@@ -113,9 +113,9 @@ opensshのホスト鍵にそろえてしまいましょう。
 
 ```
 $ sudo rm -f /etc/dropbear-initramfs/dropbear_dss_host_key
-$ sudo ropbearconvert openssh dropbear /etc/ssh/ssh_host_ecds_key /etc/dropbear-initramfs/dropbear_ecdsa_host_key
-$ sudo ropbearconvert openssh dropbear /etc/ssh/ssh_host_ed25519_key /etc/dropbear-initramfs/dropbear_ed25519_host_key
-$ sudo ropbearconvert openssh dropbear /etc/ssh/ssh_host_rsa_key /etc/dropbear-initramfs/dropbear_rsa_host_key
+$ sudo dropbearconvert openssh dropbear /etc/ssh/ssh_host_ecds_key /etc/dropbear-initramfs/dropbear_ecdsa_host_key
+$ sudo dropbearconvert openssh dropbear /etc/ssh/ssh_host_ed25519_key /etc/dropbear-initramfs/dropbear_ed25519_host_key
+$ sudo dropbearconvert openssh dropbear /etc/ssh/ssh_host_rsa_key /etc/dropbear-initramfs/dropbear_rsa_host_key
 ```
 
 dropbear_dss_host_keyに対応するものはないので削除しています。なくても問題ないです。
