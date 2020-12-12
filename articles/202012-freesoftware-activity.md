@@ -18,3 +18,5 @@ published: false
   * budgie-desktop-view 1.0.2-1のスポンサー待ちだったのでフィードバックした。
 * 12/8 https://mentors.debian.net/package/ngraph-gtk/
   * ngraph-gtk 6.08.08-1 のスポンサーアップロードをした。
+* 12/12 https://in2021.mini.debconf.org/contribute/cfp/
+  * MiniDebConf India 2021のCfPを投げた
