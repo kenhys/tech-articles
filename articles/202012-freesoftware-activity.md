@@ -20,3 +20,7 @@ published: false
   * ngraph-gtk 6.08.08-1 のスポンサーアップロードをした。
 * 12/12 https://in2021.mini.debconf.org/contribute/cfp/
   * MiniDebConf India 2021のCfPを投げた
+* 12/19 https://zenn.dev/kenhys/articles/20201219-lenovo-advent-calendar
+  * "Debian: fabre.debian.netの開発の進め方と運用、得た学びの話" について記事を書いた
+* 12/21 https://zenn.dev/kenhys/articles/20201221-lenovo-advent-calendar
+  * "Debian: Debian: 在宅勤務するにあたりいまさらやったリモートでの起動・シャットダウンの設定をした話" について記事を書いた
