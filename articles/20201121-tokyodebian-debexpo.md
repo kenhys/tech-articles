@@ -1,5 +1,5 @@
 ---
-title: "Debian: Introduction about recent debexpo (mentors.debian.net)"
+title: "Debian: Introduction about recent debexpo (mentors.d.n)"
 emoji: "🪔"
 type: "tech"
 topics: ["Debian"]
