@@ -3,7 +3,7 @@ title: "Debian: 在宅勤務するにあたりいまさらやったリモート�
 emoji: "🪔"
 type: "ideas"
 topics: ["Debian"]
-published: false
+published: true
 ---
 
 # はじめに
