@@ -26,3 +26,5 @@ published: false
   * "Debian: fabre.debian.netの開発の進め方と運用、得た学びの話" について記事を書いた
 * 12/21 https://zenn.dev/kenhys/articles/20201221-lenovo-advent-calendar
   * "Debian: Debian: 在宅勤務するにあたりいまさらやったリモートでの起動・シャットダウンの設定をした話" について記事を書いた
+* 12/22 https://github.com/collectd/collectd/pull/3795
+  * collectdのluaプラグインをv6.0に対応させた(つもり)
