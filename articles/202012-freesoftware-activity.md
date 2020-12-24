@@ -28,3 +28,5 @@ published: false
   * "Debian: Debian: 在宅勤務するにあたりいまさらやったリモートでの起動・シャットダウンの設定をした話" について記事を書いた
 * 12/22 https://github.com/collectd/collectd/pull/3795
   * collectdのluaプラグインをv6.0に対応させた(つもり)
+* 12/24 budgie-desktop-view_1.1-1_source.changes
+  * budgie-desktop-view_1.1-1のスポンサーアップロードをした。
