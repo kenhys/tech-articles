@@ -30,3 +30,4 @@ published: false
   * collectdのluaプラグインをv6.0に対応させた(つもり)
 * 12/24 budgie-desktop-view_1.1-1_source.changes
   * budgie-desktop-view_1.1-1のスポンサーアップロードをした。
+* 12/25 groonga 10.1.0-1をunstableにアップロードした
