@@ -31,3 +31,9 @@ published: false
 * 12/24 budgie-desktop-view_1.1-1_source.changes
   * budgie-desktop-view_1.1-1のスポンサーアップロードをした。
 * 12/25 groonga 10.1.0-1をunstableにアップロードした
+* 12/27
+  * https://mentors.debian.net/package/dnf/#upload-1
+  * https://mentors.debian.net/package/libcomps/#upload-1
+  * https://mentors.debian.net/package/libdnf/#upload-1
+    * スポンサー探しているっぽいのでざっくりコメントした。ITPされていなかったっけ？
+
