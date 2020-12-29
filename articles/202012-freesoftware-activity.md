@@ -36,4 +36,7 @@ published: false
   * https://mentors.debian.net/package/libcomps/#upload-1
   * https://mentors.debian.net/package/libdnf/#upload-1
     * スポンサー探しているっぽいのでざっくりコメントした。ITPされていなかったっけ？
+* 12/29
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=978068
+    * digimend-dkmsをnew queueにアップロードした
 
