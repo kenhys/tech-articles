@@ -39,4 +39,7 @@ published: false
 * 12/29
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=978068
     * digimend-dkmsをnew queueにアップロードした
-
+* 12/30
+  * https://mentors.debian.net/package/dnf/
+  * https://mentors.debian.net/package/libdnf/
+    * パッケージングに関してコメントしておいた
