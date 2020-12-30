@@ -43,3 +43,5 @@ published: false
   * https://mentors.debian.net/package/dnf/
   * https://mentors.debian.net/package/libdnf/
     * パッケージングに関してコメントしておいた
+  * https://mentors.debian.net/package/ngraph-gtk/#upload-1
+    * ngraph-gtkに関してコメントしておいた
