@@ -45,3 +45,5 @@ published: false
     * パッケージングに関してコメントしておいた
   * https://mentors.debian.net/package/ngraph-gtk/#upload-1
     * ngraph-gtkに関してコメントしておいた
+* 12/31
+  * ngraph-gtk_6.08.09-1のスポンサーアップロードをした
