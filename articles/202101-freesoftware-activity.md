@@ -16,3 +16,5 @@ published: false
   * fabre.debian.netのスポンサーに関してDPLにメールを投げた
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=979040 についてdebian-scienceにメールを投げた
   * https://fosshost.org/apply に応募してみた
+* 1/6
+  * Debian勉強会2月の資料を作成した
