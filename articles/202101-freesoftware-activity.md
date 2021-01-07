@@ -18,3 +18,6 @@ published: false
   * https://fosshost.org/apply に応募してみた
 * 1/6
   * Debian勉強会2月の資料を作成した
+* 1/7 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=979505
+  * rtl8761bのパッチの適用を依頼するメールを投げた
+
