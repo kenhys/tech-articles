@@ -20,4 +20,6 @@ published: false
   * Debian勉強会2月の資料を作成した
 * 1/7 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=979505
   * rtl8761bのパッチの適用を依頼するメールを投げた
-
+* 1/10 fabre.debian.netドメインでメールを使えるようにdnsZoneEntryをセットアップした
+* 1/10 https://kenhys.hatenablog.jp/entry/2021/01/10/222005
+  * fabre.debian.netをさくらのメールで運用する手順を書いた
