@@ -26,3 +26,5 @@ published: false
 * 1/12 https://ubuntujp.connpass.com/event/199568/
   * 発表資料を更新した
 * 1/12 budgie-desktop-view_1.1.1-1_source.changesのスポンサーアップロード
+* 1/12 https://mentors.debian.net/package/dnf/#upload-1
+  * dnf mentors.d.nについてコメントしておいた
