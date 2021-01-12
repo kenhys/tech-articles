@@ -23,3 +23,5 @@ published: false
 * 1/10 fabre.debian.netドメインでメールを使えるようにdnsZoneEntryをセットアップした
 * 1/10 https://kenhys.hatenablog.jp/entry/2021/01/10/222005
   * fabre.debian.netをさくらのメールで運用する手順を書いた
+* 1/12 https://ubuntujp.connpass.com/event/199568/
+  * 発表資料を更新した
