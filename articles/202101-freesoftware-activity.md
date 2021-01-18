@@ -28,3 +28,10 @@ published: false
 * 1/12 budgie-desktop-view_1.1.1-1_source.changesのスポンサーアップロード
 * 1/12 https://mentors.debian.net/package/dnf/#upload-1
   * dnf mentors.d.nについてコメントしておいた
+* 1/14 https://twitter.com/fosshostorg/status/1349450314890551297
+  * fosshostへの応募が受理された
+* 1/17 https://ubuntujp.connpass.com/event/199568/
+  * Ubuntu Streaming Meeting 21.01 にてLT実施した
+* 1/17 https://docs.fosshost.org/en/home/how-to-connect-to-your-virtual-instance
+  * Proxmoxが既定で無効という記述が古いのをフィードバックした
+* 1/17 fosshostのVPSインスタンスを提供してもらった
