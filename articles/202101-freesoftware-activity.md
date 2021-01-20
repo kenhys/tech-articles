@@ -35,3 +35,4 @@ published: false
 * 1/17 https://docs.fosshost.org/en/home/how-to-connect-to-your-virtual-instance
   * Proxmoxが既定で無効という記述が古いのをフィードバックした
 * 1/17 fosshostのVPSインスタンスを提供してもらった
+* 1/19 fabre.debian.netをWebARENA(indigo)からfosshostに移転した
