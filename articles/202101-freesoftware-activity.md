@@ -36,3 +36,8 @@ published: false
   * Proxmoxが既定で無効という記述が古いのをフィードバックした
 * 1/17 fosshostのVPSインスタンスを提供してもらった
 * 1/19 fabre.debian.netをWebARENA(indigo)からfosshostに移転した
+* 1/20 https://peertube.debian.social/videos/watch/f686058f-272d-4e21-a894-56682d5a3dd1
+  * MiniDebConf India 2021 LTを事前録画した
+* 1/20 https://slide.rabbit-shocker.org/authors/kenhys/minidebconf-india2021/
+  * MiniDebConf India 2021 LTの資料を事前公開(修正)
+  
