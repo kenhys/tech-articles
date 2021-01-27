@@ -40,4 +40,4 @@ published: false
   * MiniDebConf India 2021 LTを事前録画した
 * 1/20 https://slide.rabbit-shocker.org/authors/kenhys/minidebconf-india2021/
   * MiniDebConf India 2021 LTの資料を事前公開(修正)
-  
+* 1/25 Groonga 10.1.1をアップロードした
