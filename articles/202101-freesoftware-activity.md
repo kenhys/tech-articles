@@ -43,3 +43,5 @@ published: false
 * 1/25 Groonga 10.1.1をアップロードした
 * 1/27 https://support.fossho.st/tickets.php?id=43
   * fosshost.orgにバナーサイズについてフィードバックした
+* 1/30 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=979040
+  * Pythonモジュールがロードできない問題のデバッグ
