@@ -10,4 +10,5 @@ published: false
   * cutterのFTBFSのフィードバック
 * 2/6 digimend-dkms 10-2
   * testinがブロックされているのでsource only upload 
-
+* 2/6 groonga 10.1.1-1
+  * タグを打ち忘れていたのでgit push --tags
