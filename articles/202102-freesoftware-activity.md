@@ -12,3 +12,9 @@ published: false
   * testinがブロックされているのでsource only upload 
 * 2/6 groonga 10.1.1-1
   * タグを打ち忘れていたのでgit push --tags
+* 2/8 groonga 11.0.0-1
+  * unstableにアップロードした
+* 2/8 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=982294
+  * collectdのcollection3に問題があったのでフィードバックした
+* 2/8 https://github.com/collectd/collectd/pull/3840
+  * パッチをupstreamにもフィードバックした
