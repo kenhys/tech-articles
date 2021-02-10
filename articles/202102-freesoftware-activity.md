@@ -18,3 +18,5 @@ published: false
   * collectdのcollection3に問題があったのでフィードバックした
 * 2/8 https://github.com/collectd/collectd/pull/3840
   * パッチをupstreamにもフィードバックした
+* 2/10 https://salsa.debian.org/debian/pkg-collectd/-/merge_requests/6
+  * collectdのパッケージに反映してもらうためにMR
