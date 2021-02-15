@@ -20,3 +20,6 @@ published: false
   * パッチをupstreamにもフィードバックした
 * 2/10 https://salsa.debian.org/debian/pkg-collectd/-/merge_requests/6
   * collectdのパッケージに反映してもらうためにMR
+* 2/15 https://github.com/lionsoul2014/friso/pull/13
+  * 以前frisoに投げたPRをサルベージした
+  * friso 1.6.4-1をnew queueにアップロードした
