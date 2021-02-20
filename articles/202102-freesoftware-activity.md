@@ -23,3 +23,7 @@ published: false
 * 2/15 https://github.com/lionsoul2014/friso/pull/13
   * 以前frisoに投げたPRをサルベージした
   * friso 1.6.4-1をnew queueにアップロードした
+* 2/18 https://github.com/ankane/isotree/issues/1
+  * isotreeでモデルのエクスポートに関してフィードバック
+* 2/20 https://debianjp.connpass.com/event/202518/
+  * Debian勉強会でModSecurityに関して発表した
