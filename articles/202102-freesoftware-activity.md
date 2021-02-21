@@ -30,3 +30,5 @@ published: false
 * 2/21 https://github.com/fluent/fluent-bit-docs/issues/472
   * fluent-bitのドキュメントにフィードバック
 * 2/21 debian-privateのfundに関する議論にコメント
+* 2/21 https://github.com/clear-code/lua-collectd-monitor/pull/3
+  * lua-collectd-monitorでcollectd.confのパスが環境依存なのをフィードバック
