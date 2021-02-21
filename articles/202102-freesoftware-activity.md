@@ -29,3 +29,4 @@ published: false
   * Debian勉強会でModSecurityに関して発表した
 * 2/21 https://github.com/fluent/fluent-bit-docs/issues/472
   * fluent-bitのドキュメントにフィードバック
+* 2/21 debian-privateのfundに関する議論にコメント
