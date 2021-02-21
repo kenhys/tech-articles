@@ -27,6 +27,7 @@ published: false
   * isotreeでモデルのエクスポートに関してフィードバック
 * 2/20 https://debianjp.connpass.com/event/202518/
   * Debian勉強会でModSecurityに関して発表した
+  * https://kenhys.hatenablog.jp/entry/2021/02/20/231233
 * 2/21 https://github.com/fluent/fluent-bit-docs/issues/472
   * fluent-bitのドキュメントにフィードバック
 * 2/21 debian-privateのfundに関する議論にコメント
