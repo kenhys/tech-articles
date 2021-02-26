@@ -12,6 +12,8 @@ published: false
   * testinがブロックされているのでsource only upload 
 * 2/6 groonga 10.1.1-1
   * タグを打ち忘れていたのでgit push --tags
+* 2/6 https://peertube.debian.social/videos/watch/52e43ec2-0fb7-4f81-aca9-4c06fa60d2a0
+  * Debian Quiz的な動画をお試しで作成してみた
 * 2/8 groonga 11.0.0-1
   * unstableにアップロードした
 * 2/8 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=982294
