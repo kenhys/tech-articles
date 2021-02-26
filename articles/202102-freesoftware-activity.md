@@ -35,3 +35,7 @@ published: false
 * 2/21 debian-privateのfundに関する議論にコメント
 * 2/21 https://github.com/clear-code/lua-collectd-monitor/pull/3
   * lua-collectd-monitorでcollectd.confのパスが環境依存なのをフィードバック
+* 2/26 https://gitlab.com/giomasce/dqib/-/issues/3
+  * m68kのイメージがないので報告した
+* 2/26 https://github.com/pyama86/mruby-acme-client/pull/10
+  * multiple definitionを修正した
