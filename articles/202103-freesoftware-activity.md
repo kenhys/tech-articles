@@ -16,3 +16,5 @@ published: false
   * libbenchmark-devのLTOをstrip対象からはずすフィードバック
 * 3/9 https://salsa.debian.org/science-team/benchmark/-/merge_requests/3
   * autopkgtestに失敗する問題をフィードバック
+* 3/13 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=985133
+  * nginxの3rd partyモジュールをパッケージングするためにフィードバック
