@@ -18,3 +18,6 @@ published: false
   * autopkgtestに失敗する問題をフィードバック
 * 3/13 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=985133
   * nginxの3rd partyモジュールをパッケージングするためにフィードバック
+* 3/15 https://wiki.debian.org/Teams/DPL/Reimbursement
+  * SPIのreimbursementの手続き実施
+  
