@@ -20,4 +20,5 @@ published: false
   * nginxの3rd partyモジュールをパッケージングするためにフィードバック
 * 3/15 https://wiki.debian.org/Teams/DPL/Reimbursement
   * SPIのreimbursementの手続き実施
-  
+* 3/16 https://support.fossho.st/tickets.php?id=124
+  * IPv6の提供に関してfosshostに相談した
