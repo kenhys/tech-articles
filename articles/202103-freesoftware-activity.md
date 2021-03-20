@@ -22,3 +22,5 @@ published: false
   * SPIのreimbursementの手続き実施
 * 3/16 https://support.fossho.st/tickets.php?id=124
   * IPv6の提供に関してfosshostに相談した
+* 3/20 https://kenhys.hatenablog.jp/archive/2021/03/20
+  * fabre.deban.netをIPv6対応した
