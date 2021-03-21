@@ -24,3 +24,5 @@ published: false
   * IPv6の提供に関してfosshostに相談した
 * 3/20 https://kenhys.hatenablog.jp/archive/2021/03/20
   * fabre.deban.netをIPv6対応した
+* 3/21 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=973188
+  * virt-topがFTBFSなのでパッチをフィードバック
