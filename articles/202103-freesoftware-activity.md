@@ -26,3 +26,5 @@ published: false
   * fabre.deban.netをIPv6対応した
 * 3/21 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=973188
   * virt-topがFTBFSなのでパッチをフィードバック
+* 3/29 https://mentors.debian.net/package/vimb/#upload-2
+  * vimbに関してフィードバックしておいた。
