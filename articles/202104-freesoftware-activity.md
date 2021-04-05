@@ -11,4 +11,4 @@ published: false
 * 4/3 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=985726
   * MRすでに投げているのでコメントしておいた
 * 4/3 https://github.com/clear-code/lua-collectd-monitor/pull/6
-  * ConfigPathが/etc/collectd/collectd.confな環境で設定ファイルのお着替えが失敗したときのログをだすように修正(副作用でただしく置き換えできるようになる)
+  * ConfigPathが/etc/collectd/collectd.confな環境で設定ファイルの置き換えが失敗したときのログをだすように修正(副作用でただしく置き換えできるようになる)
