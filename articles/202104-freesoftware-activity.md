@@ -12,3 +12,5 @@ published: false
   * MRすでに投げているのでコメントしておいた
 * 4/3 https://github.com/clear-code/lua-collectd-monitor/pull/6
   * ConfigPathが/etc/collectd/collectd.confな環境で設定ファイルの置き換えが失敗したときのログをだすように修正(副作用でただしく置き換えできるようになる)
+* 4/5 https://github.com/TarekRaafat/autoComplete.js/pull/197
+  * custom js fileのサンプルの誤りを修正
