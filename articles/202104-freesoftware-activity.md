@@ -14,3 +14,5 @@ published: false
   * ConfigPathが/etc/collectd/collectd.confな環境で設定ファイルの置き換えが失敗したときのログをだすように修正(副作用でただしく置き換えできるようになる)
 * 4/5 https://github.com/TarekRaafat/autoComplete.js/pull/197
   * custom js fileのサンプルの誤りを修正
+* 4/10 https://salsa.debian.org/debian/grow-your-ideas
+  * アイデアをトラッキングするための取り組みを始めた。Project Fundingほどにまとまっていない問題を掘り起こしたい
