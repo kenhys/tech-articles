@@ -16,3 +16,5 @@ published: false
   * custom js fileのサンプルの誤りを修正
 * 4/10 https://salsa.debian.org/debian/grow-your-ideas
   * アイデアをトラッキングするための取り組みを始めた。Project Fundingほどにまとまっていない問題を掘り起こしたい
+* 4/11 https://www.debian.org/vote/2021/vote_002
+  * General Resolution: Statement regarding Richard Stallman's readmission to the FSF boardに投票した。
