@@ -18,3 +18,5 @@ published: false
   * アイデアをトラッキングするための取り組みを始めた。Project Fundingほどにまとまっていない問題を掘り起こしたい
 * 4/11 https://www.debian.org/vote/2021/vote_002
   * General Resolution: Statement regarding Richard Stallman's readmission to the FSF boardに投票した。
+* 4/15 https://ddtp.debian.org/ddtss/index.cgi/ja
+  * DDTSSで翻訳のレビュー実施
