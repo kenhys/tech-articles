@@ -20,3 +20,5 @@ published: false
   * General Resolution: Statement regarding Richard Stallman's readmission to the FSF boardに投票した。
 * 4/15 https://ddtp.debian.org/ddtss/index.cgi/ja
   * DDTSSで翻訳のレビュー実施
+* 4/17 https://salsa.debian.org/webmaster-team/webwml/-/merge_requests/685
+  * translating.wmlの記述が古いので更新してみた
