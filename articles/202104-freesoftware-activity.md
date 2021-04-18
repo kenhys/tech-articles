@@ -22,3 +22,5 @@ published: false
   * DDTSSで翻訳のレビュー実施
 * 4/17 https://salsa.debian.org/webmaster-team/webwml/-/merge_requests/685
   * translating.wmlの記述が古いので更新してみた
+* 4/18 https://salsa.debian.org/ddp-team/release-notes/-/merge_requests/87
+  * リリースノートのfuzzyを修正
