@@ -24,3 +24,5 @@ published: false
   * translating.wmlの記述が古いので更新してみた
 * 4/18 https://salsa.debian.org/ddp-team/release-notes/-/merge_requests/87
   * リリースノートのfuzzyを修正
+* 4/19 https://salsa.debian.org/ddp-team/release-notes/-/merge_requests/90
+  * リリースノートの古いパッケージの説明を修正
