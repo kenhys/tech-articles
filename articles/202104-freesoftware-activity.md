@@ -32,3 +32,5 @@ published: false
   * リリースノートのObsolescence and deprecationを更新
 * 4/24 https://salsa.debian.org/mentors.debian.net-team/debexpo/-/merge_requests/179
   * debexpoでcreate_userコマンドを実装した
+* 4/24 https://salsa.debian.org/mentors.debian.net-team/debexpo/-/merge_requests/180
+  * debexpoの開発環境ではallow hostsの制限を緩める設定
