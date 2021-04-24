@@ -26,3 +26,8 @@ published: false
   * リリースノートのfuzzyを修正
 * 4/19 https://salsa.debian.org/ddp-team/release-notes/-/merge_requests/90
   * リリースノートの古いパッケージの説明を修正
+* 4/24 https://salsa.debian.org/debian/grow-your-ideas/-/issues/2
+  * MoinMoinの状況についてissueにまとめておいた
+* 4/24 https://salsa.debian.org/ddp-team/release-notes/-/merge_requests/93
+  * リリースノートのObsolescence and deprecationを更新
+  
