@@ -30,4 +30,5 @@ published: false
   * MoinMoinの状況についてissueにまとめておいた
 * 4/24 https://salsa.debian.org/ddp-team/release-notes/-/merge_requests/93
   * リリースノートのObsolescence and deprecationを更新
-  
+* 4/24 https://salsa.debian.org/mentors.debian.net-team/debexpo/-/merge_requests/179
+  * debexpoでcreate_userコマンドを実装した
