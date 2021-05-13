@@ -15,3 +15,5 @@ published: false
   * digiment-dkms 10-3のアップロード
 * 5/11 https://mentors.debian.net/package/budgie-screensaver/#upload-1
   * budgie-screensaverのレビュー
+* 5/13 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=988459
+  * digiment-dkmsのunblockリクエスト
