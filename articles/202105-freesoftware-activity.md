@@ -17,3 +17,5 @@ published: false
   * budgie-screensaverのレビュー
 * 5/13 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=988459
   * digiment-dkmsのunblockリクエスト
+* 5/27 https://docs.fosshost.org/en/home/what-do-we-expect
+  * Code of Conductのリンクが正しくないのをフィードバックした
