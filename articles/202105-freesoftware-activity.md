@@ -19,3 +19,5 @@ published: false
   * digiment-dkmsのunblockリクエスト
 * 5/27 https://docs.fosshost.org/en/home/what-do-we-expect
   * Code of Conductのリンクが正しくないのをフィードバックした
+* 5/28 https://slide.rabbit-shocker.org/authors/kenhys/osc2021-online-nagoya-lt-20210529/
+  * OSC 2021 Online/Nagoya Lightning Talks資料を公開
