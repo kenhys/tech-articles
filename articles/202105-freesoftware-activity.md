@@ -21,3 +21,5 @@ published: false
   * Code of Conductのリンクが正しくないのをフィードバックした
 * 5/28 https://slide.rabbit-shocker.org/authors/kenhys/osc2021-online-nagoya-lt-20210529/
   * OSC 2021 Online/Nagoya Lightning Talks資料を公開
+* 5/31 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=989286
+  * rinseでCentOS 8のchrootつくれない問題をフィードバックした
