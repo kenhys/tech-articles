@@ -15,3 +15,5 @@ published: false
   * READMEを更新 debian.net-teamへの案内を追加した
 * 6/4 https://salsa.debian.org/debian.net-team/requests/-/issues/1
   * VPSのリクエストを投げてみた
+* 6/12 
+  * fabre.debian.netをFOSSHOSTからDebian.net Team管轄下へと移転
