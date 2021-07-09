@@ -12,3 +12,6 @@ published: false
   * FTBFSとSecurityタブを実装した
 * 7/1 https://fabre.debian.net/bugs/show/988734
   * Lua 5.3のバグでパッチを投げた
+* 7/6 fabreでcriticalの別タブ表示に対応した
+* 7/9 https://github.com/owncloud/docs/pull/3803
+  * password_policyのドキュメントの表が壊れているので修正した
