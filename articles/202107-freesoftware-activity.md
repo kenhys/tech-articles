@@ -20,3 +20,5 @@ published: false
     * munin-nodeが起動に失敗する件の修正
 * 7/13 https://salsa.debian.org/debian.net-team/infra/-/merge_requests/6
   * bullseye以降済みなので更新
+* 7/14 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=991103
+  * collectdのunblock (pre-approval)リクエスト。hard freezeなので無理かな。。。
