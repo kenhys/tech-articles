@@ -22,3 +22,5 @@ published: false
   * bullseye以降済みなので更新
 * 7/14 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=991103
   * collectdのunblock (pre-approval)リクエスト。hard freezeなので無理かな。。。
+* 7/20 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=991103
+  * リリースチームからOKでたのでcollectd 5.12.0-7をunstableにアップロード。
