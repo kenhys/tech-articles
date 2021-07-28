@@ -24,3 +24,5 @@ published: false
   * collectdのunblock (pre-approval)リクエスト。hard freezeなので無理かな。。。
 * 7/20 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=991103
   * リリースチームからOKでたのでcollectd 5.12.0-7をunstableにアップロード。
+* 7/28 https://lists.debian.org/debconf-team/2021/07/msg00012.html
+  * DebConf21のetherpadの証明書が正しくないのをdebconf-teamにフィードバック
