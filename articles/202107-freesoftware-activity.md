@@ -26,3 +26,4 @@ published: false
   * リリースチームからOKでたのでcollectd 5.12.0-7をunstableにアップロード。
 * 7/28 https://lists.debian.org/debconf-team/2021/07/msg00012.html
   * DebConf21のetherpadの証明書が正しくないのをdebconf-teamにフィードバック
+* 7/31 OSS Gateオンボーディングの応募者への対応
