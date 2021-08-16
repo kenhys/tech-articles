@@ -14,3 +14,4 @@ published: false
 * 8/14 https://github.com/oss-gate/on-boarding/issues/19
   * OSS Gateオンボーディング次回準備
 * 8/15 DebConf事前録画
+* 8/16 Groonga 11.0.5をunstableにアップロードした
