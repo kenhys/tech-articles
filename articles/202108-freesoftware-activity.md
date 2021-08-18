@@ -16,3 +16,6 @@ published: false
 * 8/15 DebConf事前録画
 * 8/16 DebConf事前録画提出した
 * 8/16 Groonga 11.0.5をunstableにアップロードした
+* 8/18 go-teamにmaintainer roleをもらえないか打診
+* 8/18 digimend-dkmsの10-4 tag push漏れを修正した。d/watchも修正した。
+* 8/18 sentencepiece 0.1.96をunstableにアップロードした。
