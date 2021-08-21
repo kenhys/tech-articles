@@ -21,3 +21,4 @@ published: false
 * 8/18 sentencepiece 0.1.96をunstableにアップロードした。
 * 8/21 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992610
   * dh-make-golangの不具合を報告した
+* 8/21 libhinawa 2.2.1-1をunstableにアップロードした。
