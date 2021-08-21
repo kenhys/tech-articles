@@ -19,3 +19,5 @@ published: false
 * 8/18 go-teamにmaintainer roleをもらえないか打診
 * 8/18 digimend-dkmsの10-4 tag push漏れを修正した。d/watchも修正した。
 * 8/18 sentencepiece 0.1.96をunstableにアップロードした。
+* 8/21 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992610
+  * dh-make-golangの不具合を報告した
