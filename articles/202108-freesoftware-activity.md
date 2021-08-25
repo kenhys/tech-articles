@@ -22,3 +22,5 @@ published: false
 * 8/21 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992610
   * dh-make-golangの不具合を報告した
 * 8/21 libhinawa 2.2.1-1をunstableにアップロードした。
+* 8/24 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992610
+  * dh-make-golangのデバッグ調査結果をフィードバック
