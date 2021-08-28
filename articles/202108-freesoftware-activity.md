@@ -24,3 +24,5 @@ published: false
 * 8/21 libhinawa 2.2.1-1をunstableにアップロードした。
 * 8/24 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=992610
   * dh-make-golangのデバッグ調査結果をフィードバック
+* 8/28 https://github.com/lionsoul2014/friso/pull/16
+  * frisoのパッケージングをしていてtypoを見つけたのでフィードバック
