@@ -30,3 +30,5 @@ published: false
 * 8/28 frisoのパッケージング作業を再開。パッチを修正。
 * 8/28 https://debconf21.debconf.org/talks/16-latest-updates-about-fabredebiannet-finding-untouched-bugs/
   * 22:00からDebConf21で発表(事前録画)と残りの時間で質疑応答
+* 8/31 https://github.com/oss-gate/on-boarding/issues/22
+  * OSS Gateオンボーディング
