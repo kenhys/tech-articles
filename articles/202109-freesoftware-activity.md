@@ -9,3 +9,4 @@ published: false
 
 * 9/3 OSS Gateオンボーディング Issue対応 MRレビュー
 * 9/4 OSS Gateオンボーディング Issue対応 MRレビュー
+* 9/11 libhinawa 2.3.0のアップロード
