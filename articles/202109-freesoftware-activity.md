@@ -15,3 +15,5 @@ published: false
   * collectd 5.12.0-7のアップロードに関してコメント
 * 9/11 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=978916
   * collectd AUTORMされちゃいそうなのでチラ見。autoreconfで再生成うまくいっていなさげだがautoconf力が足りない
+* 9/18 https://salsa.debian.org/debian/developers-reference/-/merge_requests/31
+  * developers-referenceでインラインマークアップをネストしたケースが壊れているので修正した。
