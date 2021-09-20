@@ -17,3 +17,8 @@ published: false
   * collectd AUTORMされちゃいそうなのでチラ見。autoreconfで再生成うまくいっていなさげだがautoconf力が足りない
 * 9/18 https://salsa.debian.org/debian/developers-reference/-/merge_requests/31
   * developers-referenceでインラインマークアップをネストしたケースが壊れているので修正した。
+* 9/20 https://sylpheed.sraoss.jp/redmine
+  * sylpheedのBTSが荒れていたのでissueの整理をした
+* 9/20 https://github.com/oss-gate/on-boarding/issues/25
+  * OSS Gateオンボーディングの作業状況を確認した
+  * https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/3 timeout問題の確認
