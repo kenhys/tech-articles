@@ -22,3 +22,7 @@ published: false
 * 9/20 https://github.com/oss-gate/on-boarding/issues/25
   * OSS Gateオンボーディングの作業状況を確認した
   * https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/3 timeout問題の確認
+* 9/29 https://github.com/oss-gate/on-boarding/issues/26
+  * OSS Gateオンボーディング実施
+* 9/30 https://mentors.debian.net/package/golang-github-lithammer-fuzzysearch/
+  * fuzzysearch 1.1.3のスポンサー-アップロード実施
