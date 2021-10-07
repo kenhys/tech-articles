@@ -11,3 +11,5 @@ published: false
   * +dfsgのrepack countに関して相談
 * 10/3 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=995607
   * ITP: libfreeaptx libopenaptxはすでにorphanされているし、0.2.1に更新されたら非互換になるのでadaptしない。
+* 10/8 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=993615
+  * ITPのメタ情報がおかしかったので訂正
