@@ -17,3 +17,5 @@ published: false
   * ITPのメタ情報がおかしかったので訂正
 * 10/11 https://salsa.debian.org/go-team/packages/golang-github-erroneousboat-termui/-/issues/4
   * golang-github-errneousboat-termuiのアップロードをレビューした。
+* 10/17
+  * libfreeaptxをnew queueにアップロード
