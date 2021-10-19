@@ -19,3 +19,5 @@ published: false
   * golang-github-errneousboat-termuiのアップロードをレビューした。
 * 10/17
   * libfreeaptxをnew queueにアップロード
+* 10/19 https://github.com/vivliostyle/vfm/issues/128
+  * footnoteとendnoteでどうも仕様が期待と異なっているように見えるのでissueをたててみた
