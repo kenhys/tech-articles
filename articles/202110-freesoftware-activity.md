@@ -23,3 +23,5 @@ published: false
   * footnoteとendnoteでどうも仕様が期待と異なっているように見えるのでissueをたててみた
 * 10/21 https://salsa.debian.org/debian/grow-your-ideas/-/issues/9
   * auto-uploaderの導入はよいかもしれないのでコメントしておいた
+* 10/21 https://salsa.debian.org/debian/grow-your-ideas
+  * 解決したissueのまとめ
