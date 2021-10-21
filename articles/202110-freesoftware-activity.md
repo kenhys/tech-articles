@@ -21,3 +21,5 @@ published: false
   * libfreeaptxをnew queueにアップロード
 * 10/19 https://github.com/vivliostyle/vfm/issues/128
   * footnoteとendnoteでどうも仕様が期待と異なっているように見えるのでissueをたててみた
+* 10/21 https://salsa.debian.org/debian/grow-your-ideas/-/issues/9
+  * auto-uploaderの導入はよいかもしれないのでコメントしておいた
