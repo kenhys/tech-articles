@@ -9,3 +9,5 @@ published: false
 
 * 11/4 https://salsa.debian.org/debian/grow-your-ideas/-/issues/10
   * non-VCSなパッケージの扱いに関してアイディアをフィードバック
+* 11/4 https://github.com/vivliostyle/vivliostyle.js/issues/812
+  * footnoteをテーブルで使ったときのレイアウト順が変なのでフィードバック
