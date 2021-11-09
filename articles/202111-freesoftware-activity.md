@@ -15,3 +15,5 @@ published: false
   * スポンサーアップロードした。
 * 11/8 https://salsa.debian.org/go-team/packages/golang-github-slack-go-slack/-/issues/2
   * パッチを当てることにしたので閉じた。
+* 11/9 
+  * Groonga 11.0.9をdebian/unstableにアップロード
