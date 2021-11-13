@@ -17,3 +17,7 @@ published: false
   * パッチを当てることにしたので閉じた。
 * 11/9 
   * Groonga 11.0.9をdebian/unstableにアップロード
+* 11/10 https://mentors.debian.net/package/golang-github-erroneousboat-termui/#upload-4
+  * termuiのパッケージのレビュー実施
+* 11/13 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=999609
+  * budgie-wmがAlt+Shift_Lで殺される問題をフィードバック
