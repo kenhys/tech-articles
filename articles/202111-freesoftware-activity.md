@@ -21,3 +21,5 @@ published: false
   * termuiのパッケージのレビュー実施
 * 11/13 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=999609
   * budgie-wmがAlt+Shift_Lで殺される問題をフィードバック
+* 11/14 https://salsa.debian.org/lintian/lintian/-/merge_requests/379
+  * ~dfsgを検出するルールを追加してみた
