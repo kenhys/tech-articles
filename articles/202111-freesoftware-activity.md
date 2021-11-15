@@ -23,3 +23,5 @@ published: false
   * budgie-wmがAlt+Shift_Lで殺される問題をフィードバック
 * 11/14 https://salsa.debian.org/lintian/lintian/-/merge_requests/379
   * ~dfsgを検出するルールを追加してみた
+* 11/15 https://salsa.debian.org/lintian/lintian/-/merge_requests/379
+  * フィードバック修正。infoじゃなくてwarningで移行をうながすようにした。
