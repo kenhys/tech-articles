@@ -25,3 +25,5 @@ published: false
   * ~dfsgを検出するルールを追加してみた
 * 11/15 https://salsa.debian.org/lintian/lintian/-/merge_requests/379
   * フィードバック修正。infoじゃなくてwarningで移行をうながすようにした。
+* 11/16 https://salsa.debian.org/lintian/lintian/-/merge_requests/380
+  * +dfsg1ではなく+dfsg-1を推奨するようにした。
