@@ -27,3 +27,5 @@ published: false
   * フィードバック修正。infoじゃなくてwarningで移行をうながすようにした。
 * 11/16 https://salsa.debian.org/lintian/lintian/-/merge_requests/380
   * +dfsg1ではなく+dfsg-1を推奨するようにした。
+* 11/20 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000013#10
+  * nginxのPCRE2サポートについてフィードバック
