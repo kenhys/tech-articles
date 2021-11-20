@@ -29,3 +29,5 @@ published: false
   * +dfsg1ではなく+dfsg-1を推奨するようにした。
 * 11/20 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000013#10
   * nginxのPCRE2サポートについてフィードバック
+* 11/20 https://github.com/oss-gate/oss-gate.github.io/pull/107
+  * @sivchariさんの最終レポートのレビュー実施
