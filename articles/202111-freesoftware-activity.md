@@ -31,3 +31,5 @@ published: false
   * nginxのPCRE2サポートについてフィードバック
 * 11/20 https://github.com/oss-gate/oss-gate.github.io/pull/107
   * @sivchariさんの最終レポートのレビュー実施
+* 11/27
+  * friso 1.6.4+ds-2をsource only uploadした
