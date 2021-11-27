@@ -33,3 +33,5 @@ published: false
   * @sivchariさんの最終レポートのレビュー実施
 * 11/27
   * friso 1.6.4+ds-2をsource only uploadした
+* 11/27
+  * libhinawa 2.4.0をアップロードした
