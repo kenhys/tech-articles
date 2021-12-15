@@ -14,3 +14,4 @@ published: false
   * fluent-plugin-watch-objectspace 0.2.2をリリース
 * 12/10 https://github.com/neutrinolabs/xrdp/issues/2081
   * xrdpでinbound/outboundの制限の仕様を拡張する提案
+* 12/15 Groonga 11.1.0をアップロード
