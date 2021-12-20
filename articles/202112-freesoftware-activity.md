@@ -17,3 +17,8 @@ published: false
 * 12/13 https://github.com/neutrinolabs/xrdp/pull/2082
   * xrdpでclipboardの制限をするためのPR
 * 12/15 Groonga 11.1.0をアップロード
+* 12/18 Debian勉強書いで発表した
+  * https://debianjp.connpass.com/event/233229/
+  * https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-lintian-howto-202112/
+* 12/20 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=995607
+  * libfreeaptx 0.1.1をアップロード。copyrightの抜けを修正。
