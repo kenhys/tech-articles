@@ -26,7 +26,8 @@ published: false
   * https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-lintian-howto-202112/
 * 12/20 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=995607
   * libfreeaptx 0.1.1をアップロード。copyrightの抜けを修正。
-
+* 12/21
+  * libfreeaptx 0.1.1をbinaryアップロード。うっかりsource onlyでアップロードしてrejectされたため。
 
 今年1年だと以下の発表をした。
 
