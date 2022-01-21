@@ -11,4 +11,6 @@ published: false
 
 * 1/7 https://salsa.debian.org/kernel-team/initramfs-tools/-/merge_requests/56
   * zstd --longの適用についてコメント
+* 1/19 技術書典12原稿審査提出
+* 1/21 groonga-normalizer-mysql 1.1.8をパッケージング
 * 1/22 技術書典12出展
