@@ -13,4 +13,5 @@ published: false
   * zstd --longの適用についてコメント
 * 1/19 技術書典12原稿審査提出
 * 1/21 groonga-normalizer-mysql 1.1.8をパッケージング
+* 1/21 groonga 11.1.1をパッケージング
 * 1/22 技術書典12出展
