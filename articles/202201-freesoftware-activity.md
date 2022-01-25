@@ -14,4 +14,7 @@ published: false
 * 1/19 技術書典12原稿審査提出
 * 1/21 groonga-normalizer-mysql 1.1.8をパッケージング
 * 1/21 groonga 11.1.1をパッケージング
-* 1/22 技術書典12出展
+* 1/22 技術書典12出展 https://techbookfest.org/product/5081155265101824?productVariantID=5145647017623552
+* 1/23 https://techbookfest.org/product/5081155265101824?productVariantID=5145647017623552
+  * 第二版改訂してリリース
+* 1/24 技術書典12入稿向けデータ作成
