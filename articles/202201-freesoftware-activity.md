@@ -18,3 +18,5 @@ published: false
 * 1/23 https://techbookfest.org/product/5081155265101824?productVariantID=5145647017623552
   * 第二版改訂してリリース
 * 1/24 技術書典12入稿向けデータ作成
+* 1/28 https://github.com/vivliostyle/vivliostyle-cli/issues/244
+  * vivliostyle-cliでファイルの重複を検出しにくいのをフィードバックした
