@@ -14,3 +14,5 @@ published: false
 * 2/9 https://kenhys.hatenablog.jp/entry/2022/02/09/191755
   * Debian New Contributor Guideについてplanet.debian.netに投稿
 * 2/15 Groonga 12.0.0をunstableにアップロード
+* 2/20 https://kenhys.hatenablog.jp/entry/2022/02/20/204212
+  * LinuxでWiFi 6(11ax)対応のUSB WiFiアダプター(BUFFALO WI-U3-1200AX2)を使う検証記事を書いた
