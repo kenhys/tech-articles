@@ -1,5 +1,5 @@
 ---
-title: "Debian: fabre.debian.net is sponsored by Debian.net Team Infrastructure"
+title: "Debian: fabre.debian.net is sponsored by Debian.net Team"
 emoji: "🪔"
 type: "tech"
 topics: ["Debian"]
