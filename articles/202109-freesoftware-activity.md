@@ -1,4 +1,3 @@
-
 ---
 title: "My Free Software Activities in Sep 2021"
 emoji: "🪔"
