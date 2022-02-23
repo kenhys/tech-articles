@@ -15,3 +15,7 @@ published: false
 * 2/15 Groonga 12.0.0をunstableにアップロード
 * 2/20 https://kenhys.hatenablog.jp/entry/2022/02/20/204212
   * LinuxでWiFi 6(11ax)対応のUSB WiFiアダプター(BUFFALO WI-U3-1200AX2)を使う検証記事を書いた
+* 2/23 https://github.com/BuddiesOfBudgie/budgie-desktop/pull/61
+  * budgie-desktopでクラッシュするバグがあったので修正した
+* 2/23 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=999609
+  * budgie-desktopについて修正したのでフィードバックした
