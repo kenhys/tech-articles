@@ -19,3 +19,5 @@ published: false
   * budgie-desktopでクラッシュするバグがあったので修正した
 * 2/23 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=999609
   * budgie-desktopについて修正したのでフィードバックした
+* 2/27 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=995354
+  * ruby-async-httpのバグ報告にコメント
