@@ -21,3 +21,5 @@ published: false
   * budgie-desktopについて修正したのでフィードバックした
 * 2/27 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=995354
   * ruby-async-httpのバグ報告にコメント
+* 2/28 https://techbookfest.org/product/5081155265101824?productVariantID=5145647017623552  
+  * Debian新コントリビューターガイド第三版発行
