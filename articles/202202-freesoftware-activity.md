@@ -6,7 +6,8 @@ topics: ["Debian"]
 published: false
 ---
 
-今月は技術書典12向けに新刊を書いたのがトピック。
+2月は技術書典で書いた本についてDebian勉強会で発表した。
+あと個人的に11axなUSB WiFiアダプタの対応状況について調べた。自宅に高速な回線引けていないので活かせていないけど。
 
 * 2/8 https://github.com/kenhys/rabbit-slide-kenhys-osc2022-online-spring-fluentd
   * OSC 2022 Spring向けの資料を作成した
