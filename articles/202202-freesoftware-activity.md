@@ -16,6 +16,8 @@ published: false
 * 2/19 Debian勉強会で発表
 * 2/20 https://kenhys.hatenablog.jp/entry/2022/02/20/204212
   * LinuxでWiFi 6(11ax)対応のUSB WiFiアダプター(BUFFALO WI-U3-1200AX2)を使う検証記事を書いた
+* 2/21 https://lists.debian.or.jp/pipermail/debian-users/2022-February/000787.html
+  * BUFFALO WI-U3-1200AX2の情報をdebian-usersで共有した
 * 2/23 https://github.com/BuddiesOfBudgie/budgie-desktop/pull/61
   * budgie-desktopでクラッシュするバグがあったので修正した
 * 2/23 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=999609
