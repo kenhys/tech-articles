@@ -14,3 +14,5 @@ published: false
   * ruby-webauthnがautopkgtestで失敗する件について upstreamのPRについてフィードバックしておいた
 * 3/5 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=999609
   * budgie-desktopに修正がマージされたのでその旨をフィードバックした
+* 3/5 https://salsa.debian.org/ruby-team/ruby-team.pages.debian.net/-/merge_requests/2
+  * ruby-team.pages.debian.netのマークアップがおかしかったのでフィードバック
