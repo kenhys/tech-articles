@@ -1,5 +1,5 @@
 ---
-title: "My Free Software Activities in Jan 2022"
+title: "My Free Software Activities in Feb 2022"
 emoji: "🪔"
 type: "tech"
 topics: ["Debian"]
