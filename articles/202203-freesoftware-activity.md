@@ -12,3 +12,5 @@ published: false
   * ruby-bindata 2.4.10に更新する件についてフィードバック
 * 3/5 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1005444
   * ruby-webauthnがautopkgtestで失敗する件について upstreamのPRについてフィードバックしておいた
+* 3/5 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=999609
+  * budgie-desktopに修正がマージされたのでその旨をフィードバックした
