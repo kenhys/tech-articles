@@ -18,3 +18,5 @@ published: false
   * ruby-team.pages.debian.netのマークアップがおかしかったのでフィードバック
 * 3/9 https://github.com/harperreed/google-home-notifier-python/issues/18
   * 実行時にエラーが発生するのでフィードバック
+* 3/9 https://salsa.debian.org/ruby-team/ruby-serverengine/-/merge_requests/1
+  * d/watchでうまく検出できていないのでフィードバック
