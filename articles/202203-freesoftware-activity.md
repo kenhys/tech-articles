@@ -16,3 +16,5 @@ published: false
   * budgie-desktopに修正がマージされたのでその旨をフィードバックした
 * 3/5 https://salsa.debian.org/ruby-team/ruby-team.pages.debian.net/-/merge_requests/2
   * ruby-team.pages.debian.netのマークアップがおかしかったのでフィードバック
+* 3/9 https://github.com/harperreed/google-home-notifier-python/issues/18
+  * 実行時にエラーが発生するのでフィードバック
