@@ -20,3 +20,10 @@ published: false
   * 実行時にエラーが発生するのでフィードバック
 * 3/9 https://salsa.debian.org/ruby-team/ruby-serverengine/-/merge_requests/1
   * d/watchでうまく検出できていないのでフィードバック
+* 3/24
+  * hinawa-utils 0.3.0をunstableにアップロード
+* 3/24 https://salsa.debian.org/debian/hinawa-utils/-/issues/2
+* 3/24 https://salsa.debian.org/debian/hinawa-utils/-/issues/1
+  * hinawa-utils 0.3.0をアップロードしたので閉じた。
+* 3/24 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=971908
+  * hinawa-utils: hinawa-apogee-duet-cli is missing FwUnit このバグも0.3.0-1のアップロードで閉じた
