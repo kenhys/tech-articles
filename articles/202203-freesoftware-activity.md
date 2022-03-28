@@ -29,4 +29,5 @@ published: false
   * hinawa-utils: hinawa-apogee-duet-cli is missing FwUnit このバグも0.3.0-1のアップロードで閉じた
 * 3/28 https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1008525
   * peekがクラッシュする問題を踏んだのでフィードバックしておいた。--backend=ffmpegだと発生しない
-  
+* 3/28 https://lists.debian.org/debconf-discuss/2022/03/msg00022.html
+  * debconf-discussでpre-recorded talkについて提案
