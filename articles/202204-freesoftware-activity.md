@@ -12,3 +12,4 @@ published: false
 * 4/4 digimend-dkms 10-5をアップロードした
 * 4/7 https://lists.debian.org/debian-devel-announce/2022/04/msg00002.html
   * Debian Developer's Survey about Usage of Money in Debianフィードバック
+* 4/19 beta.fabre.debian.netを立ち上げた
