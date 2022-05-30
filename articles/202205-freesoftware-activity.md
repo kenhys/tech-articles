@@ -10,3 +10,4 @@ published: false
   * aptlyがzstdサポートしていないのでフィードバック
 * 5/17 Groonga 12.0.3をunstableにアップロード
 * 5/25 libfreeaptx 0.1.1-2をunstableにアップロード #1011352
+* 5/29 Groonga 12.0.3-2をunstableにアップロード
