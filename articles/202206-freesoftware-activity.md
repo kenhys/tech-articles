@@ -12,3 +12,5 @@ published: false
   * google/sentencepieceでtypo見つけたのでフィードバック
 * 6/14
   * sentencepiece 0.1.97-1をunstableにアップロードした
+* 6/14
+  * groonga 12.0.4をunstableにアップロードした
