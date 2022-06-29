@@ -16,3 +16,5 @@ published: false
   * groonga 12.0.4をunstableにアップロードした
 * 6/17 https://github.com/pgroonga/pgroonga/issues/219
   * PGroongaでtext[]に適用可能なハイライト関数が欲しくなったのでフィードバック
+* 6/29
+  * groongaとsentencepiece tagうち忘れていたので更新
