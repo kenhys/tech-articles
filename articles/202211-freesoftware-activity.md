@@ -8,3 +8,5 @@ published: false
 
 * 11/08
   * Grooga 12.0.4-1.1がsalsaに反映されていないため適用しておいた
+* 11/09 https://github.com/clear-code/fx-meta-installer/pull/21
+  * ショートカットのフォールバックが古いままだったのを修正
