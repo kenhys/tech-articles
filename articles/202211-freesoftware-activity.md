@@ -12,3 +12,5 @@ published: false
   * ショートカットのフォールバックが古いままだったのを修正
 * 11/12
   * Groonga 12.0.9とgroonga-normalizer-mysql 1.1.9をアップロード
+* 11/14
+  * libhinawa 2.5.1のアップロード。dput-ngに切り替えて試してみた。
