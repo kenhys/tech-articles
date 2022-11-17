@@ -17,3 +17,6 @@ published: false
 * 11/15
   * fcitx-imlist 0.5.1-7をアップロード。
   * gntp-send 0.3.4-7をアップロード。
+* 11/17
+  * growl-for-linux 0.8.5-9をアップロード。
+  
