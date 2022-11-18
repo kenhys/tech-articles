@@ -25,3 +25,6 @@ published: false
   * fasttext 0.9.2-4をアップロード。
   * fcitx-imlist 0.5.1-8をアップロード。
   * Debian勉強会の資料を修正、アップロード。
+* 11/19
+  * groonga_12.0.9+dfsg2-1をアップロード。
+  * 11月Debian勉強会で発表した。
