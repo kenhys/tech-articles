@@ -24,4 +24,4 @@ published: false
 * 11/18
   * fasttext 0.9.2-4をアップロード。
   * fcitx-imlist 0.5.1-8をアップロード。
-  
+  * Debian勉強会の資料を修正、アップロード。
