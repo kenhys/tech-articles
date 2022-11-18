@@ -21,4 +21,5 @@ published: false
   * growl-for-linux 0.8.5-9をアップロード。
 * 11/18
   * fasttext 0.9.2-4をアップロード。
+  * fcitx-imlist 0.5.1-8をアップロード。
   
