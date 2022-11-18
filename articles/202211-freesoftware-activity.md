@@ -19,4 +19,6 @@ published: false
   * gntp-send 0.3.4-7をアップロード。
 * 11/17
   * growl-for-linux 0.8.5-9をアップロード。
+* 11/18
+  * fasttext 0.9.2-4をアップロード。
   
