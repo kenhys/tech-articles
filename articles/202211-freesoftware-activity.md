@@ -28,3 +28,4 @@ published: false
 * 11/19
   * groonga_12.0.9+dfsg2-1をアップロード。
   * 11月Debian勉強会で発表した。
+  * groonga_12.0.9+dfsg2-2をアップロード。hurd-i386に対応した。
