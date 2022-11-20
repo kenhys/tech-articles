@@ -30,3 +30,5 @@ published: false
   * 11月Debian勉強会で発表した。
   * groonga_12.0.9+dfsg2-2をアップロード。hurd-i386に対応した。
   * lltsv_0.7.0-2をアップロードした。
+* 11/20
+  * hinawa-utils 0.3.0-2をアップロードした。
