@@ -35,3 +35,4 @@ published: false
 * 11/21
   * groonga-normalizer-mysql 1.1.9-2をアップロード。
   * porterbox DNSのメンテナンスに関して@jwilkさんに相談メール
+  * sentencepiece 0.1.97-3をアップロード。同一バージョン再リリースされていた問題に対処したつもり。
