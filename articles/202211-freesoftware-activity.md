@@ -32,3 +32,6 @@ published: false
   * lltsv_0.7.0-2をアップロードした。
 * 11/20
   * hinawa-utils 0.3.0-2をアップロードした。
+* 11/21
+  * groonga-normalizer-mysql 1.1.9-2をアップロード。
+  * porterbox DNSのメンテナンスに関して@jwilkさんに相談メール
