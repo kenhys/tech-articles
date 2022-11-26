@@ -43,3 +43,5 @@ published: false
 * 11/23
   * https://salsa.debian.org/kenhys/qa/-/tree/github_releases
     * pre-releaseなラベルを無視する方法を実装してみた。しかし、assetsと自動的に生成されるtarball_urlが違うのでd/watchでその違いは吸収しないといけない。
+* 11/26
+  * digimend-dkms_11-2 をアップロードした。s390xでtesting migrationがblockedになる問題への対処。
