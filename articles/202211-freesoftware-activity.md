@@ -47,3 +47,5 @@ published: false
   * digimend-dkms_11-2 をアップロードした。s390xでtesting migrationがblockedになる問題への対処。
 * 11/27
   * fasttext 0.9.2+ds-1をアップロードした。doxygenで生成されているが元ソースがないので削除。
+* 11/29
+  * groonga-normalizer-mysql 1.2.0をアップロードした。
