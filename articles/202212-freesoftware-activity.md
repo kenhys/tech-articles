@@ -12,4 +12,5 @@ published: false
     * debexpoの翻訳。78%に到達。
   * https://mentors.debian.net/package/gixy/#upload-1
     * mentors.d.nのgixyのパッケージのレビューをした
-  * debian/watchでpre-releaseを回避する方法を質問してみた
+  * https://lists.debian.org/debian-devel/2022/12/msg00024.html
+    * debian/watchでpre-releaseを回避する方法を質問してみた
