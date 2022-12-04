@@ -10,3 +10,5 @@ published: false
   * Groonga 12.1.0+dfsgをアップロード。
   * https://hosted.weblate.org/translate/debexpo/debexpo/
     * debexpoの翻訳。78%に到達。
+  * https://mentors.debian.net/package/gixy/#upload-1
+    * mentors.d.nのgixyのパッケージのレビューをした
