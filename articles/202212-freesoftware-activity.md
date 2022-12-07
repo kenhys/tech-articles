@@ -14,3 +14,7 @@ published: false
     * mentors.d.nのgixyのパッケージのレビューをした
   * https://lists.debian.org/debian-devel/2022/12/msg00024.html
     * debian/watchでpre-releaseを回避する方法を質問してみた
+* 12/07
+  * https://mentors.debian.net/package/zarchive/#upload-1
+    * mentors.d.n zarchive 0.1.1のレビューをした
+    
