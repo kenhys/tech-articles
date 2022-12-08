@@ -17,4 +17,5 @@ published: false
 * 12/07
   * https://mentors.debian.net/package/zarchive/#upload-1
     * mentors.d.n zarchive 0.1.1のレビューをした
-    
+* 12/08
+  * Groonga 12.1.0+dfsg-2をsource only uploadした。
