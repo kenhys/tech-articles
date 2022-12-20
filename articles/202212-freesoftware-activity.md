@@ -24,3 +24,6 @@ published: false
     * mentors.d.n zarchive 0.1.2のレビューをした
 * 12/13
   * groonga-normalizer-mysql 1.2.1をアップロードした
+* 12/20
+  * https://mentors.debian.net/package/zarchive/#upload-3
+    * mentors.d.n zarchiveのレビューをした。
