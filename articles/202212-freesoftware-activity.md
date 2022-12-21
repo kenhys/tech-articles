@@ -27,3 +27,6 @@ published: false
 * 12/20
   * https://mentors.debian.net/package/zarchive/#upload-3
     * mentors.d.n zarchiveのレビューをした。
+* 12/21
+  * https://mentors.debian.net/package/zarchive/#upload-3
+    * zarchive 0.1.2-1のスポンサーアップロードをした
