@@ -30,3 +30,8 @@ published: false
 * 12/21
   * https://mentors.debian.net/package/zarchive/#upload-3
     * zarchive 0.1.2-1のスポンサーアップロードをした
+* 12/23
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1026886
+    * fakeupstream.cgiでpre-releaseを除去するフィードバック
+  * https://salsa.debian.org/qa/qa/-/merge_requests/43
+    * fakeupstream.cgiでpre-releaseを除去するためのMR.
