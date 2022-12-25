@@ -35,3 +35,6 @@ published: false
     * fakeupstream.cgiでpre-releaseを除去するフィードバック
   * https://salsa.debian.org/qa/qa/-/merge_requests/43
     * fakeupstream.cgiでpre-releaseを除去するためのMR.
+* 12/25
+  * 来年1月のDebian勉強会の準備。運営さんにメール。
+
