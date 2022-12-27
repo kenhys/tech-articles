@@ -37,4 +37,5 @@ published: false
     * fakeupstream.cgiでpre-releaseを除去するためのMR.
 * 12/25
   * 来年1月のDebian勉強会の準備。運営さんにメール。
-
+  * https://hosted.weblate.org/projects/debexpo/#languages
+    * debexpoの翻訳84%に到達
