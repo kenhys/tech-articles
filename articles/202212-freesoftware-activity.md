@@ -39,3 +39,6 @@ published: false
   * 来年1月のDebian勉強会の準備。運営さんにメール。
   * https://hosted.weblate.org/projects/debexpo/#languages
     * debexpoの翻訳84%に到達
+* 12/30
+  * https://hosted.weblate.org/projects/debexpo/#languages
+    * debexpoの翻訳88%に到達
