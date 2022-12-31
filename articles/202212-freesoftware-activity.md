@@ -42,3 +42,6 @@ published: false
 * 12/30
   * https://hosted.weblate.org/projects/debexpo/#languages
     * debexpoの翻訳88%に到達
+* 12/31
+  * https://hosted.weblate.org/projects/debexpo/#languages
+    * debexpoの翻訳90%に到達
