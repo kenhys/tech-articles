@@ -13,3 +13,5 @@ published: false
 * 01/05
   * https://kenhys.hatenablog.jp/entry/2023/01/05/205537
     * mozcをMozc UT dictionaryと一緒にビルドする方法を書いた。辞書をcpじゃなくて、catで追記するのが推奨されていた。
+* 01/07
+  * fcitx-imlist 0.5.1-9をアップロード。
