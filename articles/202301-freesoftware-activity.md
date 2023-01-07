@@ -15,3 +15,5 @@ published: false
     * mozcをMozc UT dictionaryと一緒にビルドする方法を書いた。辞書をcpじゃなくて、catで追記するのが推奨されていた。
 * 01/07
   * fcitx-imlist 0.5.1-9をアップロード。
+  * https://gitlab.com/giomasce/dqib/-/issues/9
+    * artifactsにname:フィールドを反映するようにフィードバック
