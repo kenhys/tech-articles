@@ -17,3 +17,6 @@ published: false
   * fcitx-imlist 0.5.1-9をアップロード。
   * https://gitlab.com/giomasce/dqib/-/issues/9
     * artifactsにname:フィールドを反映するようにフィードバック
+* 01/08
+  * https://hosted.weblate.org/projects/debexpo
+    * debexpoの翻訳が96%に到達。
