@@ -20,3 +20,5 @@ published: false
 * 01/08
   * https://hosted.weblate.org/projects/debexpo
     * debexpoの翻訳が96%に到達。
+* 01/10
+  * Groonga 12.1.1+dfsg-1をアップロード
