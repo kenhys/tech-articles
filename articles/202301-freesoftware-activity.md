@@ -28,3 +28,5 @@ published: false
 * 01/14
   * https://kenhys.hatenablog.jp/entry/2023/01/14/151612
     * bibata-cursor-themeがacceptされたのでその紹介記事を書いた
+  * https://ftp-master.debian.org/dm.txt
+    * sponsorしたzarchiveがacceptされたのでdcutでDMの権限を付与した
