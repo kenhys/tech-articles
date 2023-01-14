@@ -25,3 +25,6 @@ published: false
 * 01/11
   * https://hosted.weblate.org/projects/debexpo/#languages
     * debexpoの翻訳が98%に到達。
+* 01/14
+  * https://kenhys.hatenablog.jp/entry/2023/01/14/151612
+    * bibata-cursor-themeがacceptされたのでその紹介記事を書いた
