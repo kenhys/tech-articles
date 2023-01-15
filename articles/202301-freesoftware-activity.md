@@ -30,3 +30,7 @@ published: false
     * bibata-cursor-themeがacceptされたのでその紹介記事を書いた
   * https://ftp-master.debian.org/dm.txt
     * sponsorしたzarchiveがacceptされたのでdcutでDMの権限を付与した
+* 01/15
+  * https://salsa.debian.org/debian/dput/-/merge_requests/10
+  * https://salsa.debian.org/debian/dput-ng/-/merge_requests/23
+    * dputおよびdput-ngのmentors profileのデフォルトを変更するフィードバック
