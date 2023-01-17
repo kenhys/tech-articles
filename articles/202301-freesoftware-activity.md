@@ -34,3 +34,5 @@ published: false
   * https://salsa.debian.org/debian/dput/-/merge_requests/10
   * https://salsa.debian.org/debian/dput-ng/-/merge_requests/23
     * dputおよびdput-ngのmentors profileのデフォルトを変更するフィードバック
+* 01/17
+  * bibata-cursor-theme 2.0.3-3をアップロードした
