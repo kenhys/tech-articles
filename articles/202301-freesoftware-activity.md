@@ -36,3 +36,5 @@ published: false
     * dputおよびdput-ngのmentors profileのデフォルトを変更するフィードバック
 * 01/17
   * bibata-cursor-theme 2.0.3-3をアップロードした
+* 01/19
+  * Debian勉強会の資料を作成
