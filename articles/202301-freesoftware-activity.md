@@ -38,3 +38,8 @@ published: false
   * bibata-cursor-theme 2.0.3-3をアップロードした
 * 01/19
   * Debian勉強会の資料を作成
+* 01/21
+  * https://gitlab.com/giomasce/dqib/-/issues/11
+    * m68kのイメージで起動できないのでフィードバック
+  * https://gitlab.com/giomasce/dqib/-/merge_requests/2
+    * s390xの設定では起動できないのでフィードバック
