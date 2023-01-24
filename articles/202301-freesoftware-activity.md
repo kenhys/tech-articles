@@ -43,3 +43,8 @@ published: false
     * m68kのイメージで起動できないのでフィードバック
   * https://gitlab.com/giomasce/dqib/-/merge_requests/2
     * s390xの設定では起動できないのでフィードバック
+  * https://gitlab.com/qemu-project/qemu/-/issues/1440
+    * qemuのビルドに関してフィードバック
+* 01/24
+  * https://kenhys.hatenablog.jp/entry/2023/01/24/202912
+    * porterboxとdeb-o-maticとqemuのイメージについての記事を執筆
