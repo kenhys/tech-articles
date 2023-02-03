@@ -6,5 +6,5 @@ topics: ["Debian"]
 published: false
 ---
 
-* 02/01
+* 02/02
   * Groonga 12.1.2+dfsg-1をアップロードした
