@@ -11,3 +11,15 @@ published: false
 * 02/03
   * https://hosted.weblate.org/projects/debian-installer
     * d-iでもnon-freeソフトウェアじゃなくてファームウェアについての言及になっていたのを修正
+  * https://www.debian.org/social_contract.1.1 翻訳旧版として移動
+* 02/04
+  * https://www.debian.org/social_contract 翻訳修正
+* 02/09
+  * https://www.debian.org/devel/website/ 翻訳修正
+* 02/10
+  * https://www.debian.org/devel/website/uptodate 翻訳修正
+* 02/11
+  * fabre.d.nでバグ一覧表示でFixmeを強調するタブ位置に修正
+  * fabre.d.nでバグ一覧表示でパッケージ名を強調表示するように修正
+* 02/12
+  * https://www.debian.org/Bugs/index.ja.html の翻訳修正
