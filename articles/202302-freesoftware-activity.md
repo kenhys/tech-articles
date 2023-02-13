@@ -23,3 +23,5 @@ published: false
   * fabre.d.nでバグ一覧表示でパッケージ名を強調表示するように修正
 * 02/12
   * https://www.debian.org/Bugs/index.ja.html の翻訳修正
+* 02/13
+  * https://www.debian.org/Bugs/Access.ja.html の翻訳修正
