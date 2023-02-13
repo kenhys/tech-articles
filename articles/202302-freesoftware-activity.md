@@ -25,3 +25,4 @@ published: false
   * https://www.debian.org/Bugs/index.ja.html の翻訳修正
 * 02/13
   * https://www.debian.org/Bugs/Access.ja.html の翻訳修正
+  * https://www.debian.org/Bugs/server-control.ja.html の翻訳修正
