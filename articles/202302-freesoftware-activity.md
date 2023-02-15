@@ -27,3 +27,9 @@ published: false
   * https://www.debian.org/Bugs/Access.ja.html の翻訳修正
   * https://www.debian.org/Bugs/server-control.ja.html の翻訳修正
   * https://www.debian.org/Bugs/Developer.ja.html の翻訳修正
+* 02/14
+  * webwml/japanese/po/template.ja.po の翻訳修正
+* 02/15
+  * https://www.debian.org/distrib/netinst.ja.html の翻訳修正
+  * https://www.debian.org/donations.ja.html の翻訳修正
+
