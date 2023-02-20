@@ -32,4 +32,9 @@ published: false
 * 02/15
   * https://www.debian.org/distrib/netinst.ja.html の翻訳修正
   * https://www.debian.org/donations.ja.html の翻訳修正
-
+* 02/16
+  * https://github.com/BuddiesOfBudgie/budgie-desktop/issues/303
+    * 通知の並び順についてフィードバック
+* 02/20
+  * https://www.debian.org/devel/debian-installer/
+    * Debianイントーラーの翻訳修正
