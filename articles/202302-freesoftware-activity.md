@@ -38,3 +38,7 @@ published: false
 * 02/20
   * https://www.debian.org/devel/debian-installer/
     * Debianイントーラーの翻訳修正
+* 02/22
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1029821#29
+    * gnome-initial-setupの既定値がanthyになっていて、そのままデフォルトでセットアップしてしまうと日本語入力できなくて詰む問題のパッチのフィードバック。
+    * デフォルトをmozc-jpにすると日本語(Mozc)と表示されなくなる潜在的な問題があってその調査をした。初期化のタイミングでIBusエンジンの情報を取れないのが原因だった。
