@@ -49,3 +49,7 @@ published: false
     * nmapのPCRE2対応状況をフィードバック
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000021#10
     * aircrack-ngのPCRE2対応状況をフィードバック
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000050#10
+    * modsecurityのPCRE2対応状況をフィードバック
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000084#17
+    * modsecurity-apacheのPCRE2対応状況をフィードバック
