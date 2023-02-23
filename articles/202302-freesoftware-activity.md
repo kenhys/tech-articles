@@ -42,3 +42,6 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1029821#29
     * gnome-initial-setupの既定値がanthyになっていて、そのままデフォルトでセットアップしてしまうと日本語入力できなくて詰む問題のパッチのフィードバック。
     * デフォルトをmozc-jpにすると日本語(Mozc)と表示されなくなる潜在的な問題があってその調査をした。初期化のタイミングでIBusエンジンの情報を取れないのが原因だった。
+* 02/23
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000064
+    * Groongaがlibpcre3-devに依存していた問題を修正した
