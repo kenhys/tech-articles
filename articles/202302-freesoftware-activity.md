@@ -53,3 +53,11 @@ published: false
     * modsecurityのPCRE2対応状況をフィードバック
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000084#17
     * modsecurity-apacheのPCRE2対応状況をフィードバック
+    * 2.9.7-1で修正済みなのでclose
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000108
+    * apachetop 0.23.2-1で修正済みなのでフィードバック
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000130
+    * htcondor version 9.10.0で修正されていそうなのでフィードバック。
+    * ただし現在メンテナンスされているのは 8.6.8なのでbookwormには間に合わない。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000129
+    * maildropはmasterで準備が進んでいたのでフィードバック。ただし3.xなのでbookwormには間に合わない。
