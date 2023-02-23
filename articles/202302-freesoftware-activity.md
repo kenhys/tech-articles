@@ -45,3 +45,7 @@ published: false
 * 02/23
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000064
     * Groongaがlibpcre3-devに依存していた問題を修正した
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000012#10
+    * nmapのPCRE2対応状況をフィードバック
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000021#10
+    * aircrack-ngのPCRE2対応状況をフィードバック
