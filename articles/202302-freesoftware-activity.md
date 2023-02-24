@@ -61,3 +61,6 @@ published: false
     * ただし現在メンテナンスされているのは 8.6.8なのでbookwormには間に合わない。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1000129
     * maildropはmasterで準備が進んでいたのでフィードバック。ただし3.xなのでbookwormには間に合わない。
+* 02/24
+  * https://github.com/fluent/fluentd/pull/4069
+    * @daipomさんを新メンテナーとして受け入れる投票の準備
