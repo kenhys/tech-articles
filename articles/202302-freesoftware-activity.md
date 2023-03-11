@@ -64,3 +64,6 @@ published: false
 * 02/24
   * https://github.com/fluent/fluentd/pull/4069
     * @daipomさんを新メンテナーとして受け入れる投票の準備
+* 02/28
+  * https://learn.microsoft.com/en-us/answers/questions/1184955/broken-link-to-edge-policy-template-files-again
+    * Edgeのポリシーテンプレートがダウンロードできなくなっているのでフィードバック
