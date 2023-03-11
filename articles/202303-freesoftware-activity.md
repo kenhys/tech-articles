@@ -16,3 +16,6 @@ published: false
     * bookworm向けに取り込まれるとまずいMRについてフィードバック
   * https://github.com/foss-for-synopsys-dwc-arc-processors/qemu/pull/162
     * 新し目のcurlでビルドできないのでupstreamのパッチをフィードバック
+* 03/11
+  * misskey.ioインスタンスでカスタム絵文字一覧の表記が変だったのでサポートにフィードバック
+    * misskey自体というよりかはインスタンスごとだったのでサポートへのフィードバックとなった
