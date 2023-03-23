@@ -19,3 +19,9 @@ published: false
 * 03/11
   * misskey.ioインスタンスでカスタム絵文字一覧の表記が変だったのでサポートにフィードバック
     * misskey自体というよりかはインスタンスごとだったのでサポートへのフィードバックとなった
+* 03/20
+  * https://salsa.debian.org/lintian/lintian/-/merge_requests/462
+    * dep-3チェックにフィードバックした
+* 03/23
+  * https://kenhys.hatenablog.jp/entry/2023/03/23/204343
+    * Debianプロジェクトの支援を受けたので、キーボードについて記事を公開した
