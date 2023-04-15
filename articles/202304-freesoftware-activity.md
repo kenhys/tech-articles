@@ -17,4 +17,6 @@ published: false
     * Debian勉強会でOBSについて発表した
   * https://github.com/UltimateHackingKeyboard/firmware/pull/605
     * フィードバックするためにCLAにsign
+  * https://github.com/UltimateHackingKeyboard/firmware/pull/606
+    * ユーザーガイドのサンプルに誤りがあったのでフィードバック
    
