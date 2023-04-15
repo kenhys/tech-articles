@@ -15,4 +15,6 @@ published: false
 * 04/15
   * https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-obs-howto-202304/
     * Debian勉強会でOBSについて発表した
+  * https://github.com/UltimateHackingKeyboard/firmware/pull/605
+    * フィードバックするためにCLAにsign
    
