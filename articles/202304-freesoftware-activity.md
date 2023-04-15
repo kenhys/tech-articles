@@ -12,3 +12,7 @@ published: false
 * 04/04
   * https://github.com/UltimateHackingKeyboard/firmware/issues/602
     * RJ22のケーブルの長さによってはLEDの輝度を上げると不安定になる問題をフィードバック
+* 04/15
+  * https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-obs-howto-202304/
+    * Debian勉強会でOBSについて発表した
+   
