@@ -22,3 +22,5 @@ published: false
 * 4/16
   * https://shop.yushakobo.jp/products/6966?variant=46408416657639
     * OEM Gradient Engraved Series Blueに関してフィードバック
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1033407
+    * lifereaの #1032989で修正済みだったのでフィードバック。ただしbookworm向けにunblockされていないな。
