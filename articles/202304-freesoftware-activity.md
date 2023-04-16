@@ -19,4 +19,6 @@ published: false
     * フィードバックするためにCLAにsign
   * https://github.com/UltimateHackingKeyboard/firmware/pull/606
     * ユーザーガイドのサンプルに誤りがあったのでフィードバック
-   
+* 4/16
+  * https://shop.yushakobo.jp/products/6966?variant=46408416657639
+    * OEM Gradient Engraved Series Blueに関してフィードバック
