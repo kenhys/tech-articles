@@ -26,3 +26,6 @@ published: false
     * lifereaの #1032989で修正済みだったのでフィードバック。ただしbookworm向けにunblockされていないな。
 * 4/17
   * 福岡大学のNTPサーバーがn.debian.pool.ntp.orgとかに依然として登録されているのでフィードバック
+* 4/20
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1026886
+    * フィードバックに回答した
