@@ -29,3 +29,6 @@ published: false
 * 4/20
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1026886
     * フィードバックに回答した
+* 4/21
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1026886
+    * エッジケースすぎるのでwontfixにしてcloseした
