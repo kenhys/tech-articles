@@ -35,3 +35,5 @@ published: false
 * 4/22
   * https://www.debian.org/devel/debian-installer/
     * 日本語訳が古いのでフィードバック
+  * https://www.debian.org/devel/debian-installer/errata
+    * 日本語訳が古いのでフィードバック
