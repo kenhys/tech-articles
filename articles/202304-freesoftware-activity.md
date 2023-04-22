@@ -32,3 +32,6 @@ published: false
 * 4/21
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1026886
     * エッジケースすぎるのでwontfixにしてcloseした
+* 4/22
+  * https://www.debian.org/devel/debian-installer/
+    * 日本語訳が古いのでフィードバック
