@@ -37,3 +37,7 @@ published: false
     * 日本語訳が古いのでフィードバック
   * https://www.debian.org/devel/debian-installer/errata
     * 日本語訳が古いのでフィードバック
+* 4/29
+  * https://www.debian.org/devel/debian-installer/errata
+    * RC2にあわせてフィードバック
+
