@@ -14,3 +14,6 @@ published: false
     * Groongaのバグレポートがあがっていたので13.0.0+dfsg-3をアップロードした。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037072
     * Groongaのunblockリクエストを投げた。
+* 06/05
+  * https://github.com/vivliostyle/vivliostyle-cli/issues/407
+    * 別のアプローチがよさそうなのでissueをクローズ
