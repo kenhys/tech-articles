@@ -17,3 +17,6 @@ published: false
 * 06/05
   * https://github.com/vivliostyle/vivliostyle-cli/issues/407
     * 別のアプローチがよさそうなのでissueをクローズ
+* 06/08
+  * https://salsa.debian.org/debian/grow-your-ideas/-/tree/master
+    * READMEのメンテナンス
