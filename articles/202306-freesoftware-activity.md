@@ -20,3 +20,6 @@ published: false
 * 06/08
   * https://salsa.debian.org/debian/grow-your-ideas/-/tree/master
     * READMEのメンテナンス
+* 06/09
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
+    * debian-installerの簡体字の問題を調査・フィードバックした
