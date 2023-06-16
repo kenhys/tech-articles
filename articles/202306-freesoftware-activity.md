@@ -23,3 +23,6 @@ published: false
 * 06/09
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
     * debian-installerの簡体字の問題を調査・フィードバックした
+* 06/16
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037995
+    * digimend-dkms kernel 6.3対応パッチを当ててアップロードした。
