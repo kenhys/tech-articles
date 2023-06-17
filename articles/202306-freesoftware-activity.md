@@ -29,3 +29,5 @@ published: false
 * 06/17
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1038387
     * groongaのbookworm-puをすすめた。
+* 06/18
+  * sentencepiece 0.1.99のパッケージをアップロードした。
