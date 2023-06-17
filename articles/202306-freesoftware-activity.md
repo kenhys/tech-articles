@@ -26,3 +26,6 @@ published: false
 * 06/16
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037995
     * digimend-dkms kernel 6.3対応パッチを当ててアップロードした。
+* 06/17
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1038387
+    * groongaのbookworm-puをすすめた。
