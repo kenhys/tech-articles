@@ -31,3 +31,8 @@ published: false
     * groongaのbookworm-puをすすめた。
 * 06/18
   * sentencepiece 0.1.99のパッケージをアップロードした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037647
+    * fasttextがGCC13でビルドエラーとなる問題を修正した。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1035197
+    * fasttextにautopkgtestがなかったので追加した。
+  * fasttext 0.9.2+ds-2をアップロードした。
