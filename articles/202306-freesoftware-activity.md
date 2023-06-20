@@ -36,3 +36,5 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1035197
     * fasttextにautopkgtestがなかったので追加した。
   * fasttext 0.9.2+ds-2をアップロードした。
+* 06/20
+  * bigendian環境でFTBFSとなるので、sentencepiece 0.1.99-2をアップロードした。
