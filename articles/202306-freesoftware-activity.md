@@ -39,3 +39,5 @@ published: false
 * 06/20
   * bigendian環境でFTBFSとなるので、sentencepiece 0.1.99-2をアップロードした。
   * fasttext 0.9.2+ds-2のmigrationがブロックされていたので、0.9.2+ds-3をアップロードした。
+* 06/23
+  * fasttext 0.9.2+ds-3がarmelのautopkgtestでひっかかっていたので、0.9.2+ds-4をアップロードした。
