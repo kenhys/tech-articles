@@ -46,3 +46,5 @@ published: false
     * groonga 13.0.0+dfsg-3~deb12u1をbookwormにアップロードした。
   * https://salsa.debian.org/debian/developers-reference/-/merge_requests/46
     * developers-referenceのpoのfuzzyを修正した。non-free-firmwareがらみ。
+  * https://kenhys.hatenablog.jp/entry/2023/06/25/172423
+    * bookwormのポイントリリース向けの作業の話を書いた
