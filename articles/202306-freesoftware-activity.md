@@ -41,3 +41,8 @@ published: false
   * fasttext 0.9.2+ds-2のmigrationがブロックされていたので、0.9.2+ds-3をアップロードした。
 * 06/23
   * fasttext 0.9.2+ds-3がarmelのautopkgtestでひっかかっていたので、0.9.2+ds-4をアップロードした。
+* 06/25
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1038387
+    * groonga 13.0.0+dfsg-3~deb12u1をbookwormにアップロードした。
+  * https://salsa.debian.org/debian/developers-reference/-/merge_requests/46
+    * developers-referenceのpoのfuzzyを修正した。non-free-firmwareがらみ。
