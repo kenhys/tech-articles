@@ -48,3 +48,5 @@ published: false
     * developers-referenceのpoのfuzzyを修正した。non-free-firmwareがらみ。
   * https://kenhys.hatenablog.jp/entry/2023/06/25/172423
     * bookwormのポイントリリース向けの作業の話を書いた
+  * https://www.debian.org/devel/
+    * 開発者のコーナーの内容が古くなっていたので更新。
