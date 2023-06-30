@@ -50,3 +50,5 @@ published: false
     * bookwormのポイントリリース向けの作業の話を書いた
   * https://www.debian.org/devel/
     * 開発者のコーナーの内容が古くなっていたので更新。
+* 6/30
+  * debian-bootにd-iのフォントを変更する提案を投げた。
