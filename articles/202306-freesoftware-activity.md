@@ -51,4 +51,5 @@ published: false
   * https://www.debian.org/devel/
     * 開発者のコーナーの内容が古くなっていたので更新。
 * 6/30
-  * debian-bootにd-iのフォントを変更する提案を投げた。
+  * https://lists.debian.org/debian-boot/2023/06/msg00224.html
+    * debian-bootにd-iのフォントを変更する提案を投げた。
