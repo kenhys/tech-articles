@@ -13,3 +13,8 @@ published: false
   * Debian勉強会の資料を作成
 * 07/11
   * Debian勉強会の資料を公開 https://slide.rabbit-shocker.org/ 
+* 07/15
+  * https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-d-i-font-202307/
+    * Debian勉強会にてDebian Installerに関する発表をした
+* 07/16
+  * あんどきゅめんてっどでびあん(2023年夏号)に収録予定の原稿を修正した
