@@ -18,3 +18,5 @@ published: false
     * Debian勉強会にてDebian Installerに関する発表をした
 * 07/16
   * あんどきゅめんてっどでびあん(2023年夏号)に収録予定の原稿を修正した
+  * https://tokyodebian-team.pages.debian.net/past-event.html
+    * 過去の勉強会の記録を更新
