@@ -20,3 +20,8 @@ published: false
   * あんどきゅめんてっどでびあん(2023年夏号)に収録予定の原稿を修正した
   * https://tokyodebian-team.pages.debian.net/past-event.html
     * 過去の勉強会の記録を更新
+* 07/17
+  * https://tokyodebian-team.pages.debian.net/past-event.html
+    * 過去の勉強会の記録を更新 2021,2020,2019
+  * https://www.debian.org/releases/proposed-updates.ja.html
+    * 翻訳が古くてapt-lineが間違っていたのを修正
