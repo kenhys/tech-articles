@@ -25,3 +25,5 @@ published: false
     * 過去の勉強会の記録を更新 2021,2020,2019
   * https://www.debian.org/releases/proposed-updates.ja.html
     * 翻訳が古くてapt-lineが間違っていたのを修正
+  * https://salsa.debian.org/debian/libhinawa/-/issues/23
+    * libhinawa 2.6.0がリリースされていたのでアップロードした
