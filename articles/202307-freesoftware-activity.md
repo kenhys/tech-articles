@@ -27,3 +27,6 @@ published: false
     * 翻訳が古くてapt-lineが間違っていたのを修正
   * https://salsa.debian.org/debian/libhinawa/-/issues/23
     * libhinawa 2.6.0がリリースされていたのでアップロードした
+* 07/25
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=967462
+    * NMUされたので内容の確認。いきなりGitにぶちこむのではなく、MRにしたほうが無難だと思うのだが。
