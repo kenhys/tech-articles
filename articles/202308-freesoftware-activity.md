@@ -9,3 +9,7 @@ published: false
 * 08/01
   * https://docs.confluent.io/platform/current/installation/installing_cp/rhel-centos.html
     * confluent-community-2.13のインストールに失敗する問題をフィードバックした
+* 08/03
+  * https://salsa.debian.org/debian/libhinawa/-/issues/24
+  * https://salsa.debian.org/debian/libhinawa/-/issues/25
+  * libhinawa 2.6.0-2をアップロード
