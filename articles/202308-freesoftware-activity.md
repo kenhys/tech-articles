@@ -16,3 +16,5 @@ published: false
 * 08/05
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1042697
     * sphinx 7の更新にともなうFTBFSの注意喚起をチェック。experimentalにアップロードされているsphinx 7でビルドしてみて変更点を確認した。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=967462
+    * growl-for-linuxのNMUに対してコメント
