@@ -13,3 +13,6 @@ published: false
   * https://salsa.debian.org/debian/libhinawa/-/issues/24
   * https://salsa.debian.org/debian/libhinawa/-/issues/25
   * libhinawa 2.6.0-2をアップロード
+* 08/05
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1042697
+    * sphinx 7の更新にともなうFTBFSの注意喚起をチェック。experimentalにアップロードされているsphinx 7でビルドしてみて変更点を確認した。
