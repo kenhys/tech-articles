@@ -18,3 +18,5 @@ published: false
     * sphinx 7の更新にともなうFTBFSの注意喚起をチェック。experimentalにアップロードされているsphinx 7でビルドしてみて変更点を確認した。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=967462
     * growl-for-linuxのNMUに対してコメント
+* 08/06
+  * DMARC recordを.debian.netのdnsZoneEntryに正しく設定する方法がわからなかったので debian-devel@lists.debian.org にフィードバック
