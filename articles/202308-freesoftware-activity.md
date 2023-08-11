@@ -20,3 +20,6 @@ published: false
     * growl-for-linuxのNMUに対してコメント
 * 08/06
   * DMARC recordを.debian.netのdnsZoneEntryに正しく設定する方法がわからなかったので debian-devel@lists.debian.org にフィードバック
+* 08/11
+  * https://wiki.debian.org/DebianNetDomains
+    * ROCmに関する変更が不適切だったのを修正しておいた
