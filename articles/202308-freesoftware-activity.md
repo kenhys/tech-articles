@@ -20,6 +20,13 @@ published: false
     * growl-for-linuxのNMUに対してコメント
 * 08/06
   * DMARC recordを.debian.netのdnsZoneEntryに正しく設定する方法がわからなかったので debian-devel@lists.debian.org にフィードバック
+* 08/09
+  * https://lists.debian.org/debian-devel/2023/08/msg00078.html
+    * debian.netでDMARCポリシーを設定する方法がわかったのでフォローメール
+  * https://kenhys.hatenablog.jp/entry/2023/08/09/191841
+    * debian.netでDMARCポリシーを設定する方法の記事を書いた
+  * https://kenhys.hatenablog.jp/entry/2023/08/09/192933
+    * さくらのメールボックス利用者向けのDMARCポリシーの設定に関する記事を書いた
 * 08/11
   * https://wiki.debian.org/DebianNetDomains
     * ROCmに関する変更が不適切だったのを修正しておいた
