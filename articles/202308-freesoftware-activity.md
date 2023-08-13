@@ -30,3 +30,6 @@ published: false
 * 08/11
   * https://wiki.debian.org/DebianNetDomains
     * ROCmに関する変更が不適切だったのを修正しておいた
+* 08/13
+  * https://www.debian.org/security/index.ja.html
+    * セキュリティ情報のページが古くなっていたのを更新した。
