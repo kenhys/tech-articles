@@ -35,3 +35,6 @@ published: false
 * 08/13
   * https://www.debian.org/security/index.ja.html
     * セキュリティ情報のページが古くなっていたのを更新した。
+* 08/17
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1049514
+    * FTBFS double buildの問題を修正した
