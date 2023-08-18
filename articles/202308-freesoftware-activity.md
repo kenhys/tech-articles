@@ -37,7 +37,7 @@ published: false
     * セキュリティ情報のページが古くなっていたのを更新した。
 * 08/17
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1049514
-    * FTBFS double buildの問題を修正した
+    * groonga-normalizer-mysql: FTBFS double buildの問題を修正した
 * 08/18
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1049999
     * vagrantの今後に関してフィードバック
