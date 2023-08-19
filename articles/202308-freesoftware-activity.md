@@ -47,3 +47,7 @@ published: false
     * sentencepiece: FTBFS (double build)の問題を修正した
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1047522
     * xhk: FTBFS (double build)の問題を修正した
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1048733
+    * libhinawa: FTBFS (double build)の問題を修正した
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1049175
+    * hinawa-utils: FTBFS (double build)の問題を修正した
