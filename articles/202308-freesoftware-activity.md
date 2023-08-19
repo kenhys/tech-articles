@@ -41,3 +41,9 @@ published: false
 * 08/18
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1049999
     * vagrantの今後に関してフィードバック
+* 08/19
+  * Debian勉強会に参加。情報収集。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1047552
+    * sentencepiece: FTBFS (double build)の問題を修正した
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1047522
+    * xhk: FTBFS (double build)の問題を修正した
