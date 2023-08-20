@@ -51,3 +51,6 @@ published: false
     * libhinawa: FTBFS (double build)の問題を修正した
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1049175
     * hinawa-utils: FTBFS (double build)の問題を修正した
+* 08/20
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1045089
+    * groonga: FTBFS (double build)の問題を修正した
