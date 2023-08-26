@@ -54,3 +54,5 @@ published: false
 * 08/20
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1045089
     * groonga: FTBFS (double build)の問題を修正した
+* 08/26
+  * groonga: preventing migrationの問題を修正した。autopkgtestを簡単に実行できるといいな。CIでは実行されるけども。
