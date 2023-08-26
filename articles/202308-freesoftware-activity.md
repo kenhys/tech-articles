@@ -56,3 +56,5 @@ published: false
     * groonga: FTBFS (double build)の問題を修正した
 * 08/26
   * groonga: preventing migrationの問題を修正した。autopkgtestを簡単に実行できるといいな。CIでは実行されるけども。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1050554
+    * budgie-desktop: panelへのアクセス手段が失われる問題をレポートした。
