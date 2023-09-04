@@ -59,7 +59,7 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1050554
     * budgie-desktop: panelへのアクセス手段が失われる問題をレポートした。
 * 08/30
-  * https://mentors.debian.net/package/linux-firewire-utils/
+  * https://mentors.debian.net/package/linux-firewire-utils/#upload-1
     * linux-firewire-utilsへのフィードバック
 * 08/31
   * https://lists.debian.or.jp/pipermail/debian-devel/2023-August/000421.html
