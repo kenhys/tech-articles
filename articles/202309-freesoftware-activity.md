@@ -22,3 +22,5 @@ published: false
     * bookwormでのインストール方法に関してフィードバック
   * https://mentors.debian.net/package/linux-firewire-utils/
     * linux-firewire-utilsをスポンサーアップロードした
+  * https://lists.debian.or.jp/pipermail/debian-devel/2023-September/000427.html
+    * debian-devel: d-iの日本語モードでどのフォントを採用すべきか相談
