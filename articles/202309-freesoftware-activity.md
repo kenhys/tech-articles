@@ -17,3 +17,8 @@ published: false
     * debexpoの翻訳フィードバック
   * https://salsa.debian.org/mentors.debian.net-team/debexpo/-/issues/158
     * debexpo翻訳完了について報告
+* 09/10
+  * https://github.com/groonga/groonga/issues/1607
+    * bookwormでのインストール方法に関してフィードバック
+  * https://mentors.debian.net/package/linux-firewire-utils/
+    * linux-firewire-utilsをスポンサーアップロードした
