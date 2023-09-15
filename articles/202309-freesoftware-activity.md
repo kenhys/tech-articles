@@ -27,3 +27,5 @@ published: false
 * 09/11
   * https://mentors.debian.net/package/linux-firewire-utils/
     * linux-firewire-utilsのスポンサーアップロードでsource onlyでアップロードしてしまっていたので、binaryをアップロードしなおした。
+* 09/15
+  * https://rt.debian.org/ #9318 dnsZoneEntryの移譲の件でフィードバック
