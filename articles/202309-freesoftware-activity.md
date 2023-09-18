@@ -31,3 +31,6 @@ published: false
   * https://rt.debian.org/ #9318 dnsZoneEntryの移譲の件でフィードバック
 * 09/17
   * groonga 13.0.7+dfsg-1をアップロードした
+* 09/18
+  * https://gitlab.com/volian/nala/-/issues/269
+    * nalaがJSON hooks protocolをまだサポートしていないっぽいのでフィードバック
