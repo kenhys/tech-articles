@@ -19,3 +19,5 @@ published: false
     * lltsvのloongarchサポートは時期尚早なのでマージリクエストを閉じた
   * https://mentors.debian.net/packages/
     * 翻訳の不備をみつけたのでフィードバックした
+  * groonga 13.0.8+dfsgをアップロードした
+  * groonga-normalizer-mysql 1.2.2-1をアップロードした
