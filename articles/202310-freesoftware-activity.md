@@ -21,3 +21,6 @@ published: false
     * 翻訳の不備をみつけたのでフィードバックした
   * groonga 13.0.8+dfsgをアップロードした
   * groonga-normalizer-mysql 1.2.2-1をアップロードした
+* 10/22
+  * https://mentors.debian.net/package/blktrace/#upload-2
+    * blktraceがなんか作業すすんでいなさそうなので、フィードバックしておいた
