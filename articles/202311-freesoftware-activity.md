@@ -9,3 +9,7 @@ published: false
 * 11/05
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1054433
     * fasttext: importantのほうが適切な気がするのでフィードバック
+* 11/08
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1042697
+    * groonga 13.0.9+dfsg-1をアップロードした
+  * groonga-normalizer-mysql 1.2.3-1をアップロードした
