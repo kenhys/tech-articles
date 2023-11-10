@@ -13,3 +13,6 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1042697
     * groonga 13.0.9+dfsg-1をアップロードした
   * groonga-normalizer-mysql 1.2.3-1をアップロードした
+* 11/10
+  * groonga-normalizer-mysqlのsalsaへ反映漏れていたのでpushした
+
