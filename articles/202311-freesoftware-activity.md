@@ -15,4 +15,6 @@ published: false
   * groonga-normalizer-mysql 1.2.3-1をアップロードした
 * 11/10
   * groonga-normalizer-mysqlのsalsaへ反映漏れていたのでpushした
-
+* 11/18
+  * https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-apt-json-hook-202309/
+    * debian勉強会で発表した
