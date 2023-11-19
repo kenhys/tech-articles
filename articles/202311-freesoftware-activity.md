@@ -18,3 +18,5 @@ published: false
 * 11/18
   * https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-apt-json-hook-202309/
     * debian勉強会で発表した
+* 11/19
+  * あんどきゅめんてっどでびあん2023年冬号の原稿作業
