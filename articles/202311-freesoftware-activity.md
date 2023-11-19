@@ -20,3 +20,5 @@ published: false
     * debian勉強会で発表した
 * 11/19
   * あんどきゅめんてっどでびあん2023年冬号の原稿作業
+  * https://salsa.debian.org/debian/libhinawa/-/issues/27
+    * libhinawa4のアップロード
