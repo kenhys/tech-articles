@@ -22,3 +22,5 @@ published: false
   * あんどきゅめんてっどでびあん2023年冬号の原稿作業
   * https://salsa.debian.org/debian/libhinawa/-/issues/27
     * libhinawa4のアップロード
+* 11/23
+  * あんどきゅめんてっどでびあん2023年冬号の202301発表文原稿作業
