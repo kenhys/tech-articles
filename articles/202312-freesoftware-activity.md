@@ -12,3 +12,4 @@ published: false
 * 12/09
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1057748
     * digimend-dkms 11-4をexperimentalにアップロードした
+  * developer reference 7.5.1の翻訳更新した
