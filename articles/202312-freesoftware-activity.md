@@ -16,3 +16,7 @@ published: false
 * 12/13
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1058535
     * FTBFSの追試。gi-docgenがバージョンを正しくパースできていなくてエラーになっていた。
+* 12/14
+  * https://salsa.debian.org/debian/digimend-dkms
+    * digimend-dkms 11-5をunstableにアップロードした
+
