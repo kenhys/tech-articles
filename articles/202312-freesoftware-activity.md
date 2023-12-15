@@ -19,4 +19,6 @@ published: false
 * 12/14
   * https://salsa.debian.org/debian/digimend-dkms
     * digimend-dkms 11-5をunstableにアップロードした
-
+* 12/15
+  * https://mentors.debian.net/package/libhinoko/
+    * libhinoko 1.0.1-1をスポンサーアップロードした
