@@ -22,3 +22,6 @@ published: false
 * 12/15
   * https://mentors.debian.net/package/libhinoko/
     * libhinoko 1.0.1-1をスポンサーアップロードした
+* 12/21
+  * https://github.com/collectd/collectd/pull/3840
+    * collectdに以前投げたパッチに関してフィードバック そういえばbullseyeに間に合うように入れたんだった。
