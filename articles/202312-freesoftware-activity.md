@@ -30,3 +30,6 @@ published: false
     * debian-keyringが更新されていないのでフィードバック。debianのインフラではsalsa.d.oと同期しているから問題ないらしい。
   * https://salsa.debian.org/debian/digimend-dkms
     * digimend-dkms 11-7をunstableにアップロードした。loong64をビルド対象に追加した。
+* 12/24
+  * https://github.com/collectd/collectd/pull/3778
+    * LuaJITを検出するためのPRを更新した。3年ほど前のパッチだ。
