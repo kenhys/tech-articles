@@ -25,3 +25,8 @@ published: false
 * 12/21
   * https://github.com/collectd/collectd/pull/3840
     * collectdに以前投げたパッチに関してフィードバック そういえばbullseyeに間に合うように入れたんだった。
+* 12/23
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059350
+    * debian-keyringが更新されていないのでフィードバック。debianのインフラではsalsa.d.oと同期しているから問題ないらしい。
+  * https://salsa.debian.org/debian/digimend-dkms
+    * digimend-dkms 11-7をunstableにアップロードした。loong64をビルド対象に追加した。
