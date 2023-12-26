@@ -33,3 +33,6 @@ published: false
 * 12/24
   * https://github.com/collectd/collectd/pull/3778
     * LuaJITを検出するためのPRを更新した。3年ほど前のパッチだ。
+* 12/26
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1052037
+    * fasttext: armelでインポートできない問題、他の人が直したはずが修正されてなかったので対応した。
