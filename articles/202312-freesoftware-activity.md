@@ -36,3 +36,6 @@ published: false
 * 12/26
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1052037
     * fasttext: armelでインポートできない問題、他の人が直したはずが修正されてなかったので対応した。
+* 12/28
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1052037
+    * fasttext: armelでインポートできない問題、こんどこそちゃんと修正したはず。0.9.2+ds-7をアップロードした。
