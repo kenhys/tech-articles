@@ -39,3 +39,6 @@ published: false
 * 12/28
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1052037
     * fasttext: armelでインポートできない問題、こんどこそちゃんと修正したはず。0.9.2+ds-7をアップロードした。
+* 12/30
+  * https://github.com/collectd/collectd/pull/3795
+    * collectdのLuaプラグインをv6 APIへ移植するPRを書き直した。以前のコードはちょっと読みにくいのでかなりよくなった気がする。再現用の手順もフィードバックしたので検証しやすいはず。
