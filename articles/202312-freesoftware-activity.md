@@ -42,3 +42,6 @@ published: false
 * 12/30
   * https://github.com/collectd/collectd/pull/3795
     * collectdのLuaプラグインをv6 APIへ移植するPRを書き直した。以前のコードはちょっと読みにくいのでかなりよくなった気がする。再現用の手順もフィードバックしたので検証しやすいはず。
+  * https://github.com/collectd/collectd/pull/3777
+  * https://github.com/collectd/collectd/pull/3779
+    * 既存のLuaプラグインのパッチを更新してmainに追従した。
