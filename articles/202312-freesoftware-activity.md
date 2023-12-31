@@ -45,3 +45,6 @@ published: false
   * https://github.com/collectd/collectd/pull/3777
   * https://github.com/collectd/collectd/pull/3779
     * 既存のLuaプラグインのパッチを更新してmainに追従した。
+* 12/31
+  * https://github.com/collectd/collectd/pull/3795
+    * Luaのv6対応の指摘事項を修正した。
