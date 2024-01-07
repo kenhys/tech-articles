@@ -13,3 +13,6 @@ published: false
     * lltsvのloong64に関する要望だが #1059025 と重複しているので閉じた。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059025
     * lltsvのloong64サポートはそもそもgolang-1.21がloong64サポートしていないのでそっちを解決するのが先。block 1059025 by 1055087
+* 1/7
+  * https://github.com/collectd/collectd/pull/3779
+    * luaプラグインにコールバックを追加する実装の修正。notificationは別PRに分けることにした。
