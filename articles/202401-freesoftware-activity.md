@@ -16,3 +16,7 @@ published: false
 * 1/7
   * https://github.com/collectd/collectd/pull/3779
     * luaプラグインにコールバックを追加する実装の修正。notificationは別PRに分けることにした。
+* 1/9
+  * https://lists.debian.org/debian-security-tracker/2024/01/msg00009.html
+    * CVEのbullseyeの表示で違和感があったのでフィードバックした。
+   
