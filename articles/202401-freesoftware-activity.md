@@ -19,4 +19,5 @@ published: false
 * 1/9
   * https://lists.debian.org/debian-security-tracker/2024/01/msg00009.html
     * CVEのbullseyeの表示で違和感があったのでフィードバックした。
-   
+* 1/11
+  * bibata-cursor-theme 2.0.5-1をアップロードした
