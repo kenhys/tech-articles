@@ -21,3 +21,7 @@ published: false
     * CVEのbullseyeの表示で違和感があったのでフィードバックした。
 * 1/11
   * bibata-cursor-theme 2.0.5-1をアップロードした
+* 1/13
+  * https://github.com/collectd/collectd/pull/3795
+    * collectd v6.0対応のLuaに関するドキュメントを追加した。
+
