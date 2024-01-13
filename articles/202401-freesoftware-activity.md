@@ -24,4 +24,6 @@ published: false
 * 1/13
   * https://github.com/collectd/collectd/pull/3795
     * collectd v6.0対応のLuaに関するドキュメントを追加した。
-
+  * https://github.com/collectd/collectd/pull/4235
+    * collectdのnotificationの追加実装をした。
+  * CollectdのTrusted Contributorsにoctoさんから招待された。このTrusted Contributorsというのはコードレビュー担当扱いらしい。Lablesとかを設定できる権限がある。
