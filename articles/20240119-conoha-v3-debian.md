@@ -12,8 +12,8 @@ published: true
 [ひとりしずかに。- ConoHa (v3)にDebianをインストールする方法(2024年1月時点)](https://kenhys.hatenablog.jp/entry/2024/01/14/171628)とのクロス
 ポスト記事です。
 
-2024/01/20(土)のDebian勉強会(オンライン開催)で、本記事の内容を発表予定です。
-[https://debianjp.connpass.com/event/306126/:embed:cite]
+[2024/01/20(土)のDebian勉強会(オンライン開催)](https://debianjp.connpass.com/event/306126)で、本記事の内容を発表予定です。
+
 
 # はじめに
 
