@@ -122,7 +122,7 @@ index 4bec49c..794be48
 他の質問をスキップするために、file=/cdrom/preseed/preseed.cfgを読み込むように指示しておきましょう。
 あとは、preseed.cfgがうまく作り込めていればテキストモードでの質問にいちいち答えなくてもいいわけです。
 
-# preseed.cfgで公開鍵認証を有効にする
+## preseed.cfgで公開鍵認証を有効にする
 
 ```
 # Setup public key
