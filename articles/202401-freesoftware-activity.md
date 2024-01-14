@@ -27,3 +27,7 @@ published: false
   * https://github.com/collectd/collectd/pull/4235
     * collectdのnotificationの追加実装をした。
   * CollectdのTrusted Contributorsにoctoさんから招待された。このTrusted Contributorsというのはコードレビュー担当扱いらしい。Lablesとかを設定できる権限がある。
+* 1/14
+  * https://kenhys.hatenablog.jp/entry/2024/01/14/171628
+    * ConoHa VPS (v3)でDebianをインストールするための記事を書いた
+    * https://zenn.dev/kenhys/articles/20240119-conoha-v3-debian にクロスポストしておいた。
