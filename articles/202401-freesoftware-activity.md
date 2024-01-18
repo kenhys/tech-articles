@@ -34,3 +34,6 @@ published: false
 * 1/17
   * https://github.com/collectd/collectd/pull/4238
     * Luaプラグインのテストがまったくない状態だったのでフィードバックした
+* 1/18
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1061104
+    * libxsimd-devをインストールしたときにいっしょにxtl-devがインストールされない問題をフィードバックした
