@@ -37,3 +37,5 @@ published: false
 * 1/18
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1061104
     * libxsimd-devをインストールしたときにいっしょにxtl-devがインストールされない問題をフィードバックした
+  * https://salsa.debian.org/science-team/xsimd/-/merge_requests/4
+    * libxsimd-devにフィードバックしておいた。
