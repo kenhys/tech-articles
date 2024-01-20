@@ -39,6 +39,9 @@ published: false
     * libxsimd-devをインストールしたときにいっしょにxtl-devがインストールされない問題をフィードバックした
   * https://salsa.debian.org/science-team/xsimd/-/merge_requests/4
     * libxsimd-devにフィードバックしておいた。
+* 1/19
+  * https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-conoha-v3-debian-202401/
+    * Debian勉強会の資料を公開した
 * 1/20
   * https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-conoha-v3-debian-202401/
     * Debian勉強会にてConoHa v3へのインストール方法について紹介した。
