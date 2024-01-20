@@ -47,3 +47,5 @@ published: false
     * Debian勉強会にてConoHa v3へのインストール方法について紹介した。
   * https://salsa.debian.org/debian/libhinawa/-/issues/28
     * libhinawa 4.0.1-1をアップロードした。アップストリームに修正がとりこまれたのでパッチが不要になった。
+  * Groonga 13.1.1+dsfg-1をunstableへとアップロードした。
+  
