@@ -39,3 +39,8 @@ published: false
     * libxsimd-devをインストールしたときにいっしょにxtl-devがインストールされない問題をフィードバックした
   * https://salsa.debian.org/science-team/xsimd/-/merge_requests/4
     * libxsimd-devにフィードバックしておいた。
+* 1/20
+  * https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-conoha-v3-debian-202401/
+    * Debian勉強会にてConoHa v3へのインストール方法について紹介した。
+  * https://salsa.debian.org/debian/libhinawa/-/issues/28
+    * libhinawa 4.0.1-1をアップロードした。アップストリームに修正がとりこまれたのでパッチが不要になった。
