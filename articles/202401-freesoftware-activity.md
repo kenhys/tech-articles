@@ -48,4 +48,6 @@ published: false
   * https://salsa.debian.org/debian/libhinawa/-/issues/28
     * libhinawa 4.0.1-1をアップロードした。アップストリームに修正がとりこまれたのでパッチが不要になった。
   * Groonga 13.1.1+dsfg-1をunstableへとアップロードした。
-  
+* 1/21
+  * https://github.com/collectd/collectd/pull/4238
+    * collectdのLuaプラグインにテストを追加するPRのフィードバックへの対応
