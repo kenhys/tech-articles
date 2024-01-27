@@ -51,3 +51,6 @@ published: false
 * 1/21
   * https://github.com/collectd/collectd/pull/4238
     * collectdのLuaプラグインにテストを追加するPRのフィードバックへの対応
+* 1/27
+  * https://salsa.debian.org/debian/hinawa-utils/-/issues/3
+    * hinawa-utilsの今後についてのフィードバック
