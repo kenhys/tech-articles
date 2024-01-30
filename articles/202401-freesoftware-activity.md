@@ -54,3 +54,8 @@ published: false
 * 1/27
   * https://salsa.debian.org/debian/hinawa-utils/-/issues/3
     * hinawa-utilsの今後についてのフィードバック
+  * https://github.com/collectd/collectd/pull/3227
+    * collectd postgresqlのPRをmainに追従した
+* 1/30
+  * https://salsa.debian.org/debian/libhitaki
+    * 権限をもらったのでlibhitakiをdebian/配下にtransferした
