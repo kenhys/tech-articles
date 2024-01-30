@@ -59,3 +59,5 @@ published: false
 * 1/30
   * https://salsa.debian.org/debian/libhitaki
     * 権限をもらったのでlibhitakiをdebian/配下にtransferした
+  * https://mentors.debian.net/package/libhitaki/#upload-1
+    * libhitakiのITPのレビュー実施
