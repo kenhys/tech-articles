@@ -15,3 +15,7 @@ published: false
 * 2/8
   * https://mentors.debian.net/package/libhitaki/#upload-3
     * libhitakiへのフィードバックを実施
+  * https://github.com/groonga/groonga/discussions/1698
+    * Groongaの64bit time_tに関してフィードバック。入力のtime_tは問題ありそうだけど、データベースにはあまり影響しなさそう。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1062131
+    * groongaの64bit time_tに関してフィードバック。
