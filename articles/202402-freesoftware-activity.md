@@ -19,3 +19,9 @@ published: false
     * Groongaの64bit time_tに関してフィードバック。入力のtime_tは問題ありそうだけど、データベースにはあまり影響しなさそう。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1062131
     * groongaの64bit time_tに関してフィードバック。
+* 2/9
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1062131
+    * groonga 13.1.1+dfsg-1.2でabi=+time64を有効にしてexperimentalにアップロードした
+  * https://mentors.debian.net/package/libhitaki
+    * libhitakiをスポンサーしてnew queueにアップロードした(はず)
+
