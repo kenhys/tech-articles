@@ -24,4 +24,8 @@ published: false
     * groonga 13.1.1+dfsg-1.2でabi=+time64を有効にしてexperimentalにアップロードした
   * https://mentors.debian.net/package/libhitaki
     * libhitakiをスポンサーしてnew queueにアップロードした(はず)
+* 2/13
+  * https://mentors.debian.net/package/libhitaki
+    * アップロードに失敗していた、libhitakiのスポンサーアップロード。new queueに入った。
+
 
