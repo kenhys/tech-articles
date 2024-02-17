@@ -27,5 +27,6 @@ published: false
 * 2/13
   * https://mentors.debian.net/package/libhitaki
     * アップロードに失敗していた、libhitakiのスポンサーアップロード。new queueに入った。
-
-
+* 2/16
+  * https://mentors.debian.net/package/libhitaki
+    * libhitaki 0.2.1のスポンサーアップロード
