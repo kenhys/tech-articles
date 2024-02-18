@@ -30,3 +30,6 @@ published: false
 * 2/16
   * https://mentors.debian.net/package/libhitaki
     * libhitaki 0.2.1のスポンサーアップロード
+* 2/18
+  * https://salsa.debian.org/debian/hinawa-utils/-/issues/3
+    * hinawa-utils 0.4.0をアップロードした。
