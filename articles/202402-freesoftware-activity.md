@@ -33,3 +33,6 @@ published: false
 * 2/18
   * https://salsa.debian.org/debian/hinawa-utils/-/issues/3
     * hinawa-utils 0.4.0をアップロードした。
+* 2/20
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1056354
+    * hinawa-utils 0.4.0-1により修正されているので、バグを閉じた。
