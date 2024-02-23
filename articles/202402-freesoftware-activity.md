@@ -36,3 +36,6 @@ published: false
 * 2/20
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1056354
     * hinawa-utils 0.4.0-1により修正されているので、バグを閉じた。
+* 2/23
+  * https://github.com/collectd/collectd/pull/4238
+    * luaプラグインでrelease-readyのチェックでひっかかっていた問題を修正した。
