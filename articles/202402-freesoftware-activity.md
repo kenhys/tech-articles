@@ -42,3 +42,4 @@ published: false
 * 2/24
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059025
     * lltsvをloong64向けにビルドするようにArchitecture:を修正した。
+  * sentencepiece 0.2.0-1をアップロードした。
