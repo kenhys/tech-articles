@@ -39,3 +39,6 @@ published: false
 * 2/23
   * https://github.com/collectd/collectd/pull/4238
     * luaプラグインでrelease-readyのチェックでひっかかっていた問題を修正した。
+* 2/24
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059025
+    * lltsvをloong64向けにビルドするようにArchitecture:を修正した。
