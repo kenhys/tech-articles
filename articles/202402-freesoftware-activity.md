@@ -43,3 +43,5 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059025
     * lltsvをloong64向けにビルドするようにArchitecture:を修正した。
   * sentencepiece 0.2.0-1をアップロードした。
+* 2/25
+  * digimend-dkms v12がリリースされていたので、12-1をアップロードした。
