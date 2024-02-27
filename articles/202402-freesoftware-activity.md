@@ -45,3 +45,6 @@ published: false
   * sentencepiece 0.2.0-1をアップロードした。
 * 2/25
   * digimend-dkms v12がリリースされていたので、12-1をアップロードした。
+* 2/27
+  * bibata-cursor-theme 2.0.5-1をアップロードした。
+
