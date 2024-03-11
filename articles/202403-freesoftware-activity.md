@@ -11,4 +11,6 @@ published: false
 * 3/8
   * https://bugs.debian.org/1065647
     * lists.debian.orgのカテゴリ分けがわかりにくい気がするのでフィードバックした。
-  
+* 3/11
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1066031
+    * groongaが依存するzeromq3のせいでBD-Uninstallableなのでgiven-backしてもらうようにフィードバックした。
