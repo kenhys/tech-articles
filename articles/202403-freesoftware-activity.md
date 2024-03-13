@@ -17,3 +17,5 @@ published: false
 * 3/12
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1066031#10
     * given-backは対象となる依存先のパッケージがInstalledな状態では実行できないっぽい。その場合はnmuとしてリクエストすべきなようだ。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1066519
+    * givebackアクションをInstalledなパッケージに対して実行できないのでフィードバックしておいた。
