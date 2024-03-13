@@ -14,3 +14,6 @@ published: false
 * 3/11
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1066031
     * groongaが依存するzeromq3のせいでBD-Uninstallableなのでgiven-backしてもらうようにフィードバックした。
+* 3/12
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1066031#10
+    * given-backは対象となる依存先のパッケージがInstalledな状態では実行できないっぽい。その場合はnmuとしてリクエストすべきなようだ。
