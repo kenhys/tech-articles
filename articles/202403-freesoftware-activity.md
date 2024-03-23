@@ -24,3 +24,4 @@ published: false
   * libhinawa 4.0.1-2.2のNMUをリポジトリに反映した
   * groonga-normalizer-mysql Depends: libgroonga0t64が不要なので削除して1.2.3-3としてアップロードした。
   * groonga 13.1.1+dfsg-1.1でpkg-configへのBuild-Depends:がE:扱いになるので、13.1.1+dfsg-2としてアップロードした。
+  * groonga 13.1.1+dfsg-2でpkg-configへのDepends:の修正漏れがあったので、13.1.1+dfsg-3としてアップロードした。
