@@ -27,3 +27,5 @@ published: false
   * groonga 13.1.1+dfsg-2でpkg-configへのDepends:の修正漏れがあったので、13.1.1+dfsg-3としてアップロードした。
   * https://salsa.debian.org/debian/grow-your-ideas/-/issues/44
     * armelやarmhfのbuilddリソースが足りてなさそうなので、既存のbuilddを一部共用できないか案をだしてみた。
+  * https://kenhys.hatenablog.jp/entry/2024/03/23/211515
+    * issues#44 をPlanetDebianに記事として投稿してみた。
