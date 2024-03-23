@@ -19,3 +19,6 @@ published: false
     * given-backは対象となる依存先のパッケージがInstalledな状態では実行できないっぽい。その場合はnmuとしてリクエストすべきなようだ。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1066519
     * givebackアクションをInstalledなパッケージに対して実行できないのでフィードバックしておいた。
+* 3/23
+  * libhinawa 4.0.1-2.1のNMUをリポジトリに反映した
+  * libhinawa 4.0.1-2.2のNMUをリポジトリに反映した
