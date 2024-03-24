@@ -29,3 +29,6 @@ published: false
     * armelやarmhfのbuilddリソースが足りてなさそうなので、既存のbuilddを一部共用できないか案をだしてみた。
   * https://kenhys.hatenablog.jp/entry/2024/03/23/211515
     * issues#44 をPlanetDebianに記事として投稿してみた。
+* 3/24
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067585
+    * groonga-normalizer-mysql 1.2.3-3で修正済みなので、クローズした。
