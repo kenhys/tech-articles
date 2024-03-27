@@ -32,3 +32,5 @@ published: false
 * 3/24
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067585
     * groonga-normalizer-mysql 1.2.3-3で修正済みなので、クローズした。
+  * http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067603
+    * contextfreeがarmel,armhfでビルドできないのをフィードバックした。
