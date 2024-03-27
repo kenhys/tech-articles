@@ -34,3 +34,8 @@ published: false
     * groonga-normalizer-mysql 1.2.3-3で修正済みなので、クローズした。
   * http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067603
     * contextfreeがarmel,armhfでビルドできないのをフィードバックした。
+* 3/27
+  * http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067837
+    * tremotesf 2.6.0-1がarmelでftbfsなのをフィードバックした。
+  * http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067839
+    * triton 2.0.0.post1-4がarmelでftbfsなのをフィードバックした。
