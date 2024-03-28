@@ -39,3 +39,8 @@ published: false
     * tremotesf 2.6.0-1がarmelでftbfsなのをフィードバックした。
   * http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067839
     * triton 2.0.0.post1-4がarmelでftbfsなのをフィードバックした。
+* 3/28
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067839
+    * tritonのseverityをimportantからseriousに変更。ftbfsなので。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067603#12
+    * contextfreeで質問がきていたのでフィードバックした。
