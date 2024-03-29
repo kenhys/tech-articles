@@ -44,3 +44,15 @@ published: false
     * tritonのseverityをimportantからseriousに変更。ftbfsなので。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067603#12
     * contextfreeで質問がきていたのでフィードバックした。
+* 3/29
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067952
+    * mes 0.26-1のftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067954
+    * openmesh 9.0-4のftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067956
+    * roalution 5.7.1-2のftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067958
+    * ruy 0.0.0~git20230215.21a85fe-1のftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067959
+    * sambamba 1.0.1+dfsg-1のftbfsをフィードバックした。
+
