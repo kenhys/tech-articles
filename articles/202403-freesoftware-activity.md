@@ -72,4 +72,11 @@ published: false
     * libgtkada 24.0.0-2 armelのftbfsをフィードバックした。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068058
     * libgtkada 24.0.0-2 armhfのftbfsをフィードバックした。
-
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068063
+    * sssd 2.9.4-1.1 armel, armhfのftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068065
+    * quorum 1.1.2-2 armel, armhf, i386のftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068066
+    * docker-registry 2.8.2+ds1-1 armhfのftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068067
+    * fpzip 1.3.0-3 armel,armhf,i386のftbfsをフィードバックした。
