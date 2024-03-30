@@ -80,3 +80,5 @@ published: false
     * docker-registry 2.8.2+ds1-1 armhfのftbfsをフィードバックした。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068067
     * fpzip 1.3.0-3 armel,armhf,i386のftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1065647
+    * debian-wwwにProposal:として提案してみた。
