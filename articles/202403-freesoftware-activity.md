@@ -55,4 +55,21 @@ published: false
     * ruy 0.0.0~git20230215.21a85fe-1のftbfsをフィードバックした。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1067959
     * sambamba 1.0.1+dfsg-1のftbfsをフィードバックした。
+* 3/30
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068051
+    * tilix 1.9.6-2のftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068052
+    * openms 2.6.0+cleaned1-4のftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068054
+    * rauc 1.11.3-1 armel,armhfのftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068055
+    * ccls 0.20230717-1 armelのftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068056
+    * ccls 0.20230717-1 armhfのftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1041803
+    * hyperspy: ftbfsタグがなかったので付与した
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068057
+    * libgtkada 24.0.0-2 armelのftbfsをフィードバックした。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068058
+    * libgtkada 24.0.0-2 armhfのftbfsをフィードバックした。
 
