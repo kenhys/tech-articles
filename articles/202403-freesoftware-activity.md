@@ -84,3 +84,7 @@ published: false
     * debian-wwwにProposal:として提案してみた。
 * 3/31
   * groonga-normalizer-mysql 1.2.3-4をアップロードした。
+  * https://mentors.debian.net/package/libhitaki/
+    * libhitaki 0.2.1-2をスポンサーアップロードした。
+  * https://mentors.debian.net/package/libhinoko/#upload-1
+    * libhinoko 1.0.1-4についてレビューした。
