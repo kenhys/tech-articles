@@ -82,3 +82,5 @@ published: false
     * fpzip 1.3.0-3 armel,armhf,i386のftbfsをフィードバックした。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1065647
     * debian-wwwにProposal:として提案してみた。
+* 3/31
+  * groonga-normalizer-mysql 1.2.3-4をアップロードした。
