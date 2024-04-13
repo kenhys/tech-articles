@@ -17,3 +17,8 @@ published: false
     * libhinoko 1.0.2-1のスポンサーアップロード実施
   * https://mentors.debian.net/package/linux-firewire-utils/
     * linux-firewire-utils 0.5.1-1のスポンサーアップロード実施
+* 4/13
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068925
+    * macromoleculebuilder 4.0.0+dfsg-3.1のarmhfでのFTBFSをフィードバックした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068928
+    * lammps 20240207+dfsg-1.1のarmhfでのFTBFSをフィードバックした
