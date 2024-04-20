@@ -22,3 +22,11 @@ published: false
     * macromoleculebuilder 4.0.0+dfsg-3.1のarmhfでのFTBFSをフィードバックした
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068928
     * lammps 20240207+dfsg-1.1のarmhfでのFTBFSをフィードバックした
+* 4/20
+  * Debian勉強会で64bit time_tについて発表
+  * http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1069344
+    * netgen 6.2.2401+dfsg1-1.1のarmhfでのFTBFSをフィードバックした
+  * http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1069345
+    * qwinff 0.2.1+git20201215-2のarmhfでのFTBFSをフィードバックした
+  * http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1069347
+    * rust-servo-freetype-sys_4.0.5-2のarmhfでのFTBFSをフィードバックした
