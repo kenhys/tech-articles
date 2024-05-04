@@ -24,3 +24,5 @@ published: false
     * libhinawa 4.0.2-1をunstableにアップロードした
   * https://github.com/collectd/collectd/pull/3227
     * collectdへpostgresqlのmetadata拡張をrebaseしておいた。mainにマージしたい
+  * https://salsa.debian.org/debian/libhinawa/-/issues/29
+    * libhinawa 4.0.2-1をアップロードしたのでissuesを閉じた
