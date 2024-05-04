@@ -28,3 +28,4 @@ published: false
     * libhinawa 4.0.2-1をアップロードしたのでissuesを閉じた
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059706
     * collectdのPRをみていたら、CIが壊れているのでepics-base.pcが壊れている理由について調べてフィードバックした。
+    * epics-base.pcが壊れている問題を調査して、暫定パッチをフィードバックしておいた。
