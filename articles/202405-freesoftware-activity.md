@@ -20,3 +20,7 @@ published: false
     * digimend-dkmsのskip-without-CONFIG_USB_HID.patchをupstreamにフィードバックした
   * https://github.com/DIGImend/digimend-kernel-drivers/pull/687
     * digimend-dkmsのudev-udevdir.patchをupstreamにフィードバックした
+  * https://tracker.debian.org/pkg/libhinawa
+    * libhinawa 4.0.2-1をunstableにアップロードした
+  * https://github.com/collectd/collectd/pull/3227
+    * collectdへpostgresqlのmetadata拡張をrebaseしておいた。mainにマージしたい
