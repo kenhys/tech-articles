@@ -26,3 +26,5 @@ published: false
     * collectdへpostgresqlのmetadata拡張をrebaseしておいた。mainにマージしたい
   * https://salsa.debian.org/debian/libhinawa/-/issues/29
     * libhinawa 4.0.2-1をアップロードしたのでissuesを閉じた
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059706
+    * collectdのPRをみていたら、CIが壊れているのでepics-base.pcが壊れている理由について調べてフィードバックした。
