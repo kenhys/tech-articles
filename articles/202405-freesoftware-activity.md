@@ -29,3 +29,10 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059706
     * collectdのPRをみていたら、CIが壊れているのでepics-base.pcが壊れている理由について調べてフィードバックした。
     * epics-base.pcが壊れている問題を調査して、暫定パッチをフィードバックしておいた。
+* 5/5
+  * https://salsa.debian.org/kenhys/lintian/-/merge_requests/1
+    * autopkgtestが1h超えるので、タイムアウトの指定値をチェックするようにしてみた
+  * https://salsa.debian.org/lintian/lintian/-/merge_requests/503
+    * autopkgtestが1h超えるので、タイムアウトの指定値をチェックするようにしてみた
+  * https://lists.debian.org/debian-www/2024/05/msg00013.html
+    * lists.debian.orgのカテゴリ分けの提案の話がすすんでいないので再度投稿しておいた
