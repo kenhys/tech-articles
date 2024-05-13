@@ -36,3 +36,8 @@ published: false
     * autopkgtestが1h超えるので、タイムアウトの指定値をチェックするようにしてみた
   * https://lists.debian.org/debian-www/2024/05/msg00013.html
     * lists.debian.orgのカテゴリ分けの提案の話がすすんでいないので再度投稿しておいた
+* 5/13
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071044
+    * rust-libmimalloc-sysのarmhfでのFTBFSをフィードバックした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071046
+    * rust-mimallocのarmhfでのFTBFSをフィードバックした
