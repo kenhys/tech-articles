@@ -41,3 +41,5 @@ published: false
     * rust-libmimalloc-sysのarmhfでのFTBFSをフィードバックした
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071046
     * rust-mimallocのarmhfでのFTBFSをフィードバックした
+  * http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071048
+    * rust-coreutilsのarmhfでのFTBFSをフィードバックした
