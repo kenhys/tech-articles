@@ -43,3 +43,6 @@ published: false
     * rust-mimallocのarmhfでのFTBFSをフィードバックした
   * http://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071048
     * rust-coreutilsのarmhfでのFTBFSをフィードバックした
+* 5/14
+  * https://github.com/epics-base/epics-base/issues/483
+    * epics-baseのヘッダのイントールパスの変更を提案しておいた
