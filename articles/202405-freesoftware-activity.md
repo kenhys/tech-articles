@@ -46,3 +46,8 @@ published: false
 * 5/14
   * https://github.com/epics-base/epics-base/issues/483
     * epics-baseのヘッダのイントールパスの変更を提案しておいた
+* 5/17
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068186
+    * mozcがftbfsになる問題のフィードバックをした
+    * upstreamのパッチをフィードバックした
+    * パッチを適用してもそれですべて修正できるわけではないということがわかったのでコメントしておいた
