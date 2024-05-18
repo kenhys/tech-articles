@@ -55,3 +55,5 @@ published: false
   * https://github.com/epics-base/epics-base/issues/483
     * epics-baseに対してデフォルトパスを変更するように提案したが、そもそもシステムワイドでインストールすべきではないことがわかった。
       複数のバージョンをインストールすることを想定していて、その場合は明示的にINSTALL_LOCATIONを独自のものにする流儀のようだ。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068186#28
+    * MozcがsidでFTBFSとなる問題の追加パッチを作成した
