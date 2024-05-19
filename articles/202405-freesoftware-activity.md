@@ -57,3 +57,6 @@ published: false
       複数のバージョンをインストールすることを想定していて、その場合は明示的にINSTALL_LOCATIONを独自のものにする流儀のようだ。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068186#28
     * MozcがsidでFTBFSとなる問題の追加パッチを作成した
+* 5/19
+  * https://salsa.debian.org/salsa-ci-team/pipeline/-/merge_requests/505
+    * gbp export-origが失敗しても処理続けちゃうのはまずいのでfallbackを無効化できるようにフィードバックした
