@@ -60,3 +60,5 @@ published: false
 * 5/19
   * https://salsa.debian.org/salsa-ci-team/pipeline/-/merge_requests/505
     * gbp export-origが失敗しても処理続けちゃうのはまずいのでfallbackを無効化できるようにフィードバックした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1045435
+    * mozc のdouble buildの問題を修正するパッチを投げた
