@@ -65,3 +65,5 @@ published: false
 * 5/22
   * https://twitter.com/kenhys/status/1793132755821416680
     * Mozcのメンテナーであるいわまつさんにパッチをみてもらうように依頼
+  * https://salsa.debian.org/salsa-ci-team/pipeline/-/merge_requests/505
+    * MRのCONTRIBUTORSへの記載が漏れていたので更新
