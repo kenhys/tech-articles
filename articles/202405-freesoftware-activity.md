@@ -62,3 +62,6 @@ published: false
     * gbp export-origが失敗しても処理続けちゃうのはまずいのでfallbackを無効化できるようにフィードバックした
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1045435
     * mozc のdouble buildの問題を修正するパッチを投げた
+* 5/22
+  * https://twitter.com/kenhys/status/1793132755821416680
+    * Mozcのメンテナーであるいわまつさんにパッチをみてもらうように依頼
