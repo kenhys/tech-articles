@@ -67,3 +67,6 @@ published: false
     * Mozcのメンテナーであるいわまつさんにパッチをみてもらうように依頼
   * https://salsa.debian.org/salsa-ci-team/pipeline/-/merge_requests/505
     * MRのCONTRIBUTORSへの記載が漏れていたので更新
+* 5/24
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1049806
+    * Mozc: #1045434で再現しなかったので、unreproducibleタグを付与しておいた
