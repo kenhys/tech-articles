@@ -73,3 +73,9 @@ published: false
 * 5/25
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071827
     * mozc: gbp buildpackageがpristine-tar branchのコミットがないせいでできないのでフィードバックした
+  * https://salsa.debian.org/science-team/epics-base/-/merge_requests/2
+    * epics-base: epics-base.pcのパスを修正するパッチを投げたが、MRとしてもフィードバックした
+  * https://salsa.debian.org/science-team/epics-base/-/merge_requests/3
+    * epics-base: epics-base.pcのincludeパスを修正するパッチを投げたが、MRとしてもフィードバックした
+  * https://salsa.debian.org/science-team/epics-base/-/merge_requests/4
+    * epics-base: gbp.confのcompressionの設定が誤っているのでフィードバックした
