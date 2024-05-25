@@ -70,3 +70,6 @@ published: false
 * 5/24
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1049806
     * Mozc: #1045434で再現しなかったので、unreproducibleタグを付与しておいた
+* 5/25
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071827
+    * mozc: gbp buildpackageがpristine-tar branchのコミットがないせいでできないのでフィードバックした
