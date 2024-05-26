@@ -79,3 +79,8 @@ published: false
     * epics-base: epics-base.pcのincludeパスを修正するパッチを投げたが、MRとしてもフィードバックした
   * https://salsa.debian.org/science-team/epics-base/-/merge_requests/4
     * epics-base: gbp.confのcompressionの設定が誤っているのでフィードバックした
+* 5/26
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1066031
+    * zeromq3: auto rebuildで依存関係の問題が解決しているのでバグを閉じた。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068186
+    * mozc: twitterはもうみていないかもしれないので、メンテナーのiwamatsuさんに直接メール @debian.org してコンタクトを試みた
