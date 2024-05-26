@@ -84,3 +84,5 @@ published: false
     * zeromq3: auto rebuildで依存関係の問題が解決しているのでバグを閉じた。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068186
     * mozc: twitterはもうみていないかもしれないので、メンテナーのiwamatsuさんに直接メール @debian.org してコンタクトを試みた
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071949
+    * freerdp3: armhfのFTBFSをフィードバックした
