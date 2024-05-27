@@ -86,3 +86,6 @@ published: false
     * mozc: twitterはもうみていないかもしれないので、メンテナーのiwamatsuさんに直接メール @debian.org してコンタクトを試みた
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1071949
     * freerdp3: armhfのFTBFSをフィードバックした
+* 5/27
+  * https://salsa.debian.org/salsa-ci-team/pipeline/-/merge_requests/505
+    * フィードバックがあったので対応した。origtargzなんでやっているんだろうなこれ。
