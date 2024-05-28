@@ -89,3 +89,6 @@ published: false
 * 5/27
   * https://salsa.debian.org/salsa-ci-team/pipeline/-/merge_requests/505
     * フィードバックがあったので対応した。origtargzなんでやっているんだろうなこれ。
+* 5/28
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1061004
+    * guestfs-tools: Closes:でバグを閉じていないのでフィードバックした
