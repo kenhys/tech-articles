@@ -11,3 +11,5 @@ published: false
     * mozc: source after successful buildのパッチをマージリクエストにしてフィードバックしておいた
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1049806
     * mozc: binary after successful buildが再現したのでunreproducibleタグを除去した
+  * https://salsa.debian.org/debian/mozc/-/merge_requests/12
+    * mozc: blhcはmozcのビルドでまだ満たせないのでallow_failure: trueを適用するようにフィードバック
