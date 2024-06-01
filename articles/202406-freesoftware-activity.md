@@ -13,3 +13,5 @@ published: false
     * mozc: binary after successful buildが再現したのでunreproducibleタグを除去した
   * https://salsa.debian.org/debian/mozc/-/merge_requests/12
     * mozc: blhcはmozcのビルドでまだ満たせないのでallow_failure: trueを適用するようにフィードバック
+  * https://salsa.debian.org/vim-team/vim-debian/-/merge_requests/16
+    * deb822でEnabled:フィールドのシンタックスハイライトができないのを修正した。フィードバック先のリポジトリはここでいいんだろうか。vim-runtimeに含まれるはずのものなんだけど。
