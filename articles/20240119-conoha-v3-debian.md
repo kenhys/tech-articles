@@ -9,6 +9,10 @@ published: true
 
 本記事はConoHa VPS (v3)でDebianのインスタンスを立てようとおもったら、標準イメージにDebianがなくて切ない思いをしたひとのための記事です。
 
+:::message alert
+2024/05/23 [【リリース】[VPS] Debian提供再開のお知らせ](https://www.conoha.jp/vps/news/?btn_id=vps-top--news_vps-news&ap=2015053467)とあるように、標準でDebianのテンプレートイメージの提供が再開されました。そのため、本記事の内容は古くなっています。
+:::
+
 [ひとりしずかに。- ConoHa (v3)にDebianをインストールする方法(2024年1月時点)](https://kenhys.hatenablog.jp/entry/2024/01/14/171628)とのクロス
 ポスト記事です。
 
