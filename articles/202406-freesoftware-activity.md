@@ -15,3 +15,6 @@ published: false
     * mozc: blhcはmozcのビルドでまだ満たせないのでallow_failure: trueを適用するようにフィードバック
   * https://salsa.debian.org/vim-team/vim-debian/-/merge_requests/16
     * deb822でEnabled:フィールドのシンタックスハイライトができないのを修正した。フィードバック先のリポジトリはここでいいんだろうか。vim-runtimeに含まれるはずのものなんだけど。
+* 6/2
+  * https://github.com/vim/vim/pull/14898
+    * vim: deb822のEnabledフィールドへのフィードバックをvim本体にもPRとして投げておいた。
