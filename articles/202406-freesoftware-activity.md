@@ -20,3 +20,5 @@ published: false
     * vim: deb822のEnabledフィールドへのフィードバックをvim本体にもPRとして投げておいた。
   * https://kenhys.hatenablog.jp/entry/2024/01/14/171628
     * ConoHa VPS V3でDebianをインストールするのに、標準テンプレートとして提供されるようになったので、注記を追記しておいた。
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068202#12
+    * bazel-bootstrap: abslが多分更新されたせいでFTBFSが発生していたのでパッチを投げた
