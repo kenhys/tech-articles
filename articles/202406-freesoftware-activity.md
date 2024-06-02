@@ -18,3 +18,5 @@ published: false
 * 6/2
   * https://github.com/vim/vim/pull/14898
     * vim: deb822のEnabledフィールドへのフィードバックをvim本体にもPRとして投げておいた。
+  * https://kenhys.hatenablog.jp/entry/2024/01/14/171628
+    * ConoHa VPS V3でDebianをインストールするのに、標準テンプレートとして提供されるようになったので、注記を追記しておいた。
