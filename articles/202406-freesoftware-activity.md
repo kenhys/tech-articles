@@ -22,3 +22,7 @@ published: false
     * ConoHa VPS V3でDebianをインストールするのに、標準テンプレートとして提供されるようになったので、注記を追記しておいた。
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068202#12
     * bazel-bootstrap: abslが多分更新されたせいでFTBFSが発生していたのでパッチを投げた
+* 6/3
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068202#19
+  * https://salsa.debian.org/bazel-team/bazel-bootstrap/-/merge_requests/3
+    * bazel-bootstrap: パッチをMRとしてフィードバックしておいた
