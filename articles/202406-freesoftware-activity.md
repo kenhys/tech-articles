@@ -26,3 +26,6 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068202#19
   * https://salsa.debian.org/bazel-team/bazel-bootstrap/-/merge_requests/3
     * bazel-bootstrap: パッチをMRとしてフィードバックしておいた
+* 6/4
+  * https://salsa.debian.org/bazel-team/bazel-bootstrap/-/merge_requests/3
+    * bazel-bootstrap: テストが失敗するとの指摘に対して、piupartsだと現状のパッケージでは必ず失敗する旨をフィードバックした
