@@ -29,3 +29,9 @@ published: false
 * 6/4
   * https://salsa.debian.org/bazel-team/bazel-bootstrap/-/merge_requests/3
     * bazel-bootstrap: テストが失敗するとの指摘に対して、piupartsだと現状のパッケージでは必ず失敗する旨をフィードバックした
+* 6/5
+  * https://salsa.debian.org/salsa-ci-team/pipeline/-/merge_requests/505
+    * フィードバックがあったのでmozcのforkリポジトリで実験
+* 6/9
+  * https://salsa.debian.org/debian/mozc/-/merge_requests/14
+    * mozc: debian/watchを追加するフィードバック
