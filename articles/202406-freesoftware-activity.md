@@ -35,3 +35,9 @@ published: false
 * 6/9
   * https://salsa.debian.org/debian/mozc/-/merge_requests/14
     * mozc: debian/watchを追加するフィードバック
+* 6/14
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1073192
+    * lz4: CMake向けのファイルがインストールされない問題をフィードバック
+* 6/17
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1073192
+    * lz4: CMakeでビルドするためのパッチをフィードバック
