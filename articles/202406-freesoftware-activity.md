@@ -41,3 +41,6 @@ published: false
 * 6/17
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1073192
     * lz4: CMakeでビルドするためのパッチをフィードバック
+* 6/20
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1070063
+    * remmina: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1070078 で修正されていそうなのでフィードバックした
