@@ -44,3 +44,8 @@ published: false
 * 6/20
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1070063
     * remmina: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1070078 で修正されていそうなのでフィードバックした
+* 6/22
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1073192
+    * lz4: CMakeでビルドするようにしたときに.symbolsで差分がでていた問題を解消
+  * https://salsa.debian.org/debian/lz4/-/merge_requests/8
+    * lz4: フィードバックしたパッチを含めたMRにした
