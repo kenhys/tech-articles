@@ -33,3 +33,5 @@ published: false
     * initramfs-toolsの不具合を踏んだので作業環境を復旧していた
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1040005
     * budgie-desktop がインストールできないのでフィードバック
+  * https://slide.rabbit-shocker.org/authors/kenhys/tokyodebian-tag2upload/
+    * Debian勉強会で発表した
