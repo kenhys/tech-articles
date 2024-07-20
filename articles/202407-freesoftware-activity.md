@@ -29,5 +29,7 @@ published: false
 * 7/19
   * 開発環境を再構築。/bootが足りなくなる状況が続いたためやむなく。ただしinitramfsのバグ踏んでいそうではある。
 * 7/20
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1076582
+    * initramfs-toolsの不具合を踏んだので作業環境を復旧していた
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1040005
     * budgie-desktop がインストールできないのでフィードバック
