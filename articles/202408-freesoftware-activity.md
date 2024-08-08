@@ -22,4 +22,18 @@ published: false
     * mozc: MR!12をマージしたのでdebian/sidに追従した
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1077974
     * gr-framework: ITPによりパッケージングする意図を宣言した
-
+* 8/6
+  * https://salsa.debian.org/bottoms/pkg-gr-air-modes/-/merge_requests/3
+    * gr-air-modes: GNU Radioの表記に統一
+  * https://salsa.debian.org/rubund/gr-dab/-/merge_requests/2
+    * gr-dab: GNU Radioの表記に統一
+  * https://salsa.debian.org/bottoms/pkg-gr-fosphor/-/merge_requests/1
+    * gr-fosphor: GNU Radioの表記に統一
+  * https://salsa.debian.org/debian-hamradio-team/gr-gsm/-/merge_requests/2
+    * gr-gsm: GNU Radioの表記に統一
+  * https://salsa.debian.org/debian-hamradio-team/gr-hpsdr/-/merge_requests/3
+    * gr-hpsdr: GNU Radioの表記に統一
+  * https://salsa.debian.org/bottoms/pkg-gr-osmosdr/-/merge_requests/1
+    * gr-osmosdr: GNU Radioの表記に統一
+  * https://salsa.debian.org/debian-hamradio-team/gr-limesdr/-/merge_requests/2
+    * gr-limesdr: GNU Radioの表記に統一
