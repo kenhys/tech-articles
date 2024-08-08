@@ -37,3 +37,6 @@ published: false
     * gr-osmosdr: GNU Radioの表記に統一
   * https://salsa.debian.org/debian-hamradio-team/gr-limesdr/-/merge_requests/2
     * gr-limesdr: GNU Radioの表記に統一
+* 8/8
+  * https://salsa.debian.org/debian/lz4/-/merge_requests/9
+    * lz4: depends libxxhash-devするようにフィードバック
