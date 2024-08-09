@@ -40,3 +40,6 @@ published: false
 * 8/8
   * https://salsa.debian.org/debian/lz4/-/merge_requests/9
     * lz4: depends libxxhash-devするようにフィードバック
+* 8/9
+  * https://salsa.debian.org/debian/lz4/-/merge_requests/9
+    * lz4: libxxhashが透過的にインストールされないと失敗する件、yuzuで事前にインストールされていれば解決するのでフィードバック
