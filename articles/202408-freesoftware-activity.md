@@ -46,3 +46,11 @@ published: false
 * 8/10
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1078280
     * docker.io: docker composeの件をフィードバックしようとしたら、FTBFSで引っかかったのでエラーについて報告
+  * https://salsa.debian.org/bottoms/pkg-gr-air-modes/-/merge_requests/3
+  * https://salsa.debian.org/rubund/gr-dab/-/merge_requests/2
+  * https://salsa.debian.org/bottoms/pkg-gr-fosphor/-/merge_requests/1
+  * https://salsa.debian.org/debian-hamradio-team/gr-gsm/-/merge_requests/2
+  * https://salsa.debian.org/debian-hamradio-team/gr-hpsdr/-/merge_requests/3
+  * https://salsa.debian.org/bottoms/pkg-gr-osmosdr/-/merge_requests/1
+  * https://salsa.debian.org/debian-hamradio-team/gr-limesdr/-/merge_requests/2
+    * 直近のメンテナーにレビューを依頼した
