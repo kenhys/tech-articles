@@ -43,3 +43,6 @@ published: false
 * 8/9
   * https://salsa.debian.org/debian/lz4/-/merge_requests/9
     * lz4: libxxhashが透過的にインストールされないと失敗する件、yuzuで事前にインストールされていれば解決するのでフィードバック
+* 8/10
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1078280
+    * docker.io: docker composeの件をフィードバックしようとしたら、FTBFSで引っかかったのでエラーについて報告
