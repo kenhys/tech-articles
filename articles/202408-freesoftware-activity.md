@@ -54,3 +54,6 @@ published: false
   * https://salsa.debian.org/bottoms/pkg-gr-osmosdr/-/merge_requests/1
   * https://salsa.debian.org/debian-hamradio-team/gr-limesdr/-/merge_requests/2
     * 直近のメンテナーにレビューを依頼した
+* 8/12
+  * https://github.com/sciapp/gr/pull/187
+    * gr-frameworkをパッケージングしようとしていて見つけたtypoをフィードバックした
