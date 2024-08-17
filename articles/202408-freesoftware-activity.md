@@ -57,3 +57,8 @@ published: false
 * 8/12
   * https://github.com/sciapp/gr/pull/187
     * gr-frameworkをパッケージングしようとしていて見つけたtypoをフィードバックした
+* 8/17
+  * https://salsa.debian.org/science-team/gr-framework/
+    * ようやく作業中のgr-frameworkのリポジトリをsalsa.d.oに反映した
+  * https://lists.debian.org/debian-science/2024/08/threads.html
+    * gr-frameworkのCI/CD設定を変更してもらうように依頼を投げた
