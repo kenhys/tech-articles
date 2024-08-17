@@ -62,3 +62,5 @@ published: false
     * ようやく作業中のgr-frameworkのリポジトリをsalsa.d.oに反映した
   * https://lists.debian.org/debian-science/2024/08/threads.html
     * gr-frameworkのCI/CD設定を変更してもらうように依頼を投げた
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1053061
+    * mecabのFTBFSについてはDebian勉強会でknokさんにお願いしておいた
