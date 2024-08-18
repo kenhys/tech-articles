@@ -67,3 +67,5 @@ published: false
 * 8/18
   * https://ftp-master.debian.org/new/gr-framework_0.73.7+dfsg-1.html
     * gr-framework: new-queueにパッケージをアップロードするところまで実施した
+  * https://github.com/sciapp/gr/pull/188
+    * gr-framework: gksmがcmakeを使うとインストールされない問題をフィードバックした
