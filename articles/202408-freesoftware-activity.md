@@ -64,3 +64,6 @@ published: false
     * gr-frameworkのCI/CD設定を変更してもらうように依頼を投げた
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1053061
     * mecabのFTBFSについてはDebian勉強会でknokさんにお願いしておいた
+* 8/18
+  * https://ftp-master.debian.org/new/gr-framework_0.73.7+dfsg-1.html
+    * gr-framework: new-queueにパッケージをアップロードするところまで実施した
