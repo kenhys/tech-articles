@@ -69,3 +69,6 @@ published: false
     * gr-framework: new-queueにパッケージをアップロードするところまで実施した
   * https://github.com/sciapp/gr/pull/188
     * gr-framework: gksmがcmakeを使うとインストールされない問題をフィードバックした
+* 8/19
+  * https://github.com/collectd/collectd/pull/4298
+    * epics-base: collectdのCIで失敗していた問題がunstableで解決しているはずなのでフィードバックしておいた
