@@ -72,3 +72,6 @@ published: false
 * 8/19
   * https://github.com/collectd/collectd/pull/4298
     * epics-base: collectdのCIで失敗していた問題がunstableで解決しているはずなのでフィードバックしておいた
+* 8/28
+  * https://salsa.debian.org/debian/libhinawa/-/merge_requests/6
+    * libhinawa: revertする変更点のレビューを実施した
