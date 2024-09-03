@@ -75,3 +75,6 @@ published: false
 * 8/28
   * https://salsa.debian.org/debian/libhinawa/-/merge_requests/6
     * libhinawa: revertする変更点のレビューを実施した
+* 8/31
+  * https://salsa.debian.org/debian/libhinawa/-/merge_requests/6
+    * libhinawa: 変更点のレビュー実施
