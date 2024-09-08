@@ -17,3 +17,8 @@ published: false
   * https://salsa.debian.org/debian/libhinawa/-/merge_requests/6
     * libhinawa: t64 revert MRのレビュ−で問題なさそうなのでマージした。
   * libhinawa: 4.0.2-2をアップロードしておいた
+* 9/8
+  * https://github.com/sciapp/gr/pull/188
+    * PRに対するフィードバックがあったので回答。developにマージされたはずの修正が消えているのはなぜだろうか。
+  * https://github.com/sciapp/gr/issues/190
+    * gr-framework: パッケージ作成するときに気になっていたライセンスの問題をフィードバックした
