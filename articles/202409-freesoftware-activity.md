@@ -22,3 +22,5 @@ published: false
     * PRに対するフィードバックがあったので回答。developにマージされたはずの修正が消えているのはなぜだろうか。
   * https://github.com/sciapp/gr/issues/190
     * gr-framework: パッケージ作成するときに気になっていたライセンスの問題をフィードバックした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1078779
+    * ansible-core: 同じ問題を踏んだのでパッチを適用してリリースしてほしい旨をフィードバックした
