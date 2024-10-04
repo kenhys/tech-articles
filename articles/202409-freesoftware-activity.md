@@ -8,6 +8,9 @@ published: false
 
 ### 9月のハイライト
 
+9月の活動頻度は低め。
+budgie-desktopがDebian sidにいつのまにか復活していたのが印象深い。
+
 ### 9月の活動記録
 
 * 9/3
@@ -24,3 +27,4 @@ published: false
     * gr-framework: パッケージ作成するときに気になっていたライセンスの問題をフィードバックした
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1078779
     * ansible-core: 同じ問題を踏んだのでパッチを適用してリリースしてほしい旨をフィードバックした
+* 9/14 DNCGの執筆
