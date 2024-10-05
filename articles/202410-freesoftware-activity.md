@@ -18,3 +18,5 @@ published: false
     * budgie desktopのウィンドウフォーカスの問題について書いた
   * https://github.com/BuddiesOfBudgie/budgie-desktop/issues/620
     * budgie desktopのウィンドウフォーカスの件についてフィードバックした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1081856
+    * agg: ftbfsに対するパッチを投げておいた
