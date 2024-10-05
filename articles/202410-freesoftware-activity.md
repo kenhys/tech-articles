@@ -13,3 +13,8 @@ published: false
 * 10/4
   * https://bugs.debian.org/1081856
     * libaggのFTBFSがあがっていたので調査
+* 10/5
+  * https://kenhys.hatenablog.jp/entry/2024/10/05/170145
+    * budgie desktopのウィンドウフォーカスの問題について書いた
+  * https://github.com/BuddiesOfBudgie/budgie-desktop/issues/620
+    * budgie desktopのウィンドウフォーカスの件についてフィードバックした
