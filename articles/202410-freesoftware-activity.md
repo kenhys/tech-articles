@@ -20,3 +20,6 @@ published: false
     * budgie desktopのウィンドウフォーカスの件についてフィードバックした
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1081856
     * agg: ftbfsに対するパッチを投げておいた
+* 10/12
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1084988
+    * deskflow: barrierのかわりにdeskflowをDebian sidに投入したいのでITPした
