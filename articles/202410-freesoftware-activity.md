@@ -34,3 +34,5 @@ published: false
     * deskflow: helpメッセージがおかしいのでフィードバックした
   * https://github.com/deskflow/deskflow/pull/7682
     * deskflow: helpメッセージの.問題を修正してフィードバックした
+  * https://salsa.debian.org/debian/libhinawa/-/merge_requests/7
+    * libhinawa: MRのレビューをした
