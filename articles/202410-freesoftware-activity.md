@@ -32,3 +32,5 @@ published: false
     * deskflow: 1.17.0をnew queueにアップロードした
   * https://github.com/deskflow/deskflow/issues/7680
     * deskflow: helpメッセージがおかしいのでフィードバックした
+  * https://github.com/deskflow/deskflow/pull/7682
+    * deskflow: helpメッセージの.問題を修正してフィードバックした
