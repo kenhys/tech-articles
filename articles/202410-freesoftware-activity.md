@@ -36,3 +36,6 @@ published: false
     * deskflow: helpメッセージの.問題を修正してフィードバックした
   * https://salsa.debian.org/debian/libhinawa/-/merge_requests/7
     * libhinawa: MRのレビューをした
+* 10/15
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
+    * mozc: 新しいリリースに追従するための調査とフィードバック
