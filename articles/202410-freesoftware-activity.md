@@ -39,3 +39,6 @@ published: false
 * 10/15
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
     * mozc: 新しいリリースに追従するための調査とフィードバック
+* 10/16
+  * https://wiki.debian.org/Outreachy/December2024
+    * outreachyの文言のフィードバック
