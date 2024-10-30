@@ -42,3 +42,9 @@ published: false
 * 10/16
   * https://wiki.debian.org/Outreachy/December2024
     * outreachyの文言のフィードバック
+* 10/29
+  * https://techbookfest.org/product/5081155265101824
+    * 技術書典17の原稿に関して審査にだした。
+* 10/30
+  * https://salsa.debian.org/debian/libhinawa/-/merge_requests/
+    * libhinawa: MRのレビュー実施。
