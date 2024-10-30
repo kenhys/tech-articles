@@ -50,3 +50,5 @@ published: false
     * libhinawa: MRのレビュー実施。
   * libhinawa: 4.0.2-3をアップロードした
   * gr-framework: 0.73.8+dfsg-1をアップロードした
+  * https://mentors.debian.net/package/agg/#upload-1
+    * agg: 2.7.0.r145+dfsg-1をレビューした
