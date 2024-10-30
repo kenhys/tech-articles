@@ -48,3 +48,5 @@ published: false
 * 10/30
   * https://salsa.debian.org/debian/libhinawa/-/merge_requests/
     * libhinawa: MRのレビュー実施。
+  * libhinawa: 4.0.2-3をアップロードした
+  * gr-framework: 0.73.8+dfsg-1をアップロードした
