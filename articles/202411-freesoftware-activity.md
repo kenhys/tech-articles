@@ -18,4 +18,6 @@ published: false
     * groonga: FTBFSがpython3-pydata-sphinx-themeが更新されたことで発生したのをフィードバック
 * 11/8
   * groonga: 14.1.0+dfsg-1をアップロードした
-
+* 11/12
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1087362
+    * how-can-i-help: データによって例外を吐くケースについてフィードバックした
