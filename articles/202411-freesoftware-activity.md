@@ -21,3 +21,6 @@ published: false
 * 11/12
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1087362
     * how-can-i-help: データによって例外を吐くケースについてフィードバックした
+* 11/14
+  * https://salsa.debian.org/debian/how-can-i-help/-/merge_requests/2
+    * how-can-i-help: パッチをマージリクエストとしてフィードバックした
