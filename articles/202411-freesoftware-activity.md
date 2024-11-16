@@ -24,6 +24,8 @@ published: false
 * 11/14
   * https://salsa.debian.org/debian/how-can-i-help/-/merge_requests/2
     * how-can-i-help: パッチをマージリクエストとしてフィードバックした
+* 11/15
+  * Debian勉強会の資料作成
 * 11/16
   * https://debianjp.connpass.com/event/335321/
     * Debian勉強会にてMozcのメンテナンスについて発表した
