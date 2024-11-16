@@ -29,3 +29,4 @@ published: false
 * 11/16
   * https://debianjp.connpass.com/event/335321/
     * Debian勉強会にてMozcのメンテナンスについて発表した
+  * groonga: linux-anyな14.1.0+dfsg-3をアップロードした
