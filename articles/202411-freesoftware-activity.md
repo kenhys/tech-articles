@@ -30,3 +30,8 @@ published: false
   * https://debianjp.connpass.com/event/335321/
     * Debian勉強会にてMozcのメンテナンスについて発表した
   * groonga: linux-anyな14.1.0+dfsg-3をアップロードした
+* 11/20
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
+    * mozc: 2.29.5160.102のパッチをフィードバック
+    * セルフビルドしたdebを自分で使い始めた
+
