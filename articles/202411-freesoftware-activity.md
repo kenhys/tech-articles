@@ -34,4 +34,6 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
     * mozc: 2.29.5160.102のパッチをフィードバック
     * セルフビルドしたdebを自分で使い始めた
-
+* 11/23
+  * https://salsa.debian.org/debian/munin/-/merge_requests/10
+    * munin: #1085521 についてパッチをフィードバックした
