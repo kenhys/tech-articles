@@ -41,4 +41,5 @@ published: false
   * https://salsa.debian.org/debian/mozc/-/merge_requests/14
     * mozc: d/watchをまずマージするところから再び活動
   * https://salsa.debian.org/debian/mozc/-/tags/debian%2F2.29.5160.102+dfsg-1_exp1
+    * https://lists.debian.org/debian-experimental-changes/2024/11/msg00339.html
     * mozc: 2.29.5160.102+dfsg-1~exp1をexperimentalにアップロードした
