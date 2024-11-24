@@ -37,3 +37,6 @@ published: false
 * 11/23
   * https://salsa.debian.org/debian/munin/-/merge_requests/10
     * munin: #1085521 についてパッチをフィードバックした
+* 11/24
+  * https://salsa.debian.org/debian/mozc/-/merge_requests/14
+    * mozc: d/watchをまずマージするところから再び活動
