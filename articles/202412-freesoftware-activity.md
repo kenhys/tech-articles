@@ -27,3 +27,6 @@ published: false
 * 12/10
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1089622
     * protobuf: experimentalのパッケージが投入された場合の影響を調べてフィードバックした
+  * gr-framework: 0.73.9がリリースされていたのでパッケージをアップロードした
+  * https://github.com/sciapp/gr/pull/193
+    * gr-frameworkをパッケージングしていて気づいたtypoをフィードバックした
