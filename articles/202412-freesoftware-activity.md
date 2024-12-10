@@ -19,3 +19,11 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173#50
     * mozc: uim-mozcの挙動に問題がある件wayland環境でのみ発生することをフィードバック
   * mozc: mozc_2.29.5160.102+dfsg-1をDELAYED Queue (15-days)としてアップロードした
+* 12/8
+  * https://github.com/DIGImend/digimend-kernel-drivers/pull/707
+    * digimend: 6.11もサポートするようにフィードバックしておいた
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1089494
+    * digimend: 6.12でFTBFSの報告があったので13-2をアップロードしておいた
+* 12/10
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1089622
+    * protobuf: experimentalのパッケージが投入された場合の影響を調べてフィードバックした
