@@ -30,3 +30,7 @@ published: false
   * gr-framework: 0.73.9がリリースされていたのでパッケージをアップロードした
   * https://github.com/sciapp/gr/pull/193
     * gr-frameworkをパッケージングしていて気づいたtypoをフィードバックした
+* 12/15
+  * あんどきゅめんてっどでびあん2024冬号の原稿(tag2upload)
+* 12/16
+  * あんどきゅめんてっどでびあん2024冬号の原稿(Mozc)
