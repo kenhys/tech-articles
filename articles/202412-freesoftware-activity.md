@@ -34,3 +34,6 @@ published: false
   * あんどきゅめんてっどでびあん2024冬号の原稿(tag2upload)
 * 12/16
   * あんどきゅめんてっどでびあん2024冬号の原稿(Mozc)
+* 12/20
+  * https://salsa.debian.org/debian/mozc/-/merge_requests/11
+    * mozc: source after successful buildの問題を修正
