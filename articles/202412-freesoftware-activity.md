@@ -37,3 +37,12 @@ published: false
 * 12/20
   * https://salsa.debian.org/debian/mozc/-/merge_requests/11
     * mozc: source after successful buildの問題を修正
+* 12/21
+  * Debian勉強会に参加
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1045435
+    * mozc: 関連バグを含めてdelayedアップロードして修正するつもりをフィードバック
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1049806
+    * mozc: binaryについては#1045435を修正したら同時に修正された模様
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1050420
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059962
+    * mozc: loong64についてはshenzou.d.nでビルドできることを確認済みなので一緒に修正してnmuを出すつもり
