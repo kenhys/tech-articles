@@ -47,3 +47,5 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1059962
     * mozc: loong64についてはshenzou.d.nでビルドできることを確認済みなので一緒に修正してnmuを出すつもり
     * delayed/10としてdeferredアップロードしておいた
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1090920
+    * digimend-dkms: バグ報告があったのでフィードバックしておいた。rebindしなくした影響かもしれない。
