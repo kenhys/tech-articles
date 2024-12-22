@@ -51,3 +51,4 @@ published: false
     * digimend-dkms: バグ報告があったのでフィードバックしておいた。rebindしなくした影響かもしれない。
 * 12/22
   * digimend-dkms: /usr/share配下の設定ファイルを上書きしないように修正して13-4をアップロードした
+  * gr-framework: 0.73.10+dfsgをアップロードした
