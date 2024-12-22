@@ -49,3 +49,5 @@ published: false
     * delayed/10としてdeferredアップロードしておいた
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1090920
     * digimend-dkms: バグ報告があったのでフィードバックしておいた。rebindしなくした影響かもしれない。
+* 12/22
+  * digimend-dkms: /usr/share配下の設定ファイルを上書きしないように修正して13-4をアップロードした
