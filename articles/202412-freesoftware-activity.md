@@ -52,3 +52,5 @@ published: false
 * 12/22
   * digimend-dkms: /usr/share配下の設定ファイルを上書きしないように修正して13-4をアップロードした
   * gr-framework: 0.73.10+dfsgをアップロードした
+* 12/25
+  * gr-framework: shlibs:Dependsが誤って生成されるので0.73.10+dfsg-2を対策としてアップロードした
