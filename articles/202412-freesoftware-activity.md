@@ -54,3 +54,5 @@ published: false
   * gr-framework: 0.73.10+dfsgをアップロードした
 * 12/25
   * gr-framework: shlibs:Dependsが誤って生成されるので0.73.10+dfsg-2を対策としてアップロードした
+  * https://github.com/rvm/rvm/pull/5533
+    * rvm: 3.4.0,3.4.1をサポートするようにフィードバックした
