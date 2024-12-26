@@ -56,3 +56,6 @@ published: false
   * gr-framework: shlibs:Dependsが誤って生成されるので0.73.10+dfsg-2を対策としてアップロードした
   * https://github.com/rvm/rvm/pull/5533
     * rvm: 3.4.0,3.4.1をサポートするようにフィードバックした
+* 12/26
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
+    * d-i: フォントの問題を修正すべくパッチを書いた
