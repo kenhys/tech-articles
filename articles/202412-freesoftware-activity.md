@@ -59,3 +59,6 @@ published: false
 * 12/26
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
     * d-i: フォントの問題を修正すべくパッチを書いた
+* 12/27
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
+    * d-i: PoCなcdebconfに対するパッチをフィードバックした
