@@ -62,3 +62,12 @@ published: false
 * 12/27
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
     * d-i: PoCなcdebconfに対するパッチをフィードバックした
+* 12/28
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1091537
+    * d-i: makeが遅い問題をフィードバックした
+  * https://salsa.debian.org/installer-team/rootskel-gtk/-/merge_requests/5
+    * rootskel-gtk: デフォルトをVL GothicからBIZ UDGothicに変更するようにフィードバックした
+  * https://salsa.debian.org/fonts-team/fonts-morisawa-bizud-gothic/-/merge_requests/1
+    * fonts-morisawa-bizud-gothic: udebをリリースするようにフィードバックした
+  * https://salsa.debian.org/installer-team/debian-installer/-/merge_requests/55
+    * debian-installer: BIZ UDGothicのudebがリリースされたらそれを採用するようにフィードバック
