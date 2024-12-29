@@ -71,3 +71,6 @@ published: false
     * fonts-morisawa-bizud-gothic: udebをリリースするようにフィードバックした
   * https://salsa.debian.org/installer-team/debian-installer/-/merge_requests/55
     * debian-installer: BIZ UDGothicのudebがリリースされたらそれを採用するようにフィードバック
+* 12/29
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
+    * debian-installer: 10ptにフォントを調整した結果MotoyaLCedarでも十分な品質じゃないかということをフィードバックした
