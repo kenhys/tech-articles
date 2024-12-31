@@ -74,3 +74,6 @@ published: false
 * 12/29
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
     * debian-installer: 10ptにフォントを調整した結果MotoyaLCedarでも十分な品質じゃないかということをフィードバックした
+* 12/31
+  * https://people.debian.org/~kenhys/bug-1037256/
+    * debian-installer: インストーラーをカスタマイズした結果をHTMLでいったんまとめておいた
