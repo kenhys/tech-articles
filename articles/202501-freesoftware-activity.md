@@ -16,3 +16,7 @@ published: false
 * 1/3
   * https://salsa.debian.org/installer-team/rootskel-gtk/-/merge_requests/5
     * rootskel-gtk: デフォルトのフォントをMotoyaLCedarを採用するように変更した
+  * https://salsa.debian.org/fonts-team/fonts-morisawa-bizud-gothic/-/merge_requests/1
+    * MotoyaLCedarを採用することにしたのでMRを閉じた
+  * https://salsa.debian.org/fonts-team/fonts-motoya-l-cedar/-/merge_requests/1
+    * motoya-l-cedar: udebを生成するようにフィードバックした
