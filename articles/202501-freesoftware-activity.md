@@ -13,3 +13,6 @@ published: false
 * 1/1
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
     * mozc: mozcの2.29.5268.102に更新するために必要な情報に関してフィードバックしておいた
+* 1/3
+  * https://salsa.debian.org/installer-team/rootskel-gtk/-/merge_requests/5
+    * rootskel-gtk: デフォルトのフォントをMotoyaLCedarを採用するように変更した
