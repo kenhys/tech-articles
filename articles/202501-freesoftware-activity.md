@@ -20,3 +20,8 @@ published: false
     * MotoyaLCedarを採用することにしたのでMRを閉じた
   * https://salsa.debian.org/fonts-team/fonts-motoya-l-cedar/-/merge_requests/1
     * motoya-l-cedar: udebを生成するようにフィードバックした
+* 1/4
+  * https://salsa.debian.org/installer-team/debian-installer/-/merge_requests/58
+    * debian-installer: MotoyaLCedarのudebをインストールするようにフィードバックした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256#85
+    * MRの更新状況についてフィードバックした
