@@ -25,3 +25,5 @@ published: false
     * debian-installer: MotoyaLCedarのudebをインストールするようにフィードバックした
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256#85
     * MRの更新状況についてフィードバックした
+  * https://kenhys.hatenablog.jp/entry/2025/01/04/223210
+    * debian-installerの知見について記事を書いた
