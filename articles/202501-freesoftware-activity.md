@@ -27,3 +27,10 @@ published: false
     * MRの更新状況についてフィードバックした
   * https://kenhys.hatenablog.jp/entry/2025/01/04/223210
     * debian-installerの知見について記事を書いた
+* 1/10
+  * https://salsa.debian.org/installer-team/rootskel-gtk/-/merge_requests/5
+    * rootskel-gtk: フォントの展開ロジックを追加した
+  * https://salsa.debian.org/installer-team/debian-installer/-/merge_requests/59
+    * debian-installer: フォントキャッシュを生成するようにフィードバックした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256#90
+    * debian-installer: MRに関してフィードバックした
