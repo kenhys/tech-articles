@@ -34,3 +34,6 @@ published: false
     * debian-installer: フォントキャッシュを生成するようにフィードバックした
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256#90
     * debian-installer: MRに関してフィードバックした
+* 1/13
+  * https://kenhys.hatenablog.jp/entry/2025/01/13/172405
+    * 6.11 linux-imageから既定で起動する方法を書いた
