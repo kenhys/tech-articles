@@ -37,3 +37,9 @@ published: false
 * 1/13
   * https://kenhys.hatenablog.jp/entry/2025/01/13/172405
     * 6.11 linux-imageから既定で起動する方法を書いた
+* 1/20
+  * https://salsa.debian.org/installer-team/localechooser/-/merge_requests/9
+    * localechooser: 日本語フォントを反映できるように処理を変更した
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
+  * https://people.debian.org/~kenhys/bug-1037256/index.html
+    * d-iの修正に関する最新情報へと更新した
