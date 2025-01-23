@@ -43,3 +43,8 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
   * https://people.debian.org/~kenhys/bug-1037256/index.html
     * d-iの修正に関する最新情報へと更新した
+* 1/23
+  * https://salsa.debian.org/installer-team/localechooser/-/merge_requests/9
+    * localechooser: holgerさんの指摘に回答
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256#105
+    * d-i: cyrilさんの指摘に回答しておいた
