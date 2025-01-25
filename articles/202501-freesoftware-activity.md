@@ -48,3 +48,5 @@ published: false
     * localechooser: holgerさんの指摘に回答
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256#105
     * d-i: cyrilさんの指摘に回答しておいた
+* 1/25
+  * gr-framerowk: 0.73.12がリリースされていたので0.73.12+dfsgをアップロードした
