@@ -50,3 +50,6 @@ published: false
     * d-i: cyrilさんの指摘に回答しておいた
 * 1/25
   * gr-framerowk: 0.73.12がリリースされていたので0.73.12+dfsgをアップロードした
+* 1/27
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068202
+    * bazel-bootstrapのnmuについてのコメントに回答
