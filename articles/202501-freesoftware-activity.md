@@ -53,3 +53,7 @@ published: false
 * 1/27
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1068202
     * bazel-bootstrapのnmuについてのコメントに回答
+  * https://github.com/kenhys/sylpheed-htmlview/issues
+    * staleなissueに対応した
+  * https://github.com/deskflow/deskflow/pull/8142
+    * deskflow: typoをlintianが見つけたのでフィードバックした
