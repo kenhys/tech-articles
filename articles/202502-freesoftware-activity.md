@@ -13,3 +13,4 @@ published: false
 * 2/3
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094620
     * libhinawa: lintianの不具合で、gobject-introspection-binに依存させていたのを修正した
+  * deskflow: v1.18.0のパッケージング作業 v1.19.0はいったん見送り。
