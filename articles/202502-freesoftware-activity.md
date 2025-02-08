@@ -17,3 +17,8 @@ published: false
 * 2/5
   * https://github.com/rvm/rvm/pull/5544
     * rvm: Ruby 3.2.7がリリースされたのでフィードバック
+* 2/8
+  * gr-framework: gr-framework 0.73.12+dfsg-1だと既定のフォントを使おうとしてエラーがでることがわかったので修正した。
+    - CMUSerif-Mathがないので、DejaVuSansをひとまず既定のフォントにして、pfbとかafmをシンボリックリンクで解決することにした。
+      gr-framework 0.73.12+dfsg-2としてアップロードした。
+
