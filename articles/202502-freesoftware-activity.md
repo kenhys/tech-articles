@@ -21,4 +21,7 @@ published: false
   * gr-framework: gr-framework 0.73.12+dfsg-1だと既定のフォントを使おうとしてエラーがでることがわかったので修正した。
     - CMUSerif-Mathがないので、DejaVuSansをひとまず既定のフォントにして、pfbとかafmをシンボリックリンクで解決することにした。
       gr-framework 0.73.12+dfsg-2としてアップロードした。
-
+* 2/9
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1092240
+    * uim: gettext 0.23の環境だとFTBFSが発生するという問題の調査。EUC-JPなファイルが原因だったのでその旨をフィードバックした
+    * https://x.com/kenhys/status/1888525742348354045 knokさんに対応を依頼しておいた
