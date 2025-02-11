@@ -25,3 +25,8 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1092240
     * uim: gettext 0.23の環境だとFTBFSが発生するという問題の調査。EUC-JPなファイルが原因だったのでその旨をフィードバックした
     * https://x.com/kenhys/status/1888525742348354045 knokさんに対応を依頼しておいた
+* 2/11
+  * https://github.com/fluent/fluentd-docs-gitbook/pull/567
+    * codespellを試してみた。cspellのほうがより厳しいが誤検出も多い印象。さっとチェックするならcodespellで十分かな
+  * https://github.com/fluent/fluentd-docs-gitbook/pull/568
+    * codespellをworkflowに組み込んで見ることにした
