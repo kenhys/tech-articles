@@ -30,3 +30,9 @@ published: false
     * codespellを試してみた。cspellのほうがより厳しいが誤検出も多い印象。さっとチェックするならcodespellで十分かな
   * https://github.com/fluent/fluentd-docs-gitbook/pull/568
     * codespellをworkflowに組み込んで見ることにした
+* 2/15
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1091303#15
+    * ntpsec: armhfでビルドできない問題が解決していそうだったのでフィードバックした
+  * https://github.com/rvm/rvm/pull/5549
+    * rvm: 3.4.2がリリースされたのでフィードバックした
+  * fabre.d.n: Ruby 3.4へと更新した
