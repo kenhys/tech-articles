@@ -42,4 +42,6 @@ published: false
   * gr-framework: 0.73.13+dfsgのパッケージング作業。lintianのE:未解決のためアップロード断念。
 * 2/22
   * gr-framework: 0.73.13+dfsgのフォントパッケージ分割とgrplotWidget.soの問題の修正。
-
+* 2/23
+  * dep5: https://salsa.debian.org/dep-team/deps/-/merge_requests/17
+    * DEP-5でOFLをライセンスの例として明示することでフォントパッケージで誤ってSILとか指定しないようにフィードバックした
