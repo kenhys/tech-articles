@@ -46,3 +46,5 @@ published: false
   * dep5: https://salsa.debian.org/dep-team/deps/-/merge_requests/17
     * DEP-5でOFLをライセンスの例として明示することでフォントパッケージで誤ってSILとか指定しないようにフィードバックした
   * gr-framework: 0.73.13+dfsg-2をmigrationのためにアップロードした
+* 2/25
+  * groonga: 15.0.2+dfsg-1をアップロードした
