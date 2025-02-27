@@ -48,3 +48,5 @@ published: false
   * gr-framework: 0.73.13+dfsg-2をmigrationのためにアップロードした
 * 2/25
   * groonga: 15.0.2+dfsg-1をアップロードした
+* 2/27
+  * groonga: groonga-docのアセットのリンクが壊れていたので15.0.2+dfsg-2をアップロードした
