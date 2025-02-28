@@ -50,3 +50,5 @@ published: false
   * groonga: 15.0.2+dfsg-1をアップロードした
 * 2/27
   * groonga: groonga-docのアセットのリンクが壊れていたので15.0.2+dfsg-2をアップロードした
+* 2/28
+  * groonga: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1088414 15.0.2+dfsg-2で修正済みなので閉じた
