@@ -42,6 +42,8 @@ gr-frameworkに関して、フォントの権利関係を確認できたので�
     * codespellを試してみた。cspellのほうがより厳しいが誤検出も多い印象。さっとチェックするならcodespellで十分かな
   * https://github.com/fluent/fluentd-docs-gitbook/pull/568
     * codespellをworkflowに組み込んで見ることにした
+  * https://kenhys.hatenablog.jp/entry/2025/02/11/191558
+    * planet debian: Breaking compatibility, upgrade from createrepo-c 0.17.3 to 1.2.0
 * 2/15
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1091303#15
     * ntpsec: armhfでビルドできない問題が解決していそうだったのでフィードバックした
