@@ -13,3 +13,6 @@ published: false
 * 3/1
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1099191
     * d-i: インストーラーでミラーを選択したときにしばらく刺さる問題についてフィードバックした
+* 3/2
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1099191
+    * d-i: choose-mirrorでミラー選択時に20-30分ほど刺さるケースがあるところまでログ収集した
