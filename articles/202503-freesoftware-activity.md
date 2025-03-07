@@ -23,3 +23,5 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1099191
     * d-i: choose-mirrorのエッジケースの挙動についてフィードバックした。
   * libfreeaptx: 0.2.2がリリースされていたので、アップロードしておいた
+* 3/7
+  * groonga-normalizer-mysql: 1.2.5がリリースされていたのでアップロードした
