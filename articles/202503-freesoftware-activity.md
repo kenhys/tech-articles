@@ -25,3 +25,5 @@ published: false
   * libfreeaptx: 0.2.2がリリースされていたので、アップロードしておいた
 * 3/7
   * groonga-normalizer-mysql: 1.2.5がリリースされていたのでアップロードした
+* 3/10
+  * mozc: abseil 20240722.0がunstableに投入され、FTBFSが発生していたので mozc 2.29.5160.102+dfsg-1.4で修正した
