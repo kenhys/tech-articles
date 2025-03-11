@@ -27,3 +27,5 @@ published: false
   * groonga-normalizer-mysql: 1.2.5がリリースされていたのでアップロードした
 * 3/10
   * mozc: abseil 20240722.0がunstableに投入され、FTBFSが発生していたので mozc 2.29.5160.102+dfsg-1.4で修正した
+* 3/11
+  * t-code: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1099292 のFTBFSにフィードバックした
