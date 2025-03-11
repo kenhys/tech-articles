@@ -28,4 +28,7 @@ published: false
 * 3/10
   * mozc: abseil 20240722.0がunstableに投入され、FTBFSが発生していたので mozc 2.29.5160.102+dfsg-1.4で修正した
 * 3/11
-  * t-code: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1099292 のFTBFSにフィードバックした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1099292
+    * t-codeのFTBFSにフィードバックした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1050554
+    * budgie-desktop: タスクバーが反応しない問題最近再現していないので閉じた
