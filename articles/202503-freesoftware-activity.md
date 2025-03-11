@@ -34,3 +34,4 @@ published: false
     * budgie-desktop: タスクバーが反応しない問題最近再現していないので閉じた
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1100078
     * budgie-desktop: ログインで失敗する問題がVirtualboxでも再現したのでフィードバック
+    * 再現条件がある程度限定されたっぽいのでログをフィードバック
