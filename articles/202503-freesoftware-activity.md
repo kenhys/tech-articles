@@ -35,3 +35,8 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1100078
     * budgie-desktop: ログインで失敗する問題がVirtualboxでも再現したのでフィードバック
     * 再現条件がある程度限定されたっぽいのでログをフィードバック
+* 3/12
+  * https://github.com/fluent/fluentd-kubernetes-daemonset/pull/1571
+    * fluentd-k8s-daemonset: CVE-2025-27788の問題のためにフィードバック
+  * https://github.com/fluent/fluentd-kubernetes-daemonset/pull/1572
+    * fluentd-k8s-daemonset: dependabotのscan rule古すぎたので更新
