@@ -44,3 +44,5 @@ published: false
 * 3/16
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1100078
     * budgie-desktop: 10.9.2-8でログイン時にクラッシュする問題が解決したのでフィードバック
+  * friso: 1.6.4+ds-3をアップロードしておいた
+  * fcitx-dbus-status: 2016062301-5をアップロードしておいた
