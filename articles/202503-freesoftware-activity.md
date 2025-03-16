@@ -41,3 +41,6 @@ published: false
   * https://github.com/fluent/fluentd-kubernetes-daemonset/pull/1572
     * fluentd-k8s-daemonset: dependabotのscan rule古すぎたので更新
   * groonga: 15.0.3+dsfgをアップロードした
+* 3/16
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1100078
+    * budgie-desktop: 10.9.2-8でログイン時にクラッシュする問題が解決したのでフィードバック
