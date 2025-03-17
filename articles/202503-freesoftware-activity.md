@@ -46,3 +46,7 @@ published: false
     * budgie-desktop: 10.9.2-8でログイン時にクラッシュする問題が解決したのでフィードバック
   * friso: 1.6.4+ds-3をアップロードしておいた
   * fcitx-dbus-status: 2016062301-5をアップロードしておいた
+* 3/17
+  * deskflow: deskflow 1.18.0がunstableに入ったので、v1.20.1をアップロードしておいた
+  * https://github.com/deskflow/deskflow/pull/8373
+    * deskflow: パッケージングしていたときに気づいたtypoをフィードバックした
