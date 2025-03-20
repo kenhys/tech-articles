@@ -50,3 +50,6 @@ published: false
   * deskflow: deskflow 1.18.0がunstableに入ったので、v1.20.1をアップロードしておいた
   * https://github.com/deskflow/deskflow/pull/8373
     * deskflow: パッケージングしていたときに気づいたtypoをフィードバックした
+* 3/20
+  * https://github.com/fluent/fluentd-docker-image/pull/429
+    * fluentd: latestタグを導入するフィードバック
