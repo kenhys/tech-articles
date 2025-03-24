@@ -53,3 +53,6 @@ published: false
 * 3/20
   * https://github.com/fluent/fluentd-docker-image/pull/429
     * fluentd: latestタグを導入するフィードバック
+* 3/24
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1101182
+    * virtualbox: libicuがC++17以降を要求するようになってFBTFS引き起こしていたのでフィードバックした
