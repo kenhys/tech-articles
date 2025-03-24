@@ -56,3 +56,5 @@ published: false
 * 3/24
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1101182
     * virtualbox: libicuがC++17以降を要求するようになってFBTFS引き起こしていたのでフィードバックした
+  * https://salsa.debian.org/pkg-virtualbox-team/virtualbox/-/merge_requests/13
+    * virtualbox: #1082157 を修正するためのフィードバック
