@@ -58,3 +58,6 @@ published: false
     * virtualbox: libicuがC++17以降を要求するようになってFBTFS引き起こしていたのでフィードバックした
   * https://salsa.debian.org/pkg-virtualbox-team/virtualbox/-/merge_requests/13
     * virtualbox: #1082157 を修正するためのフィードバック
+* 3/26
+  * https://github.com/rvm/rvm/pull/5558
+    * Ruby 3.1.7,3.2.8がリリースされていたのでフィードバック。なぜか3.1.6が漏れていたので一応追加
