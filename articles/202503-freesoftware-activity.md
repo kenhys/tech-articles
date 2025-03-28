@@ -61,3 +61,7 @@ published: false
 * 3/26
   * https://github.com/rvm/rvm/pull/5558
     * Ruby 3.1.7,3.2.8がリリースされていたのでフィードバック。なぜか3.1.6が漏れていたので一応追加
+* 3/28
+  * https://github.com/termux/termux-packages/issues/24015
+    * termux-packages: gpgmeの依存関係の不具合をフィードバックしておいた。rolling-releaseなのでバグじゃないらしい。
+  * groonga-normalizer-mysql: 1.2.6をアップロードした
