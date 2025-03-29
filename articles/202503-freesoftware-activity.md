@@ -65,3 +65,5 @@ published: false
   * https://github.com/termux/termux-packages/issues/24015
     * termux-packages: gpgmeの依存関係の不具合をフィードバックしておいた。rolling-releaseなのでバグじゃないらしい。
   * groonga-normalizer-mysql: 1.2.6をアップロードした
+* 3/29
+  * deskflow: v1.21.0がリリースされていたのでパッケージをunstableにアップロードしておいた
