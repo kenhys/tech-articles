@@ -8,6 +8,10 @@ published: false
 
 ### 3月のハイライト
 
+3月は、DebianのToolchainのフリーズ期間に突入した。
+d-iではまった件についてDebian勉強会で発表したが、netcfgにフィードバックするところまではできていない。
+deskflowがようやくunstableに入り、trixieから利用できるようになったのが成果である。
+
 ### 3月の活動記録
 
 * 3/1
