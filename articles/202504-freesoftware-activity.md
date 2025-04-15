@@ -20,3 +20,7 @@ published: false
     * ntpsec: armhfで以前としてFTBFSが発生しているようなのでパッチを投げておいた
 * 4/10
   * rvm: https://github.com/rvm/rvm/pull/5560 
+* 4/15
+  * rvm: https://github.com/rvm/rvm/pull/5562
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1102328
+    * bibata-cursor-theme: unreproducibleなため閉じた
