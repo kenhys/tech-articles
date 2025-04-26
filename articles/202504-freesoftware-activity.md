@@ -24,3 +24,15 @@ published: false
   * rvm: https://github.com/rvm/rvm/pull/5562
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1102328
     * bibata-cursor-theme: unreproducibleなため閉じた
+* 4/26
+  * https://github.com/milter-manager/milter-manager/issues/210
+    * milter-manager: armhfでビルドできなくなっているのでフィードバック
+  * https://github.com/fluent/fluentd/pull/4928
+    * fluentd: rubocopを使ってTrailinWhitespaceの警告を減らすためのフィードバック
+  * https://github.com/fluent/fluentd/pull/4929
+  * https://github.com/fluent/fluentd/pull/4930
+    * fluentd: rubocopでPerformance/StringIdentifierArgumentの警告を改善するためのフィードバック
+  * https://github.com/fluent/fluentd/pull/4931
+    * fluentd: rubocopでPerformance/CollectionLiteralInLoopの警告を改善するためのフィードバック
+  * https://github.com/tagomoris/fluentd-v1-checker/pull/1
+    * fluentd-v1-checker: ruby 2.6までしか開発環境でインストールできないのでフィードバック
