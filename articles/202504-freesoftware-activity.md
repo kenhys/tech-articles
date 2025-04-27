@@ -43,3 +43,5 @@ published: false
     * fluentd: rubocopでStringIncludeの警告を改善するためのフィードバック
   * https://github.com/fluent/fluentd/pull/4934
     * fluentd: rubocopでConstantRegexpの警告を改善するためのフィードバック
+  * https://github.com/fluent/fluentd/pull/4935
+    * fluentd: rubocopでRedundantBlockCallの警告を改善するためのフィードバック
