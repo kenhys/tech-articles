@@ -36,3 +36,10 @@ published: false
     * fluentd: rubocopでPerformance/CollectionLiteralInLoopの警告を改善するためのフィードバック
   * https://github.com/tagomoris/fluentd-v1-checker/pull/1
     * fluentd-v1-checker: ruby 2.6までしか開発環境でインストールできないのでフィードバック
+* 4/27
+  * https://github.com/fluent/fluentd/pull/4932
+    * fluentd: rubocopでPerformance/StringIdentifierArgumentの警告を改善するためのフィードバック
+  * https://github.com/fluent/fluentd/pull/4933
+    * fluentd: rubocopでStringIncludeの警告を改善するためのフィードバック
+  * https://github.com/fluent/fluentd/pull/4934
+    * fluentd: rubocopでConstantRegexpの警告を改善するためのフィードバック
