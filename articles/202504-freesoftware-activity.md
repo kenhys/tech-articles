@@ -55,3 +55,7 @@ rvmについてはリリースされてからすぐに対応してフィード�
     * fluentd: rubocopでConstantRegexpの警告を改善するためのフィードバック
   * https://github.com/fluent/fluentd/pull/4935
     * fluentd: rubocopでRedundantBlockCallの警告を改善するためのフィードバック
+* 4/29
+  * deskflow: 1.21.2+dfsg-1をunstableにアップロードした
+  * gr-framework: 0.73.14+dfsg-1をunstableにアップロードした
+  
