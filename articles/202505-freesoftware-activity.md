@@ -13,3 +13,6 @@ published: false
 * 5/1
   * https://github.com/rvm/rvm/pull/5566
     * rvm: 3.5.0-preview1のフィードバック
+* 5/3
+  * https://github.com/docker-library/official-images/pull/18965
+    * fluentd: officialのほうにフィードバックした
