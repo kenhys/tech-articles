@@ -12,7 +12,7 @@
 * 3月頃: [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1100078:title]
 * 3月頃: [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1099191:title]
 * 3月頃: [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1100486:title]
-
+* 5月頃: [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1105784:title]
 
 ## [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1089513:title]
 
@@ -97,3 +97,12 @@ budgie-desktop 10.9.2-8でログイン時にクラッシュする問題は修正
 起動しなくなるのではなく、特定条件を満たすと起動できなくなるパターンの不具合のようでした。
 
 2.12-7の変更点をみるにNTFSがらみのリグレッションだったから踏まなかっただけのようです。
+
+## [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1105784:title]
+
+kvmモジュールが先に読み込まれていると、VirtualBoxが起動できなくなるという問題が以前ありました。
+
+対策として設定ファイルを/etc/modprobe.d配下にインストールするはずが意図しない挙動により
+反映されておらず、最近のlibkmodの更新でエラーとして検出されるようになったというもの。
+
+手元の環境では/etc/modprobe.d/virtualbox.confとして対策していたので、問題に気づけていなかった。
