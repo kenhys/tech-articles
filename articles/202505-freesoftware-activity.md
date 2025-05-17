@@ -16,3 +16,6 @@ published: false
 * 5/3
   * https://github.com/docker-library/official-images/pull/18965
     * fluentd: officialのほうにフィードバックした
+* 5/17
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=896904
+    * vagrant: plugin installに関するバグを閉じた
