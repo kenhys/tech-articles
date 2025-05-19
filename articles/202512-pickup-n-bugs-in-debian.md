@@ -102,7 +102,12 @@ budgie-desktop 10.9.2-8でログイン時にクラッシュする問題は修正
 
 kvmモジュールが先に読み込まれていると、VirtualBoxが起動できなくなるという問題が以前ありました。
 
+* [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1082157:title]
+
 対策として設定ファイルを/etc/modprobe.d配下にインストールするはずが意図しない挙動により
 反映されておらず、最近のlibkmodの更新でエラーとして検出されるようになったというもの。
 
+Bug#1082157をみて、よかれと思って[修正のMR](https://salsa.debian.org/pkg-virtualbox-team/virtualbox/-/merge_requests/13)をフィードバックしておいたのだけれど、それが間違っていたというのに気づけていなくてやらかしてしまった感がある。
+
 手元の環境では/etc/modprobe.d/virtualbox.confとして対策していたので、問題に気づけていなかった。
+
