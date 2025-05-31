@@ -19,3 +19,7 @@ published: false
 * 5/17
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=896904
     * vagrant: plugin installに関するバグを閉じた
+  * https://github.com/fluent-plugins-nursery/fluent-plugin-systemd/pull/121
+    * fluent-plugin-systemd: metadataについてフィードバックした
+  * https://github.com/fluent-plugins-nursery/fluent-plugin-remote_syslog/pull/67
+    * fluent-plugin-remote_syslog: metadataについてフィードバックした
