@@ -35,4 +35,5 @@ published: false
 * 5/31
   * https://github.com/sparkmark/fluent-plugin-parser_cefalt/pull/1
     * fluent-plugin-parser_cefalt: homepageの指定を間違っているのでフィードバック
-
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1105376
+    * groonga: make --shuffle=reverseでビルドに失敗する問題を修正
