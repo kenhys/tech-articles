@@ -13,6 +13,7 @@
 * 3月頃: [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1099191:title]
 * 3月頃: [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1100486:title]
 * 5月頃: [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1105784:title]
+* 5月頃: [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1106115:title]
 
 ## [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1089513:title]
 
@@ -111,3 +112,24 @@ Bug#1082157をみて、よかれと思って[修正のMR](https://salsa.debian.o
 
 手元の環境では/etc/modprobe.d/virtualbox.confとして対策していたので、問題に気づけていなかった。
 
+
+## [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1106115:title]
+
+plymouthのパッケージの提供するフックスクリプトに問題があり、initramfsの更新に失敗する不具合。
+失敗するときは次のようなエラーが表示されていた。
+
+```
+Autoinstall on 6.12.29-amd64 succeeded for module(s) digimend nvidia-current v4l2loopback virtualbox.
+/etc/kernel/postinst.d/initramfs-tools:
+update-initramfs: Generating /boot/initrd.img-6.12.29-amd64
+E: /usr/share/initramfs-tools/hooks/plymouth failed with return 1.
+update-initramfs: failed for /boot/initrd.img-6.12.29-amd64 with 1.
+run-parts: /etc/kernel/postinst.d/initramfs-tools exited with return code 1
+```
+
+挙動としては、繰り返し同じフォントをコピーしようとして失敗していた。
+同一フォントをコピーしないようにパッケージ側で修正されたことで解決した。
+
+特定のフォントパッケージの有無によっても再現したりしなかったりしていたので、なんか面倒くさかった記憶がある。
+
+過去にも同様の問題として [https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1105224:title] があったが、その知見が横展開されずにいたようである。
