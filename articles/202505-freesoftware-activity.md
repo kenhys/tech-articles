@@ -32,3 +32,7 @@ published: false
     * localechooser: 圧縮フォントのために再起動する方法は採用されないため閉じた
   * https://salsa.debian.org/installer-team/debian-installer/-/merge_requests/59
     * debian-installer: 圧縮フォントのためキャッシュを作成する方法は採用されないため閉じた
+* 5/31
+  * https://github.com/sparkmark/fluent-plugin-parser_cefalt/pull/1
+    * fluent-plugin-parser_cefalt: homepageの指定を間違っているのでフィードバック
+
