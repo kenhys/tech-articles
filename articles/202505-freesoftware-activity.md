@@ -23,3 +23,12 @@ published: false
     * fluent-plugin-systemd: metadataについてフィードバックした
   * https://github.com/fluent-plugins-nursery/fluent-plugin-remote_syslog/pull/67
     * fluent-plugin-remote_syslog: metadataについてフィードバックした
+* 5/24
+  * https://salsa.debian.org/fonts-team/fonts-motoya-l-cedar/-/merge_requests/1
+    * fonts-motoya-l-cedar: udebでは圧縮したフォントを利用しないことになったので修正
+  * https://salsa.debian.org/installer-team/rootskel-gtk/-/merge_requests/5
+    * rootskel-gtk: 圧縮フォントを利用する方法は採用されなくなったので閉じた
+  * https://salsa.debian.org/installer-team/localechooser/-/merge_requests/9
+    * localechooser: 圧縮フォントのために再起動する方法は採用されないため閉じた
+  * https://salsa.debian.org/installer-team/debian-installer/-/merge_requests/59
+    * debian-installer: 圧縮フォントのためキャッシュを作成する方法は採用されないため閉じた
