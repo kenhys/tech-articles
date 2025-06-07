@@ -20,3 +20,5 @@ published: false
 * 6/4
   * https://salsa.debian.org/fonts-team/fonts-motoya-l-cedar/-/merge_requests/1
     * fonts-motoya-l-cedar: MRへの協力を依頼している
+* 6/7
+  * Debian勉強会の資料を作成
