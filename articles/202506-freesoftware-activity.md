@@ -22,3 +22,9 @@ published: false
     * fonts-motoya-l-cedar: MRへの協力を依頼している
 * 6/7
   * Debian勉強会の資料を作成
+* 6/13
+  * Debian勉強会の資料更新
+* 6/14
+  * https://debianjp.connpass.com/event/357138/
+    * Debian勉強会でDebian Installerにおける日本語フォントの問題について発表した
+
