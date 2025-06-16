@@ -27,4 +27,7 @@ published: false
 * 6/14
   * https://debianjp.connpass.com/event/357138/
     * Debian勉強会でDebian Installerにおける日本語フォントの問題について発表した
+* 6/16
+  * https://kenhys.hatenablog.jp/entry/2025/06/16/203655
+    * Debian Installerの日本語の問題が修正されたことを記事にした
 
