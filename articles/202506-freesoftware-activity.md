@@ -30,4 +30,6 @@ published: false
 * 6/16
   * https://kenhys.hatenablog.jp/entry/2025/06/16/203655
     * Debian Installerの日本語の問題が修正されたことを記事にした
-
+* 6/17
+  * https://salsa.debian.org/tokyodebian-team/minidebconf-japan-2025/-/merge_requests/1
+    * MiniDebConf 2025 JapanのサイトでCoCのリンクに関してフィードバック
