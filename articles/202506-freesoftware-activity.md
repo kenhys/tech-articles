@@ -33,3 +33,8 @@ published: false
 * 6/17
   * https://salsa.debian.org/tokyodebian-team/minidebconf-japan-2025/-/merge_requests/1
     * MiniDebConf 2025 JapanのサイトでCoCのリンクに関してフィードバック
+* 6/21
+  * https://github.com/deskflow/deskflow/issues/8711
+    * deskflow: Waylandのみの環境向けのビルドサポートに関してフィードバック
+* 6/24
+  * あんどきゅめんてっどでびあん2025年夏号 2025年3月のインストーラーが刺さる件の原稿まとめ
