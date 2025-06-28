@@ -40,3 +40,6 @@ published: false
   * あんどきゅめんてっどでびあん2025年夏号 2025年3月のインストーラーが刺さる件の原稿まとめ
 * 6/27
   * あんどきゅめんてっどでびあん2025年夏号 2025年6月のインストーラーのフォントの原稿まとめ
+* 6/28
+  * https://www.debian.org/releases/trixie/release-notes/issues.ja.html#reduced-support-for-i386
+    * リリースノートの一部翻訳のフィードバック
