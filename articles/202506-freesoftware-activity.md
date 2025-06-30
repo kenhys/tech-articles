@@ -43,3 +43,6 @@ published: false
 * 6/28
   * https://www.debian.org/releases/trixie/release-notes/issues.ja.html#reduced-support-for-i386
     * リリースノートの一部翻訳のフィードバック
+* 6/30
+  * https://salsa.debian.org/mirror-team/masterlist/-/merge_requests/14
+    * ftp.kddilabs.jpが停止するということなのでフィードバックを送っておいた
