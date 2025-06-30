@@ -62,3 +62,5 @@ Debian 9から発生していた地味な問題をようやく解決にもって
     * ftp.kddilabs.jpが停止するということなのでフィードバックを送っておいた
   * https://github.com/deskflow/deskflow/pull/8728
     * deskflowがhelp2manを利用して生成するmanに関してフィードバック
+  * deskflow: autopkgtest対応を追加したdeskflow+dfsg-4 をアップロードした
+
