@@ -46,3 +46,5 @@ published: false
 * 6/30
   * https://salsa.debian.org/mirror-team/masterlist/-/merge_requests/14
     * ftp.kddilabs.jpが停止するということなのでフィードバックを送っておいた
+  * https://github.com/deskflow/deskflow/pull/8728
+    * deskflowがhelp2manを利用して生成するmanに関してフィードバック
