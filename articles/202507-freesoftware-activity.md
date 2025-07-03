@@ -10,6 +10,8 @@ published: false
 
 ### 7月の活動記録
 
+* 7/1
+  * deskflow: 1.22.0+dfsg-5をアップロードした。autopkgtestが壊れていたのを修正した。
 * 7/2
   * deskflow: 1.22.0+dfsg-7をアップロードした。s390xのせいでマイグレーションが成功しない。
 * 7/3
