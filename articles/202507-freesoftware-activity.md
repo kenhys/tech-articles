@@ -17,4 +17,7 @@ published: false
 * 7/3
   * https://www.debian.org/devel/debian-installer/errata.ja.html
     * debian-installerのerrta情報を更新した
+  * https://github.com/deskflow/deskflow/pull/8728
+    * deskflow: manの生成に関してフィードバックを反映した
+
 
