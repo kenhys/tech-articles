@@ -19,5 +19,6 @@ published: false
     * debian-installerのerrta情報を更新した
   * https://github.com/deskflow/deskflow/pull/8728
     * deskflow: manの生成に関してフィードバックを反映した
-
-
+* 7/5
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1108813
+    * deskflow: s390xのバイナリパッケージを削除するようにフィードバック
