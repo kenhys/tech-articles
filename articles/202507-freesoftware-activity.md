@@ -22,3 +22,9 @@ published: false
 * 7/5
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1108813
     * deskflow: s390xのバイナリパッケージを削除するようにフィードバック
+* 7/7
+  * rubocop-fluentd 0.1.0をリリース。Fluentdプラグインのコードをチェックできるようになった。
+* 7/9
+  * rubocop-fluentd 0.1.1をリリース。config_paramのバグを検出できるようになった。
+* 7/10
+  * rubocop-fluentd 0.2.0をリリース。autocorrectionに対応した。このへんのノウハウを残しておきたい
