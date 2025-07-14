@@ -28,3 +28,5 @@ published: false
   * rubocop-fluentd 0.1.1をリリース。config_paramのバグを検出できるようになった。
 * 7/10
   * rubocop-fluentd 0.2.0をリリース。autocorrectionに対応した。このへんのノウハウを残しておきたい
+* 7/14
+  * fluent-plugin-fluent-package-update-notifier 0.2.0をリリース。将来の追加リリーうにも追従できるようにした。
