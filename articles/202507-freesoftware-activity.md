@@ -30,3 +30,6 @@ published: false
   * rubocop-fluentd 0.2.0をリリース。autocorrectionに対応した。このへんのノウハウを残しておきたい
 * 7/14
   * fluent-plugin-fluent-package-update-notifier 0.2.0をリリース。将来の追加リリーうにも追従できるようにした。
+* 7/17
+  * https://github.com/rvm/rvm/pull/5574
+    * ruby 3.4.5がリリースされたので追従するためのフィードバック
