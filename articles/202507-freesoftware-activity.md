@@ -33,3 +33,8 @@ published: false
 * 7/17
   * https://github.com/rvm/rvm/pull/5574
     * ruby 3.4.5がリリースされたので追従するためのフィードバック
+* 7/19
+  * https://github.com/fluent/fluentd/pull/5028
+    * fluentd: globalなロガーをプラグインで使用しないようにするフィードバック
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
+    * debian installer: 日本語フォントの問題が修正されているので閉じておいた
