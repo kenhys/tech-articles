@@ -38,3 +38,5 @@ published: false
     * fluentd: globalなロガーをプラグインで使用しないようにするフィードバック
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1037256
     * debian installer: 日本語フォントの問題が修正されているので閉じておいた
+  * https://salsa.debian.org/debian/devscripts/-/merge_requests/520
+    * lintian: v5フォーマットに関してフィードバックをした
