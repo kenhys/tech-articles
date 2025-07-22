@@ -40,3 +40,6 @@ published: false
     * debian installer: 日本語フォントの問題が修正されているので閉じておいた
   * https://salsa.debian.org/debian/devscripts/-/merge_requests/520
     * lintian: v5フォーマットに関してフィードバックをした
+* 7/22
+  * https://github.com/paulproteus/public-udd-mirror/issues/23
+    * udd-mirror: ミラーの同期がPostgreSQLの行進のせいでとまっていたのでフィードバックした
