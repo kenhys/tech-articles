@@ -43,3 +43,54 @@ published: false
 * 7/22
   * https://github.com/paulproteus/public-udd-mirror/issues/23
     * udd-mirror: ミラーの同期がPostgreSQLの行進のせいでとまっていたのでフィードバックした
+* 7/28
+  * https://salsa.debian.org/rocm-team/amdsmi/-/merge_requests/1
+  * https://salsa.debian.org/deeplearning-team/cpuinfo/-/merge_requests/5
+  * https://salsa.debian.org/deeplearning-team/fp16/-/merge_requests/3
+  * https://salsa.debian.org/deeplearning-team/fxdiv/-/merge_requests/3
+  * https://salsa.debian.org/deeplearning-team/ggml/-/merge_requests/2
+  * https://salsa.debian.org/deeplearning-team/gloo/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/half/-/merge_requests/2
+  * https://salsa.debian.org/rocm-team/hipblas/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/hipblas-common/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/hipcub/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/hipfft/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/hipify/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/hipsolver/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/hipsparse/-/merge_requests/1
+  * https://salsa.debian.org/deeplearning-team/huggingface_hub/-/merge_requests/1
+  * https://salsa.debian.org/deeplearning-team/ideep/-/merge_requests/2
+  * https://salsa.debian.org/deeplearning-team/kleidiai/-/merge_requests/1
+  * https://salsa.debian.org/deeplearning-team/libnop/-/merge_requests/3
+  * https://salsa.debian.org/deeplearning-team/llama.cpp/-/merge_requests/3
+  * https://salsa.debian.org/deeplearning-team/lodepng/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/miopen/-/merge_requests/11
+  * https://salsa.debian.org/deeplearning-team/mujoco/-/merge_requests/1
+  * https://salsa.debian.org/deeplearning-team/neon-2-sse/-/merge_requests/1
+  * https://salsa.debian.org/deeplearning-team/onnx/-/merge_requests/3
+  * https://salsa.debian.org/deeplearning-team/onnxruntime/-/merge_requests/5
+  * https://salsa.debian.org/deeplearning-team/onnxscript/-/merge_requests/1
+  * https://salsa.debian.org/deeplearning-team/python-openai/-/merge_requests/1
+  * https://salsa.debian.org/deeplearning-team/pytorch/-/merge_requests/7
+  * https://salsa.debian.org/deeplearning-team/pytorch-audio/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/rccl/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/rocalution/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/rocblas/-/merge_requests/2
+  * https://salsa.debian.org/rocm-team/rocdbgapi/-/merge_requests/2
+  * https://salsa.debian.org/rocm-team/rocm-cmake/-/merge_requests/6
+  * https://salsa.debian.org/rocm-team/rocm-hipamd/-/merge_requests/8
+  * https://salsa.debian.org/rocm-team/rocm-llvm/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/rocm-smi-lib/-/merge_requests/7
+  * https://salsa.debian.org/rocm-team/rocminfo/-/merge_requests/6
+  * https://salsa.debian.org/rocm-team/rocprim/-/merge_requests/2
+  * https://salsa.debian.org/rocm-team/rocr-runtime/-/merge_requests/8
+  * https://salsa.debian.org/rocm-team/rocsolver/-/merge_requests/1
+  * https://salsa.debian.org/rocm-team/rocsparse/-/merge_requests/2
+  * https://salsa.debian.org/rocm-team/roct-thunk-interface/-/merge_requests/6
+  * https://salsa.debian.org/rocm-team/rocthrust/-/merge_requests/3
+  * https://salsa.debian.org/rocm-team/roctracer/-/merge_requests/1
+  * https://salsa.debian.org/deeplearning-team/ruy/-/merge_requests/2
+  * https://salsa.debian.org/deeplearning-team/safeint/-/merge_requests/1
+  * https://salsa.debian.org/deeplearning-team/safetensors/-/merge_requests/1
+  * https://salsa.debian.org/deeplearning-team/xgboost/-/merge_requests/2
+    * debian/watch 5に対応するフィードバック実施
