@@ -8,6 +8,16 @@ published: false
 
 ### 7月のハイライト
 
+trixieリリースが控えていたので、deskflowを更新して投入した。
+主要なパッケージではないため、パッチリリースでなくても20日待てば投入可能であった。
+
+Debian関連だと、d/watchのバージョン5というのが提案され、実際に投入されはじめたので
+deeplearning-teamとかrocm-team配下のリポジトリへと実際にフィードバックした。
+d/watch 5への移行はuscanで実行できるので機械的に適用するだけで楽である。
+
+あとは、Fluentdプラグインの良くない書き方なんかを指摘するカスタムCopを開発したのが成果。
+元々はプラグインのコードを対象にしていたが、Fluentd本体の修正にも寄与することができた。
+
 ### 7月の活動記録
 
 * 7/1
@@ -29,7 +39,7 @@ published: false
 * 7/10
   * rubocop-fluentd 0.2.0をリリース。autocorrectionに対応した。このへんのノウハウを残しておきたい
 * 7/14
-  * fluent-plugin-fluent-package-update-notifier 0.2.0をリリース。将来の追加リリーうにも追従できるようにした。
+  * fluent-plugin-fluent-package-update-notifier 0.2.0をリリース。将来の追加リリースにも追従できるようにした。
 * 7/17
   * https://github.com/rvm/rvm/pull/5574
     * ruby 3.4.5がリリースされたので追従するためのフィードバック
