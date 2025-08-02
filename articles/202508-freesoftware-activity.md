@@ -15,3 +15,8 @@ published: false
     * Fluentd v1.19.0がリリースされたのでフィードバック
   * https://github.com/rvm/rvm/pull/5578
     * rvm: Ruby 3.3.9がリリースされていたのでフィードバック
+* 8/2
+  * https://salsa.debian.org/rocm-team/rocm-llvm/-/merge_requests/1
+    * rocm-llvm: masterで対処されたのでクローズ
+  * https://salsa.debian.org/rocm-team/miopen/-/merge_requests/11
+    * miopen: masterにMRを追従した
