@@ -20,3 +20,5 @@ published: false
     * rocm-llvm: masterで対処されたのでクローズ
   * https://salsa.debian.org/rocm-team/miopen/-/merge_requests/11
     * miopen: masterにMRを追従した
+* 8/9
+  * deskflow: 1.23.0+dfsg-1をアップロードした
