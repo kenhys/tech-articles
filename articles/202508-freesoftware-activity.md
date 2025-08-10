@@ -22,3 +22,6 @@ published: false
     * miopen: masterにMRを追従した
 * 8/9
   * deskflow: 1.23.0+dfsg-1をアップロードした
+* 8/10
+  * groonga: 15.1.4+dfsg-1をアップロードした
+  * groonga-normalizer-mysql: 1.2.8-1をアップロードした
