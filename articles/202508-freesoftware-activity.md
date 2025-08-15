@@ -25,3 +25,7 @@ published: false
 * 8/10
   * groonga: 15.1.4+dfsg-1をアップロードした
   * groonga-normalizer-mysql: 1.2.8-1をアップロードした
+  * migraphx: debian-ai ML 2025-08-07 Meeting Logsのmigraphxの問題についてフィードバックした
+* 8/15
+  * https://github.com/deskflow/deskflow/issues/8859
+    * deskflow: フィードバックしたコードのLGPL3-or-laterに同意
