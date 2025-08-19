@@ -29,3 +29,6 @@ published: false
 * 8/15
   * https://github.com/deskflow/deskflow/issues/8859
     * deskflow: フィードバックしたコードのLGPL3-or-laterに同意
+* 8/19
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1111451
+    * deskflow: autopkgtestでsbuildが失敗するという報告があったのでコメント
