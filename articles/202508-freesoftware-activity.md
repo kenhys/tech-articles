@@ -36,3 +36,6 @@ published: false
 * 8/20
   * https://github.com/DIGImend/digimend-kernel-drivers/pull/714
     * digimend-dkms: 6.xならtimer_delete_syncに置き換えてしまっていいだろうというというPRに対してフィードバック
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1106548
+    * digimend-dkms: 6.15対応して13-5をアップロードした。すでにexperimentalは6.16が開発中だったので6.16で確認済み
+  * https://github.com/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter/pull/405
