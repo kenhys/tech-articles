@@ -33,3 +33,6 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1111451
     * deskflow: autopkgtestでsbuildが失敗するという報告があったのでコメント
   * deskflow: 1.23.0+dfsg-2をdebusineを使ってアップロードしてみた
+* 8/20
+  * https://github.com/DIGImend/digimend-kernel-drivers/pull/714
+    * digimend-dkms: 6.xならtimer_delete_syncに置き換えてしまっていいだろうというというPRに対してフィードバック
