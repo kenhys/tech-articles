@@ -32,3 +32,4 @@ published: false
 * 8/19
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1111451
     * deskflow: autopkgtestでsbuildが失敗するという報告があったのでコメント
+  * deskflow: 1.23.0+dfsg-2をdebusineを使ってアップロードしてみた
