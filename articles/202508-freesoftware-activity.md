@@ -39,3 +39,6 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1106548
     * digimend-dkms: 6.15対応して13-5をアップロードした。すでにexperimentalは6.16が開発中だったので6.16で確認済み
   * https://github.com/fluent-plugins-nursery/fluent-plugin-kubernetes_metadata_filter/pull/405
+* 8/26
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1111451
+    * deskflow: autopkgtestの設定の問題のためクローズした。
