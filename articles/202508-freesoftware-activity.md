@@ -8,6 +8,14 @@ published: false
 
 ### 8月のハイライト
 
+8月は、AMDGPUに変更してからおよそ一ヶ月経過した。
+ROCMまわりを触ってみたいと思っているが、まだそれほど遊べていない。
+
+先月実施したdebian/watch version 5への移行フィードバックも、devsciptsがリリースされたことで
+マージされていっている。自分がメンテナンスしているやつもd/watch 5にしている。
+
+Fluent Packageのv6をなんとかリリースできたことは喜ばしい。
+
 ### 8月の活動記録
 
 * 8/1
@@ -42,3 +50,5 @@ published: false
 * 8/26
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1111451
     * deskflow: autopkgtestの設定の問題のためクローズした。
+* 8/30
+  * groonga: 15.1.5+dfsgをアップロードした
