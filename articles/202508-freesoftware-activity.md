@@ -52,3 +52,6 @@ Fluent Packageのv6をなんとかリリースできたことは喜ばしい。
     * deskflow: autopkgtestの設定の問題のためクローズした。
 * 8/30
   * groonga: 15.1.5+dfsgをアップロードした
+* 8/31
+  * https://salsa.debian.org/rocm-team/pkg-rocm-tools/-/merge_requests/2
+    * pkg-rocm-tools: IOMMUを無効にしているとスクリプトエラーとなって途中で終了してしまうのでフィードバック
