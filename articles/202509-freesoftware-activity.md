@@ -16,3 +16,7 @@ published: false
 * 9/4
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1112883
     * fasttext: CMake 4でFTBFSが発生する問題への対処 0.9.2+ds-9としてアップロード
+* 9/5
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1097872
+    * sentencepiece: GCC 15のftbfsの対応状況のフィードバック
+    * 0.2.1で修正されていたので、sentencepiece 0.2.1-1 をアップロード Closes: 1097872, 1113496
