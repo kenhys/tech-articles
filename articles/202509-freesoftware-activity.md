@@ -20,3 +20,6 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1097872
     * sentencepiece: GCC 15のftbfsの対応状況のフィードバック
     * 0.2.1で修正されていたので、sentencepiece 0.2.1-1 をアップロード Closes: 1097872, 1113496
+* 9/7
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1096779
+    * groonga: GCC 15のftbsを修正して15.1.5+dfsg-2としてアップロードした
