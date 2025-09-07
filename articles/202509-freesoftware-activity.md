@@ -23,3 +23,7 @@ published: false
 * 9/7
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1096779
     * groonga: GCC 15のftbsを修正して15.1.5+dfsg-2としてアップロードした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1096783
+    * growl-for-linux: GCC 15のftbfsを修正した 0.8.5-10としてアップロードした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1112233
+    * growl-for-linux: 不必要なdbus-glibへのBuild-Dependsを削除した
