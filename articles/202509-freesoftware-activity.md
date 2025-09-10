@@ -27,3 +27,6 @@ published: false
     * growl-for-linux: GCC 15のftbfsを修正した 0.8.5-10としてアップロードした
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1112233
     * growl-for-linux: 不必要なdbus-glibへのBuild-Dependsを削除した
+* 9/10
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1114213
+    * mozc: ftbfsに関するパッチをバックポートしておいた。RISC-V特有じゃないのでパッチ名は変えた。
