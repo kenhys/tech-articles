@@ -30,3 +30,6 @@ published: false
 * 9/10
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1114213
     * mozc: ftbfsに関するパッチをバックポートしておいた。RISC-V特有じゃないのでパッチ名は変えた。
+* 9/12
+  * https://github.com/paulproteus/public-udd-mirror/issues/25
+    * udd-mirror: udd-mirrorが同期しなくなっていたのでフィードバックした
