@@ -33,3 +33,6 @@ published: false
 * 9/12
   * https://github.com/paulproteus/public-udd-mirror/issues/25
     * udd-mirror: udd-mirrorが同期しなくなっていたのでフィードバックした
+* 9/13
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1112890
+    * fcitx-dbus-status: CMake 4のftbfsの問題を修正した
