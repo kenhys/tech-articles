@@ -40,3 +40,5 @@ published: false
 * 9/21
   * https://github.com/paulproteus/public-udd-mirror/issues/25
     * udd-mirror: 問題が解消しているようなので閉じた
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1114886
+    * virtualbox: securebootがらみでvirtualboxのVMを起動できなかった件を閉じた
