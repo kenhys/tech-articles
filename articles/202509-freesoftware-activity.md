@@ -37,3 +37,6 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1112890
     * fcitx-dbus-status: CMake 4のftbfsの問題を修正した
   * groonga-normalizer-mysql: 1.2.9-1をアップロードした
+* 9/21
+  * https://github.com/paulproteus/public-udd-mirror/issues/25
+    * udd-mirror: 問題が解消しているようなので閉じた
