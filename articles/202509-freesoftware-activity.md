@@ -42,3 +42,5 @@ published: false
     * udd-mirror: 問題が解消しているようなので閉じた
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1114886
     * virtualbox: securebootがらみでvirtualboxのVMを起動できなかった件を閉じた
+  * https://github.com/rvm/rvm/pull/5588
+    * rvm: Ruby 3.4.6対応のフィードバック
