@@ -44,3 +44,11 @@ published: false
     * virtualbox: securebootがらみでvirtualboxのVMを起動できなかった件を閉じた
   * https://github.com/rvm/rvm/pull/5588
     * rvm: Ruby 3.4.6対応のフィードバック
+* 9/24
+  * https://github.com/paulproteus/public-udd-mirror/issues/24
+    * udd-mirror: udd-mirrorがまだ不安定な結果を返すので再現条件をフィードバックした
+* 9/28
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1112811
+    * createrepo-c: CMake 4でFTBFSになる問題へとフィードバックした
+  * https://salsa.debian.org/pkg-rpm-team/createrepo-c/-/merge_requests/2
+    * createrepo-c: CMake 4対応のフィードバック
