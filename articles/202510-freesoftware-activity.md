@@ -10,3 +10,7 @@ published: false
 
 
 ### 10月の活動記録
+
+* 10/4
+  * groonga: groonga 15.1.7+dfsg-1をアップロードした
+  * groonga-normalizer-mysql: 1.3.0をアップロードした
