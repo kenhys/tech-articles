@@ -16,4 +16,5 @@ published: false
   * groonga-normalizer-mysql: 1.3.0をアップロードした
 * 10/8
   * rvm: https://github.com/rvm/rvm/pull/5594 Ruby 3.4.7がリリースされたのでフィードバック
-
+* 10/28
+  * rvm: https://github.com/rvm/rvm/pull/5602 Ruby 3.3.10がリリースされたのでフィードバック
