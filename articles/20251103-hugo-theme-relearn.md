@@ -38,7 +38,6 @@ index 702d4da..99ddf03 100644
 @@ -3,7 +3,7 @@ languageCode = "en-US"
  defaultContentLanguage = "en"
 
- title = "GiGo I.C.E."
 -theme = "hugo-theme-learn"
 +theme = "hugo-theme-relearn"
  themesdir = "themes"
@@ -54,3 +53,6 @@ index 702d4da..99ddf03 100644
    [markup.goldmark]
 ```
 
+
+It was sad that hugo-theme-learn is not maintained actively, but many thank to this greateful hugo theme.
+And also thanks the effort to fork it as hugo-theme-relearn.
