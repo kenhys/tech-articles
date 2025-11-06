@@ -12,3 +12,5 @@ published: false
 
 * 11/3
   * hugo-theme-relearn: ghttps://kenhys.hatenablog.jp/entry/2025/11/03/190428 移行に関する記事を書いた
+* 11/6
+  * groonga: 15.1.9がリリースされていたのでアップロードしておいた
