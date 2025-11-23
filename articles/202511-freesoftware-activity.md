@@ -19,4 +19,6 @@ published: false
 * 11/15
   * fluent-auditify: 0.2.0をリリース
   * fluent-auditify-plugin-yaml: 0.1.0をリリース
-
+* 11/23
+  * fluent-auditify: 0.3.0をリリース
+  * groonga 15.2.0+dfsgをアップロードしておいた
