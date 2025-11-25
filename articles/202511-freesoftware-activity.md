@@ -25,3 +25,4 @@ published: false
 * 11/25
   * rmv: https://github.com/rvm/rvm/pull/5604
     * ruby 4.0.0-preview2がリリースされていたのでフィードバック
+  * deskflow: 1.25.0+dfsgをアップロードしておいた
