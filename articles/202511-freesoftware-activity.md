@@ -22,3 +22,6 @@ published: false
 * 11/23
   * fluent-auditify: 0.3.0をリリース
   * groonga 15.2.0+dfsgをアップロードしておいた
+* 11/25
+  * rmv: https://github.com/rvm/rvm/pull/5604
+    * ruby 4.0.0-preview2がリリースされていたのでフィードバック
