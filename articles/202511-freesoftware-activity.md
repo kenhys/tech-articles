@@ -26,3 +26,8 @@ published: false
   * rmv: https://github.com/rvm/rvm/pull/5604
     * ruby 4.0.0-preview2がリリースされていたのでフィードバック
   * deskflow: 1.25.0+dfsgをアップロードしておいた
+  * deskflow: https://github.com/deskflow/deskflow/issues/9207
+    * i386のテストが失敗する問題をフィードバックした
+* 11/26
+  * deskflow: i386,sh4のサポートをやめてアップロード
+
