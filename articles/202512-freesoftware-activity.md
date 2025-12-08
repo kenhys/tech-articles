@@ -12,3 +12,5 @@ published: false
 
 * 12/4
   * deskflow: i386とsh4についてはtestingから削除することにしてバグ登録メールを投げた
+* 12/8
+  * groonga: 15.2.1+dfsgをアップロードした
