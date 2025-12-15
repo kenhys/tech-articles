@@ -14,3 +14,8 @@ published: false
   * deskflow: i386とsh4についてはtestingから削除することにしてバグ登録メールを投げた
 * 12/8
   * groonga: 15.2.1+dfsgをアップロードした
+* 12/14
+  * podman: デフォルトネットワークの疎通の問題の調査
+  * debian: 勉強会発表資料作成
+* 12/15
+  * debian: 勉強会発表資料作成
