@@ -19,3 +19,5 @@ published: false
   * debian: 勉強会発表資料作成
 * 12/15
   * debian: 勉強会発表資料作成
+  * rrdtool: https://salsa.debian.org/rrdtool-team/rrdtool/-/merge_requests/5
+    * Build-Depends: perl-xs-devがないのをフィードバック。groongaもこのバグの影響を受けるため。
