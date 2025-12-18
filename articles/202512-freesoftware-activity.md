@@ -21,3 +21,8 @@ published: false
   * debian: 勉強会発表資料作成
   * rrdtool: https://salsa.debian.org/rrdtool-team/rrdtool/-/merge_requests/5
     * Build-Depends: perl-xs-devがないのをフィードバック。groongaもこのバグの影響を受けるため。
+* 12/17
+  * gr-framework: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1115025
+    * ffmpeg 8.0に対応できていなかったのでパッケージを修正
+* 12/18
+  * debian: 勉強会の資料の更新
