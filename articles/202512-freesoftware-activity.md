@@ -26,3 +26,6 @@ published: false
     * ffmpeg 8.0に対応できていなかったのでパッケージを修正
 * 12/18
   * debian: 勉強会の資料の更新
+* 12/19
+  * deskflow: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1122843
+    * パッケージの説明に関して提案があったのでそれを適用した。debian勉強会
