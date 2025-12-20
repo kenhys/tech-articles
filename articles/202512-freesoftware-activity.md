@@ -29,3 +29,5 @@ published: false
 * 12/19
   * deskflow: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1122843
     * パッケージの説明に関して提案があったのでそれを適用した。debian勉強会
+* 12/20
+  * debian勉強会でdebusine.debian.netについて発表
