@@ -31,3 +31,10 @@ published: false
     * パッケージの説明に関して提案があったのでそれを適用した。debian勉強会
 * 12/20
   * debian勉強会でdebusine.debian.netについて発表
+* 12/21
+  * rvm: https://github.com/rvm/rvm/pull/5608
+    * Ruby 3.4.8に関してフィードバック
+  * rvm: https://github.com/rvm/rvm/pull/5609
+    * Ruby 4.0.0-preview3に関してフィードバック
+  * rvm: https://github.com/rvm/rvm/pull/5610
+    *  macos13のrunnerが使えなくなっているのでフィードバック
