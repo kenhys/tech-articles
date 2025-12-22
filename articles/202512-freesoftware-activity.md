@@ -38,3 +38,7 @@ published: false
     * Ruby 4.0.0-preview3に関してフィードバック
   * rvm: https://github.com/rvm/rvm/pull/5610
     *  macos13のrunnerが使えなくなっているのでフィードバック
+* 12/22
+  * rvm: https://github.com/rvm/rvm/pull/5610
+    * macOS 15にしたら期待と異なりCIが失敗しまくるので、調査を引き継いでもらえないか相談した。
+
