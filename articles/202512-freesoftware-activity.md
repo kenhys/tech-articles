@@ -41,4 +41,5 @@ published: false
 * 12/22
   * rvm: https://github.com/rvm/rvm/pull/5610
     * macOS 15にしたら期待と異なりCIが失敗しまくるので、調査を引き継いでもらえないか相談した。
-
+* 12/24
+  * deskflow: deskflow 1.25.0+dfsg-3のtag等をpushし忘れていたので対処
