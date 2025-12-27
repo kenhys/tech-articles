@@ -43,3 +43,12 @@ published: false
     * macOS 15にしたら期待と異なりCIが失敗しまくるので、調査を引き継いでもらえないか相談した。
 * 12/24
   * deskflow: deskflow 1.25.0+dfsg-3のtag等をpushし忘れていたので対処
+* 12/25
+  * rvm: https://github.com/rvm/rvm/pull/5611
+    * Ruby 4.0.0がリリースされたのでフィードバック
+* 12/26
+  * rvm: https://github.com/rvm/rvm/pull/5610
+    * macOS 15 intelでCI失敗する問題の調査
+* 12/27
+  * rvm: https://github.com/rvm/rvm/pull/5610
+    * macOS 15 intelでCI失敗する問題の調査とフィードバック
