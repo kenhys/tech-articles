@@ -52,3 +52,6 @@ published: false
 * 12/27
   * rvm: https://github.com/rvm/rvm/pull/5610
     * macOS 15 intelでCI失敗する問題の調査とフィードバック
+* 12/28
+  * rvm: https://github.com/rvm/rvm/pull/5610
+    * macOSとjrubyのCIが現実的な時間で実行できないのが省略するようにした
