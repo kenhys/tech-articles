@@ -55,3 +55,5 @@ published: false
 * 12/28
   * rvm: https://github.com/rvm/rvm/pull/5610
     * macOSとjrubyのCIが現実的な時間で実行できないのが省略するようにした
+* 12/29
+  * gr-framework: 0.73.19+dfsgをアップロードした
