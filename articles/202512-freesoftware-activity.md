@@ -57,3 +57,6 @@ published: false
     * macOSとjrubyのCIが現実的な時間で実行できないのが省略するようにした
 * 12/29
   * gr-framework: 0.73.19+dfsgをアップロードした
+* 12/30
+  * rvm: https://github.com/rvm/rvm/issues/5617
+    * PRがマージされたときに自動的にブランチが削除されないのが面倒なのでフィードバックした
