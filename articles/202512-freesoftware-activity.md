@@ -67,3 +67,6 @@ published: false
 * 12/30
   * rvm: https://github.com/rvm/rvm/issues/5617
     * PRがマージされたときに自動的にブランチが削除されないのが面倒なのでフィードバックした
+* 12/31
+  * rvm: https://github.com/rvm/rvm/pull/5618
+    * Ruby 4.0のCIを追加するフィードバック
