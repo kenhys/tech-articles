@@ -70,3 +70,5 @@ published: false
 * 12/31
   * rvm: https://github.com/rvm/rvm/pull/5618
     * Ruby 4.0のCIを追加するフィードバック
+  * fluentd-docker-image: https://github.com/fluent/fluentd-docker-image/pull/459
+    * grypeでイメージの脆弱性をチェックするフィードバック
