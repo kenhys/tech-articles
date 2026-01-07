@@ -14,3 +14,6 @@ published: false
   * libhinawa: https://salsa.debian.org/debian/libhinawa/-/merge_requests/8
     * libhinawaのMRのレビューを実施
     * libhinawa 4.0.2-5をアップロードした
+* 1/7
+  * debusine: https://salsa.debian.org/freexian-team/debusine/-/issues/1252
+    * debusineサーバーにソースパッケージをアップロードすると必ずビルドできないのでフィードバック
