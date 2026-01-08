@@ -17,3 +17,7 @@ published: false
 * 1/7
   * debusine: https://salsa.debian.org/freexian-team/debusine/-/issues/1252
     * debusineサーバーにソースパッケージをアップロードすると必ずビルドできないのでフィードバック
+* 1/8
+  * libhitaki: 0.2.1-5をスポンサーアップロードした
+  * libhinoko: 1.0.3-3をスポンサーアップロードした
+  * linux-firewire-utils: 0.5.1-3をスポンサーアップロードした
