@@ -21,3 +21,6 @@ published: false
   * libhitaki: 0.2.1-5をスポンサーアップロードした
   * libhinoko: 1.0.3-3をスポンサーアップロードした
   * linux-firewire-utils: 0.5.1-3をスポンサーアップロードした
+* 1/10
+  * gr-framework: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1124943
+    * GTK2依存を排除するMRをマージして0.73.19+dfsg-2をアップロードした
