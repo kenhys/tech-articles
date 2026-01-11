@@ -24,3 +24,6 @@ published: false
 * 1/10
   * gr-framework: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1124943
     * GTK2依存を排除するMRをマージして0.73.19+dfsg-2をアップロードした
+* 1/11
+  * https://mentors.debian.net/package/ngraph-gtk
+    * ngraph-gtk: debian.tar.xzで冗長なdebian/debian/*が含まれていたのでフィードバックした
