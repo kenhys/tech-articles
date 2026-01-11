@@ -27,3 +27,6 @@ published: false
 * 1/11
   * https://mentors.debian.net/package/ngraph-gtk
     * ngraph-gtk: debian.tar.xzで冗長なdebian/debian/*が含まれていたのでフィードバックした
+    * ngraph-gtk: d/controlで修正すべき点があったのでフィードバックしておいた
+  * https://bugs.debian.org/cgi-bin/pkgreport.cgi?repeatmerged=no&src=apt
+    * apt: aptのJSON HOOKに関する仕様拡張の要望をフィードバックしておいた
