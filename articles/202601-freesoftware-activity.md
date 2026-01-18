@@ -30,3 +30,13 @@ published: false
     * ngraph-gtk: d/controlで修正すべき点があったのでフィードバックしておいた
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1125256
     * apt: aptのJSON HOOKに関する仕様拡張の要望をフィードバックしておいた
+* 1/17
+  * https://kenhys.hatenablog.jp/entry/2026/01/16/213649
+    * budgie-desktop 10.10に関する印象について記事にした
+* 1/18
+  * https://github.com/fluent/fluentd-website/pull/426
+    * fluentd: http:// なままになっているのを修正した
+  * https://github.com/fluent/fluentd-website/pull/427
+    * fluentd: 3.2から3.4に更新するフィードバック
+  * https://github.com/fluent/fluentd-website/pull/428
+    * fluentd: エンタープライズページのロゴのリンク先の誤りを修正した
