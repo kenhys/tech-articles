@@ -40,3 +40,5 @@ published: false
     * fluentd: 3.2から3.4に更新するフィードバック
   * https://github.com/fluent/fluentd-website/pull/428
     * fluentd: エンタープライズページのロゴのリンク先の誤りを修正した
+  * groonga: 15.2.3+dfsg-1をアップロードした
+
