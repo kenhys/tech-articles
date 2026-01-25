@@ -41,4 +41,5 @@ published: false
   * https://github.com/fluent/fluentd-website/pull/428
     * fluentd: エンタープライズページのロゴのリンク先の誤りを修正した
   * groonga: 15.2.3+dfsg-1をアップロードした
-
+* 1/25
+  * debian: apt-listbugsがHTTP GETに失敗する問題の調査。現状は https://bugs.debian.org/cgi-bin/soap.cgi に対するリクエストが503エラーとなる。
