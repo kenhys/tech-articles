@@ -43,3 +43,6 @@ published: false
   * groonga: 15.2.3+dfsg-1をアップロードした
 * 1/25
   * debian: apt-listbugsがHTTP GETに失敗する問題の調査。現状は https://bugs.debian.org/cgi-bin/soap.cgi に対するリクエストが503エラーとなる。
+* 1/27
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1125030
+    * apt-listbugs: 503エラーがWAFのレイヤーで発生しているのではないかというフィードバック
