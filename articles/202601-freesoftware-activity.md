@@ -46,3 +46,6 @@ published: false
 * 1/27
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1125030
     * apt-listbugs: 503エラーがWAFのレイヤーで発生しているのではないかというフィードバック
+* 1/31
+  * https://salsa.debian.org/debian/fonts-stix/-/merge_requests/1
+    * fonts-stix: OpenTypeのMATHテーブルをサポートできていないアプリケーションのために、TrueTypeフォントも含めるようにフィードバック
