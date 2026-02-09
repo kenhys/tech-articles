@@ -14,3 +14,5 @@ published: false
   * how-can-i-help: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1126953
     * rfsでパッケージが存在しないときにエラーになる不具合の調査。以前にも似たようなケースがあったが修正漏れだったようだ。 #1126835 と重複していてすでにリポジトリでは修正されていたので、tags -1 pendingのフィードバックをした。
     * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1126835 にもフィードバックしておいた
+* 2/9
+  * groonga: 16.0.0+dfsg-1をアップロードした
