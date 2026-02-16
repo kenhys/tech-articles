@@ -16,3 +16,5 @@ published: false
     * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1126835 にもフィードバックしておいた
 * 2/9
   * groonga: 16.0.0+dfsg-1をアップロードした
+* 2/14
+  * gr-framework: fonts-stixがttfも同梱してくれるようになったので、gr-frameworkで再びSTIXTwoMathのサポートを再開した。
