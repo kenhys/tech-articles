@@ -20,3 +20,5 @@ published: false
   * gr-framework: fonts-stixがttfも同梱してくれるようになったので、gr-frameworkで再びSTIXTwoMathのサポートを再開した。
 * 2/21
   * deskflow: 1.26.0+dfsg-1をアップロードした
+* 2/22
+  * fluent-plugin-s3: https://github.com/fluent/fluent-plugin-s3/pull/463 PRのレビューをした
