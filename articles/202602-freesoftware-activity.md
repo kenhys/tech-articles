@@ -18,3 +18,5 @@ published: false
   * groonga: 16.0.0+dfsg-1をアップロードした
 * 2/14
   * gr-framework: fonts-stixがttfも同梱してくれるようになったので、gr-frameworkで再びSTIXTwoMathのサポートを再開した。
+* 2/21
+  * deskflow: 1.26.0+dfsg-1をアップロードした
