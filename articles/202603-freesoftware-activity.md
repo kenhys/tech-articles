@@ -20,3 +20,5 @@ published: false
 * 3/2
   * https://salsa.debian.org/debian/mozc/-/merge_requests/19
     * mozc: libgwengui-qt5-devを使ってないので削除するフィードバック
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1114213
+    * mozc: c++20に変更してFTBFSを修正するのがすでに適用されていることをフィードバック
