@@ -22,3 +22,6 @@ published: false
     * mozc: libgwengui-qt5-devを使ってないので削除するフィードバック
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1114213
     * mozc: c++20に変更してFTBFSを修正するのがすでに適用されていることをフィードバック
+* 3/11
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1127516
+    * munin: FTBFSでこれに依存しているパッケージが削除されかねないので問題点を調査した
