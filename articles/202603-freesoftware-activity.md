@@ -25,3 +25,8 @@ published: false
 * 3/11
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1127516
     * munin: FTBFSでこれに依存しているパッケージが削除されかねないので問題点を調査した
+* 3/12
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1130483
+    * libh3-dev: h3api.hが/usr/include/h3配下にインストールされない問題をかわりにフィードバックした
+  * https://salsa.debian.org/postgresql/libh3/-/merge_requests/2
+    * libh3: h3api.hが/usr/include/h3配下にインストールされるようにしてフィードバックした
