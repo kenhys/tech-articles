@@ -30,3 +30,8 @@ published: false
     * libh3-dev: h3api.hが/usr/include/h3配下にインストールされない問題をかわりにフィードバックした
   * https://salsa.debian.org/postgresql/libh3/-/merge_requests/2
     * libh3: h3api.hが/usr/include/h3配下にインストールされるようにしてフィードバックした
+* 3/20
+  * https://github.com/fluent/fluentd-docker-image/pull/474
+    * fluentd: trixie 13.4のポイントリリースがあったのでそれに追従
+  * https://salsa.debian.org/debian/grow-your-ideas/-/issues
+    * 解決済みのissueについて追記した
