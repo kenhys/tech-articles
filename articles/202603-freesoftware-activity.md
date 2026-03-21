@@ -35,3 +35,7 @@ published: false
     * fluentd: trixie 13.4のポイントリリースがあったのでそれに追従
   * https://salsa.debian.org/debian/grow-your-ideas/-/issues
     * 解決済みのissueについて追記した
+  * gr-framework: 0.73.24+dfsg-1をアップロードした
+* 3/21
+  * https://debianjp.connpass.com/event/385587/
+    * debian勉強会に参加した
