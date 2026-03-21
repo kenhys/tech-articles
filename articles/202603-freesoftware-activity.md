@@ -39,3 +39,5 @@ published: false
 * 3/21
   * https://debianjp.connpass.com/event/385587/
     * debian勉強会に参加した
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1131426
+    * python3-fontools: fonts-morisawa-bizudのFTBFSを調べていたら4.62.0以降にしれもらうかパッチ当ててもらわないといけないのでフィードバック
