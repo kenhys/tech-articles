@@ -41,3 +41,12 @@ published: false
     * debian勉強会に参加した
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1131426
     * python3-fontools: fonts-morisawa-bizudのFTBFSを調べていたら4.62.0以降にしれもらうかパッチ当ててもらわないといけないのでフィードバック
+  * https://salsa.debian.org/fonts-team/fonts-morisawa-bizud-gothic/-/merge_requests/2
+    * fonts-morisawa-bizud-gothic: format-14が重複しないようにするパッチをフィードバック
+  * https://github.com/googlefonts/morisawa-biz-ud-gothic/pull/57
+    * morisawa-biz-ud-gothic: build.pyの修正をupstreamにフィードバックした
+  * https://github.com/googlefonts/morisawa-biz-ud-mincho/pull/54
+    * morisawa-biz-ud-mincho: build.pyの修正をupstreamにフィードバックした
+* 3/24
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1120909
+    * budgie-desktop: python3-giがIMを壊したこともあるので、10.9が使い続けられる選択肢がほしいことをフィードバックした
