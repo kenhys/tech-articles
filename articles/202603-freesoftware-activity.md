@@ -50,3 +50,8 @@ published: false
 * 3/24
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1120909
     * budgie-desktop: python3-giがIMを壊したこともあるので、10.9が使い続けられる選択肢がほしいことをフィードバックした
+* 3/25
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=967641
+    * mozc: ubuntu側でGTK2依存が修正されたようなので、その情報をフィードバックした
+  * https://salsa.debian.org/debian/mozc/-/merge_requests/20
+    * mozc: ubuntu側の修正パッチをdebianでも適用するフィードバックをした
