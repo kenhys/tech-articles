@@ -55,3 +55,6 @@ published: false
     * mozc: ubuntu側でGTK2依存が修正されたようなので、その情報をフィードバックした
   * https://salsa.debian.org/debian/mozc/-/merge_requests/20
     * mozc: ubuntu側の修正パッチをdebianでも適用するフィードバックをした
+* 3/28
+  * https://salsa.debian.org/debian/mozc/-/merge_requests/20
+    * mozc: patch作者からフィードバックがあったので反映した
