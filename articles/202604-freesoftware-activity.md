@@ -20,3 +20,5 @@ published: false
 * 4/14
   * https://github.com/rvm/rvm/pull/5633
     * rvm: Ruby 3.2.11/3.3.11についてフィードバックした
+* 4/16
+  * openzl: debパッケージ化できないか調査
