@@ -25,3 +25,5 @@ published: false
 * 4/18
   * https://debianjp.connpass.com/event/389573/
     * Debian勉強会でDPL選挙に関して発表した
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=967641
+    * mozc: GTK2の問題がseriousのまま放置されているので、2.29.5160.102+dfsg-1.6としてNMU (delayed 5)としてアップロードした
