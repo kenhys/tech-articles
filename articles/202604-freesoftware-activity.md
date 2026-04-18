@@ -22,3 +22,6 @@ published: false
     * rvm: Ruby 3.2.11/3.3.11についてフィードバックした
 * 4/16
   * openzl: debパッケージ化できないか調査
+* 4/18
+  * https://debianjp.connpass.com/event/389573/
+    * Debian勉強会でDPL選挙に関して発表した
