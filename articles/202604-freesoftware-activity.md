@@ -27,3 +27,7 @@ published: false
     * Debian勉強会でDPL選挙に関して発表した
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=967641
     * mozc: GTK2の問題がseriousのまま放置されているので、2.29.5160.102+dfsg-1.6としてNMU (delayed 5)としてアップロードした
+* 4/20
+  * groonga: cmakeへの移行のための調査を開始
+  * https://salsa.debian.org/debian/mozc/-/merge_requests/21
+    * mozc: absl20260107.0がunstableに投入されたことでFTBFSが引き起こされるのでフィードバック
