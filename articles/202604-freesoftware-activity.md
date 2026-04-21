@@ -31,3 +31,6 @@ published: false
   * groonga: cmakeへの移行のための調査を開始
   * https://salsa.debian.org/debian/mozc/-/merge_requests/21
     * mozc: absl20260107.0がunstableに投入されたことでFTBFSが引き起こされるのでフィードバック
+* 4/21
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1134485
+    * mozc: ftbfsが新たに起票されていたので作業中であることをフィードバック
