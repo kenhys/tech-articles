@@ -34,3 +34,9 @@ published: false
 * 4/21
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1134485
     * mozc: ftbfsが新たに起票されていたので作業中であることをフィードバック
+* 4/22
+  * aklomp/base64: ITPに向けて作業中
+* 4/23
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1134707
+    * aklomp/base64: パッケージング作業中
+  
