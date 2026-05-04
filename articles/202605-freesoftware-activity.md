@@ -16,3 +16,7 @@ published: false
 * 5/2
   * https://github.com/groonga/groonga/pull/2798
     * groonga: GRN_WITH_TOOLS=ONでツールをインストールしたときのパスがおかしいのをフィードバックした
+* 5/3
+  * groonga: cmakeに移行するべく作業中。いろいろ面倒くさい。
+* 5/4
+  * fabre.d.nのbookwormからtrixieへのアップグレード実施
