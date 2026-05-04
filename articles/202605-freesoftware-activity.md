@@ -20,3 +20,5 @@ published: false
   * groonga: cmakeに移行するべく作業中。いろいろ面倒くさい。
 * 5/4
   * fabre.d.nのbookwormからtrixieへのアップグレード実施
+* 5/5
+  * groonga: CMake対応したgroonga 16.0.1+dfsg-1をアップロードした。パッケージ追加しているので、new queueの審査を待つ必要がある
