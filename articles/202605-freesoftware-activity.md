@@ -24,3 +24,8 @@ published: false
   * groonga: CMake対応したgroonga 16.0.1+dfsg-1をアップロードした。パッケージ追加しているので、new queueの審査を待つ必要がある
 * 5/6
   * groonga: riscv64とs390xでのFTBFSに対応した
+* 5/7
+  * https://github.com/aklomp/base64/issues/103
+    * aklomp/base64: base64を専有している件についてフィードバックした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1135897
+    * libh3: hppaでだけパッケージがない状態になっているのをバグ報告した
