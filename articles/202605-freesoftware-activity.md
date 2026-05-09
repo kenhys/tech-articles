@@ -29,3 +29,8 @@ published: false
     * aklomp/base64: base64を専有している件についてフィードバックした
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1135897
     * libh3: hppaでだけパッケージがない状態になっているのをバグ報告した
+* 5/8
+  * https://github.com/fluent/fluent-package-builder/pull/1045
+    * groonga: ビルドシステムをAutotoolsからCMakeに変更したので閉じた
+* 5/9
+  * aklomp/base64: hurdを除外したり、使用方法等のREADME.Debianを更新してaklomp-base64 0.5.2-4をアップロードした
