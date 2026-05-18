@@ -36,3 +36,6 @@ published: false
   * aklomp/base64: hurdを除外したり、使用方法等のREADME.Debianを更新してaklomp-base64 0.5.2-4をアップロードした
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1136009
     * deskflow: CVE-2026-41476に対応したdeskflow 1.26.0+dfsg-2をアップロードした
+* 5/18
+  * https://github.com/rvm/rvm/pull/5656
+    * rvm: Ruby 4.0.4を対象にするフィードバック
