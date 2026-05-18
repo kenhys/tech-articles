@@ -39,3 +39,4 @@ published: false
 * 5/18
   * https://github.com/rvm/rvm/pull/5656
     * rvm: Ruby 4.0.4を対象にするフィードバック
+  * deskflow: CVE-2026-44296対応して1.26.0+dfsg-3をアップロードした
