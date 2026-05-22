@@ -40,3 +40,8 @@ published: false
   * https://github.com/rvm/rvm/pull/5656
     * rvm: Ruby 4.0.4を対象にするフィードバック
   * deskflow: CVE-2026-44296対応して1.26.0+dfsg-3をアップロードした
+* 5/21
+  * groonga: groonga 16.0.4+dfsg-1をアップロードした
+* 5/22
+  * https://mentors.debian.net/package/hwatch/#upload-3
+    * hwatch: 0.4.2-1についてフィードバック
