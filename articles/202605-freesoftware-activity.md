@@ -45,3 +45,6 @@ published: false
 * 5/22
   * https://mentors.debian.net/package/hwatch/#upload-3
     * hwatch: 0.4.2-1についてフィードバック
+* 5/26
+  * https://mentors.debian.net/package/hwatch/#upload-4
+    * hwatch: 0.4.2-1の修正についてフィードバック
