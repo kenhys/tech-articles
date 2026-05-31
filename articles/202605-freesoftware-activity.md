@@ -51,3 +51,6 @@ published: false
 * 5/28
   * https://mentors.debian.net/package/hwatch/#upload-6
     * hwatch: 0.4.2-1のスポンサーアップロードをした
+* 5/31
+  * https://github.com/deskflow/deskflow/issues/9806
+    * deskflow: OpenSSL 4.0.0でのFTBFSについてフィードバックした
