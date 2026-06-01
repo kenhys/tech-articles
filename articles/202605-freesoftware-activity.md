@@ -8,6 +8,11 @@ published: false
 
 ### 5月のハイライト
 
+5月は、base64のパッケージをDebianに持っていったり、Groongaをautotoolsaではなくて、
+cmakeでビルドする方式に切り替えたりした。
+
+あとはひさしぶりにmentors.d.nにアップロードされていたhwatchのスポンサーをするなどした。
+
 ### 5月の活動記録
 
 * 5/1
