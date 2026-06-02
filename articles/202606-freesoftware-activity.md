@@ -15,3 +15,7 @@ published: false
     * deskflow: ftbfs with OpenSSL 4.0.0のパッチをフィードバックした
   * https://github.com/deskflow/deskflow/pull/9813
     * deskflow: ciでarm64のジョブが失敗しがちなのをフィードバックした
+* 6/2
+  * https://salsa.debian.org/mirror-team/masterlist/-/merge_requests/18
+    * debian-mirror.sakura.ne.jpが停止するのでフィードバック
+
