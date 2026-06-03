@@ -18,4 +18,6 @@ published: false
 * 6/2
   * https://salsa.debian.org/mirror-team/masterlist/-/merge_requests/18
     * debian-mirror.sakura.ne.jpが停止するのでフィードバック
-
+* 6/3
+  * https://lists.debian.org/debian-www/2026/06/msg00001.html
+    * www-masterのtrixie移行にともなうkccの必要性についてフィードバック
