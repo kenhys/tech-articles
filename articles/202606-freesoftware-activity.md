@@ -21,3 +21,6 @@ published: false
 * 6/3
   * https://lists.debian.org/debian-www/2026/06/msg00001.html
     * www-masterのtrixie移行にともなうkccの必要性についてフィードバック
+* 6/5
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1138281
+    * hwatch: 0.4.2-2をスポンサーアップロードした
