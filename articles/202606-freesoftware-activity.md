@@ -24,3 +24,6 @@ published: false
 * 6/5
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1138281
     * hwatch: 0.4.2-2をスポンサーアップロードした
+* 6/13
+  * https://gitlab.com/clear-code/cc-20th-anniversary-timeline/-/merge_requests/12
+    * 年表アプリでGitHubとかGitLabのissue commentを同期できるようにするフィードバック
