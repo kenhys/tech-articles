@@ -27,3 +27,5 @@ published: false
 * 6/13
   * https://gitlab.com/clear-code/cc-20th-anniversary-timeline/-/merge_requests/12
     * 年表アプリでGitHubとかGitLabのissue commentを同期できるようにするフィードバック
+* 6/20
+  * gr-framework: 0.73.26+dfsg-1をアップロードした
