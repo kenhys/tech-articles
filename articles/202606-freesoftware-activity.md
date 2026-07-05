@@ -8,6 +8,14 @@ published: false
 
 ### 6月のハイライト
 
+6月はdebian-mirror.sakura.ne.jp停止するのでmirror teamにフィードバックしたのが
+印象に残っている。数日くらいでpingはご法度。なお、結果としてはdebian-mirror.sakura.jpが
+ftp.jp.debian.orgから削除されただけじゃなくて、ftp.jp.debian.orgとdeb.debian.orgが一緒になった。
+他のミラーの状況がよろしくなかったらしいのであわせて整理されたようだ。
+deb.debian.orgが不調だからといって、ftp.jp.debian.orgを指定する意味はもうなくなった。
+（以前、debian-installerをWiFiブリッジで起動したときに疎通できなくなる問題を踏んだとき、ftp.jp.debian.org
+を指定すると回避できたりしたけど、その手法は使えなくなったことになる）
+
 ### 6月の活動記録
 
 * 6/1
