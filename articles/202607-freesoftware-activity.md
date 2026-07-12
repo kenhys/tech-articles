@@ -17,4 +17,10 @@ published: false
 * 7/7
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=869642
     * devscripts: 2.26.10で複数の.dscにdebsign --re-signしたときに"Successfully signed dsc, dsc, dsc files"みたいに繰り返される不具合が修正されたことを教えてもらったのでフィードバック。
+* 7/11
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
+    * mozc: debuildでローカルビルドにはじめて成功する。https://x.com/kenhys/status/2075898456506581243 にて成果のショート動画をあげてみた。
+* 7/12
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
+    * mozc: debuildによるローカルビルドには成功したが、gbp buildpackageによるクリーンビルドに失敗した問題の修正を行った。gbp buildpackageでビルドできるようになったので、手元のコミットを整理とかもろもろしたら、experimentalにパッケージをあげて検証してもらうフェーズにはいれるかもしれない。
 
