@@ -23,4 +23,9 @@ published: false
 * 7/12
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
     * mozc: debuildによるローカルビルドには成功したが、gbp buildpackageによるクリーンビルドに失敗した問題の修正を行った。gbp buildpackageでビルドできるようになったので、手元のコミットを整理とかもろもろしたら、experimentalにパッケージをあげて検証してもらうフェーズにはいれるかもしれない。
-
+* 7/14
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
+    * mozc: zip codeのパッチを追加して、郵便番号から変換できるようにした。
+* 7/16
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
+    * mozc: debhelper 14にあげようとしたらビルドに失敗するようになった。sbuildでのみ判明したビルドエラー等も修正。
