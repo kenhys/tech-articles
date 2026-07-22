@@ -29,3 +29,15 @@ published: false
 * 7/16
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
     * mozc: debhelper 14にあげようとしたらビルドに失敗するようになった。sbuildでのみ判明したビルドエラー等も修正。
+* 7/17
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
+    * mozc: hardening対応とuim-mozcが動作しなかった問題の修正をした。
+* 7/18
+  * https://salsa.debian.org/debian/groonga/-/merge_requests/6
+    * groonga: systemd-sysusersやsystemd-tmpfilesに以降するMRをレビューした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1142148
+    * groonga: bloscが32bitサポートしていないため削除した。また16.0.8+dfsg-1としてアップロードした。
+* 7/22
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
+    * mozc: 3.33.6133+ds1-0.1~exp1をexperimentalにアップロードした
+
