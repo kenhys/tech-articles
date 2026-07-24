@@ -40,4 +40,6 @@ published: false
 * 7/22
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
     * mozc: 3.33.6133+ds1-0.1~exp1をexperimentalにアップロードした
-
+* 7/24
+  * https://lists.debian.org/debian-input-method/2026/07/msg00084.html
+    * debian-input-method: MLでanthyの今後について質問した
