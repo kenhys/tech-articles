@@ -43,3 +43,6 @@ published: false
 * 7/24
   * https://lists.debian.org/debian-input-method/2026/07/msg00099.html
     * debian-input-method: MLでanthyの今後について質問した
+* 7/31
+  * https://github.com/fujimotok/honkit-plugin-breadcrumbs/pull/1
+    * honkit-plugin-breadcrumbsのseparator指定が効かない不具合を修正した
