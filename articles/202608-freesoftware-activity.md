@@ -17,3 +17,5 @@ published: false
 * 8/4
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1143520
     * groonga: apache-arrowの影響でFTBFSになっていたのを修正して16.0.8+dfsg-2をアップロードした
+* 8/8
+  * debian勉強会向けの資料作成作業実施
