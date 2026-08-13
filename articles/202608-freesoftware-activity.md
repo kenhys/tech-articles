@@ -19,3 +19,7 @@ published: false
     * groonga: apache-arrowの影響でFTBFSになっていたのを修正して16.0.8+dfsg-2をアップロードした
 * 8/8
   * debian勉強会向けの資料作成作業実施
+* 8/13
+  * https://salsa.debian.org/debian/groonga/-/merge_requests/6
+    * groonga: sysusersを使うMRをとりこんだ
+  * groonga: 16.0.9+dfsg-1をアップロードした
