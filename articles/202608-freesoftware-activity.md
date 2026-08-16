@@ -23,3 +23,5 @@ published: false
   * https://salsa.debian.org/debian/groonga/-/merge_requests/6
     * groonga: sysusersを使うMRをとりこんだ
   * groonga: 16.0.9+dfsg-1をアップロードした
+* 8/16
+  * mozc: zip codeパッチを更新してmozc_3.33.6133+ds1-0.1~exp2をアップロード
