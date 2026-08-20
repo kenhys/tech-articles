@@ -27,3 +27,7 @@ published: false
   * mozc: zip codeパッチを更新してmozc_3.33.6133+ds1-0.1~exp2をアップロード
 * 8/17
   * libsocket-perl: CVE-2026-12087に関してパッチをバックポートしたりメーリングリストにフィードバックした
+* 8/20
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1144753
+    * fcitx-dbus-status: fcitx 4.x削除の動きをうけて、RMリクエストを投げておいた
+    * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1144892
