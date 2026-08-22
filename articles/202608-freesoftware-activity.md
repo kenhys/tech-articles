@@ -34,4 +34,5 @@ published: false
 * 8/22
   * https://github.com/kenhys/fcitx-imlist/releases/tag/0.6.0
     * fcitx-imlist: Fcitx 5.xをサポートした0.6.0をリリース
-
+  * https://www.debian.org/vote/2026/vote_002
+    * LLMに関するGRに投票した
