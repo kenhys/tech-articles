@@ -31,3 +31,7 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1144753
     * fcitx-dbus-status: fcitx 4.x削除の動きをうけて、RMリクエストを投げておいた
     * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1144892
+* 8/22
+  * https://github.com/kenhys/fcitx-imlist/releases/tag/0.6.0
+    * fcitx-imlist: Fcitx 5.xをサポートした0.6.0をリリース
+
