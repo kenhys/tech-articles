@@ -36,3 +36,6 @@ published: false
     * fcitx-imlist: Fcitx 5.xをサポートした0.6.0をリリース
   * https://www.debian.org/vote/2026/vote_002
     * LLMに関するGRに投票した
+* 8/24
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1145132
+    * groonga: llama向けのパッチが不要になったので削除してアップロードした
