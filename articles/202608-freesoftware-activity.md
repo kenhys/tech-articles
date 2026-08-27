@@ -41,3 +41,9 @@ published: false
 * 8/24
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1145132
     * groonga: llama向けのパッチが不要になったので削除してアップロードした
+* 8/26
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1145169
+    * deskflow: 脆弱性対策で1.26.0+dfsg-4をアップロードした。changelogのCVEの記述を間違えた。
+* 8/27
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1145779
+    * budgie-core: rc.xmlの記述エラーが表示されるのでフィードバックした
