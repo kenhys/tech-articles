@@ -47,3 +47,5 @@ published: false
 * 8/27
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1145779
     * budgie-core: rc.xmlの記述エラーが表示されるのでフィードバックした
+  * https://github.com/deskflow/deskflow/security/advisories/GHSA-xpjj-c4qw-mv8q
+    * deskflow: CVE-2026-41476に関連してフィードバックした
