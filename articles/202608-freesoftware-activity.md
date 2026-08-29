@@ -52,3 +52,6 @@ published: false
 * 8/28
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173
     * mozc: uim-mozcの問題を修正した
+* 8/29
+  * https://github.com/e-kato/macuim/pull/12
+    * macuim: debian向けのuim-mozcパッチの修正をフィードバックした
