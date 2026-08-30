@@ -55,3 +55,5 @@ published: false
 * 8/29
   * https://github.com/e-kato/macuim/pull/12
     * macuim: debian向けのuim-mozcパッチの修正をフィードバックした
+* 8/30
+  * deskflow: CVE-2026-41476のパッチを更新して1.26.0+dfsg-5としてアップロードした
