@@ -17,4 +17,5 @@ published: false
 * 9/5
   * groonga: 16.1.0+dfsg-1をアップロードした
   * gr-framework: 0.73.27+dfsg-1をアップロードした
-  
+* 9/6
+  * mozc: https://github.com/google/mozc/discussions/1566 画像のオリジナルSVGがないことについてフィードバックした
