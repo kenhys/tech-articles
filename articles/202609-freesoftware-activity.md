@@ -19,3 +19,5 @@ published: false
   * gr-framework: 0.73.27+dfsg-1をアップロードした
 * 9/6
   * mozc: https://github.com/google/mozc/discussions/1566 画像のオリジナルSVGがないことについてフィードバックした
+  * mozc: copyrightやリソースを整理し直した3.33.6133+ds1-0.1~exp6を準備した
+
