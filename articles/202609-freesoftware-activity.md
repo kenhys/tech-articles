@@ -20,4 +20,6 @@ published: false
 * 9/6
   * mozc: https://github.com/google/mozc/discussions/1566 画像のオリジナルSVGがないことについてフィードバックした
   * mozc: copyrightやリソースを整理し直した3.33.6133+ds1-0.1~exp6を準備した
-
+* 9/7
+  * mozc: https://lists.debian.or.jp/mailman3/hyperkitty/list/debian-devel@debian.or.jp/thread/UGJJBHB3F52FTDSTEGUDAJ3SZ6VX4SUK/
+    * mozc 3.33.61.33の動作確認協力者募集のお知らせを投げた
