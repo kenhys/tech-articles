@@ -23,3 +23,7 @@ published: false
 * 9/7
   * mozc: https://lists.debian.or.jp/mailman3/hyperkitty/list/debian-devel@debian.or.jp/thread/UGJJBHB3F52FTDSTEGUDAJ3SZ6VX4SUK/
     * mozc 3.33.61.33の動作確認協力者募集のお知らせを投げた
+* 9/9
+  * fcitx-artwork: https://github.com/fcitx/fcitx-artwork/issues/1
+    * fcitx5-mozcで採用したいアイコンのSVGが発掘された。https://github.com/google/mozc/discussions/1566 で画像リソースの問い合わせをしたことから発覚した。
+
