@@ -26,4 +26,15 @@ published: false
 * 9/9
   * fcitx-artwork: https://github.com/fcitx/fcitx-artwork/issues/1
     * fcitx5-mozcで採用したいアイコンのSVGが発掘された。https://github.com/google/mozc/discussions/1566 で画像リソースの問い合わせをしたことから発覚した。
-
+* 9/11
+  * mozc: mozcのアイコンリソース周りを点検して修正した
+* 9/12
+  * fcitx-artwork: https://github.com/fcitx/fcitx-artwork/pull/2
+    * sourceとなるSVGのファイル名が間違っていたのでフィードバックした
+  * fcitx/mozc: https://github.com/fcitx/mozc/pull/86
+    * fcitx5-mozcのtoolActionとconfigToolActionで割り当てられているリソースが同じなのでフィードバックした
+* 9/13
+  * mozc: リグレッションを修正してmozc-3.33.6133+ds1-0.1~exp9をアップロードした
+* 9/14
+  * mozc: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173#129
+    * ~exp9でほぼ問題を潰したので、unstableへアップロードを計画していることをフィードバックした
