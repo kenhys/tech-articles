@@ -38,3 +38,6 @@ published: false
 * 9/14
   * mozc: https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1085173#129
     * ~exp9でほぼ問題を潰したので、unstableへアップロードを計画していることをフィードバックした
+* 9/16
+  * dh-bazel: https://salsa.debian.org/kenhys/dh-bazel
+    * debhelper buildsystemとして使えるdh-bazelを試しに実装してみた
