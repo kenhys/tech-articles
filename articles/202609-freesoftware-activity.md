@@ -41,3 +41,5 @@ published: false
 * 9/16
   * dh-bazel: https://salsa.debian.org/kenhys/dh-bazel
     * debhelper buildsystemとして使えるdh-bazelを試しに実装してみた
+* 9/17
+  * dh-bazel: より多くのダミーモジュールをサポート。Mozcもdebian/rulesを多少書き換えてdh-bazelを使ってビルドできるようになった。
