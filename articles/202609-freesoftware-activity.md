@@ -43,3 +43,8 @@ published: false
     * debhelper buildsystemとして使えるdh-bazelを試しに実装してみた
 * 9/17
   * dh-bazel: より多くのダミーモジュールをサポート。Mozcもdebian/rulesを多少書き換えてdh-bazelを使ってビルドできるようになった。
+* 9/19
+  * mozc: 3.33.6133+ds1-0.1~exp10をexperimentalにアップロードした
+* 9/20
+  * mozc: https://ftp-master.debian.org/deferred.html
+    * 3.33.6133+ds1-0.1をunstable向けに15 delayedでアップロードした
