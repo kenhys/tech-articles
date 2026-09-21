@@ -48,3 +48,5 @@ published: false
 * 9/20
   * mozc: https://ftp-master.debian.org/deferred.html
     * 3.33.6133+ds1-0.1をunstable向けに15 delayedでアップロードした
+* 9/21
+  * mozc: debian-devel-jpでGNOME + Wayland + Fcitx5でfirefoxの候補ウィンドウの位置がおかしいというフィードバックの調査。firefox 154以降で修正されているとのことで、fcitx5-mozc側の問題ではないようだった。
