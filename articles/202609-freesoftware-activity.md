@@ -51,3 +51,7 @@ published: false
 * 9/21
   * mozc: debian-devel-jpでGNOME + Wayland + Fcitx5でfirefoxの候補ウィンドウの位置がおかしいというフィードバックの調査。firefox 154以降で修正されているとのことで、fcitx5-mozc側の問題ではないようだった。
   * groonga-normalizer-mysql: 1.3.0-2をアップロードした。testingから削除されてしまった原因はtracker.d.oから追えていない。
+* 9/24
+  * uim: https://bugs.debian.org/1148870
+    * uim自体はgtk4 immoduleをサポートしているのに、uim-gtk4パッケージが提供されていないのでフィードバックした
+  * mozc: --with-mozcオプション絡みで、いったんdeferredアップロードしたmozcのパッケージをキャンセルした
