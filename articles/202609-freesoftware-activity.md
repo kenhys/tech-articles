@@ -58,3 +58,8 @@ published: false
 * 9/25
   * https://salsa.debian.org/debian/uim/-/merge_requests/17
     * uim: uim-mozcをuim側で有効にするフィードバックした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1148915
+    * uim: uim-mozcをuim側で提供することに関して提案した
+* 9/26
+  * uim: https://github.com/uim/uim/pull/353
+    * uim-mozcがuim側にとりこまれているので、存在しないモードの削除をフィードバックした
