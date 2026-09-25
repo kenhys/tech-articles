@@ -55,3 +55,6 @@ published: false
   * uim: https://bugs.debian.org/1148870
     * uim自体はgtk4 immoduleをサポートしているのに、uim-gtk4パッケージが提供されていないのでフィードバックした
   * mozc: --with-mozcオプション絡みで、いったんdeferredアップロードしたmozcのパッケージをキャンセルした
+* 9/25
+  * https://salsa.debian.org/debian/uim/-/merge_requests/17
+    * uim: uim-mozcをuim側で有効にするフィードバックした
