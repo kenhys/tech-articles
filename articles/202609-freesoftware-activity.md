@@ -63,3 +63,5 @@ published: false
 * 9/26
   * uim: https://github.com/uim/uim/pull/353
     * uim-mozcがuim側にとりこまれているので、存在しないモードの削除をフィードバックした
+  * uim: https://github.com/uim/uim/pull/356
+    * uimで候補ウィンドウのページ送りが機能していなかった問題を修正した
