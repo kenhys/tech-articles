@@ -65,3 +65,5 @@ published: false
     * uim-mozcがuim側にとりこまれているので、存在しないモードの削除をフィードバックした
   * uim: https://github.com/uim/uim/pull/356
     * uimで候補ウィンドウのページ送りが機能していなかった問題を修正した
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1148776
+    * src:mozcのuim-mozcの不具合に関してsrc:uim側で対処しようとしていることを報告しておいた
