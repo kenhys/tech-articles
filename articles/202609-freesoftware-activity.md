@@ -78,3 +78,5 @@ published: false
     * uim: シンボルが追加漏れていたのを修正した
   * https://salsa.debian.org/debian/uim/-/merge_requests/22
     * uim: 不要になった0004-import-from-upstreamパッチを削除した
+  * https://salsa.debian.org/debian/uim/-/merge_requests/23
+    * uim: libuim-custom2のシンボルを追加する修正実施した
