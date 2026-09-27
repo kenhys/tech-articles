@@ -80,3 +80,9 @@ published: false
     * uim: 不要になった0004-import-from-upstreamパッチを削除した
   * https://salsa.debian.org/debian/uim/-/merge_requests/23
     * uim: libuim-custom2のシンボルを追加する修正実施した
+  * https://salsa.debian.org/debian/uim/-/merge_requests/24
+    * uim: uim-gtk4を追加する作業をした
+  * https://salsa.debian.org/debian/uim/-/merge_requests/26
+    * uim: uim-waylandを追加する修正をした。KDEでuim-mozcが使えるようになった
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1149144
+    * LLVM WASMのEH/no EH対応についてフィードバックしておいた
