@@ -67,3 +67,12 @@ published: false
     * uimで候補ウィンドウのページ送りが機能していなかった問題を修正した
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1148776
     * src:mozcのuim-mozcの不具合に関してsrc:uim側で対処しようとしていることを報告しておいた
+* 9/27
+  * https://salsa.debian.org/debian/uim/-/merge_requests/19
+    * uim: #1148948 テストのリグレッションに関するMRをマージした
+  * https://salsa.debian.org/debian/uim/-/merge_requests/18
+    * uim: #1148871 skk向けのファイルが不足しているMRをマージした
+  * https://salsa.debian.org/debian/uim/-/merge_requests/20
+    * uim: uim-gtk2.0およびuim-gtk2.0-immodule削除に追従するようにした
+  * https://salsa.debian.org/debian/uim/-/merge_requests/21
+    * uim: シンボルが追加漏れていたのを修正した
