@@ -76,3 +76,5 @@ published: false
     * uim: uim-gtk2.0およびuim-gtk2.0-immodule削除に追従するようにした
   * https://salsa.debian.org/debian/uim/-/merge_requests/21
     * uim: シンボルが追加漏れていたのを修正した
+  * https://salsa.debian.org/debian/uim/-/merge_requests/22
+    * uim: 不要になった0004-import-from-upstreamパッチを削除した
