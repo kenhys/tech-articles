@@ -86,3 +86,6 @@ published: false
     * uim: uim-waylandを追加する修正をした。KDEでuim-mozcが使えるようになった
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1149144
     * LLVM WASMのEH/no EH対応についてフィードバックしておいた
+* 9/28
+  * https://salsa.debian.org/debian/uim/-/merge_requests/29
+    * uim: uim-gtk4からuim-gtk4-immoduleへ変更する修正
