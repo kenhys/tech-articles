@@ -89,3 +89,6 @@ published: false
 * 9/28
   * https://salsa.debian.org/debian/uim/-/merge_requests/29
     * uim: uim-gtk4からuim-gtk4-immoduleへ変更する修正
+* 9/29
+  * https://salsa.debian.org/debian/uim/-/merge_requests/14
+    * uim: conflicts解消できてなかったのでフィードバック
