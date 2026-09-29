@@ -92,3 +92,5 @@ published: false
 * 9/29
   * https://salsa.debian.org/debian/uim/-/merge_requests/14
     * uim: conflicts解消できてなかったのでフィードバック
+  * https://salsa.debian.org/debian/uim/-/merge_requests/33
+    * uim: source after build失敗する問題を修正した
