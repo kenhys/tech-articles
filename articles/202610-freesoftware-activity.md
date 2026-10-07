@@ -26,3 +26,9 @@ published: false
     * uim: 1:1.9.8-2の変更点のレビューをした
   * https://salsa.debian.org/kenhys/virt-japanese-desktop
     * virt-japanese-desktopでKDEにも対応した。
+* 10/6
+  * https://salsa.debian.org/kenhys/virt-japanese-desktop
+    * virt-japanese-desktop: 確認ダイアログを実装して0.9.5とした
+* 10/7
+  * https://salsa.debian.org/kenhys/virt-japanese-desktop
+    * virt-japanese-desktop: budgieに対応した
