@@ -42,3 +42,5 @@ published: false
     * voicevox_core: MIGraphXをサポートするフィードバック
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150463
     * debusine: work-request signに影響する旨をフィードバック
+  * https://koedolug.connpass.com/event/407537/
+    * 小江戸らぐ10月のオフな集まりにオンラインで参加した
