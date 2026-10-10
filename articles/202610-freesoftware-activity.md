@@ -32,3 +32,13 @@ published: false
 * 10/7
   * https://salsa.debian.org/kenhys/virt-japanese-desktop
     * virt-japanese-desktop: budgieに対応した
+  * https://salsa.debian.org/debian/uim/-/merge_requests/39
+    * uim: wb86とzm削除にかんするレビュー実施
+* 10/9
+  * groonga: 16.1.3+dfsg-1をアップロードした。32bitはMRB_INT32を適用するようにした。
+  * virt-japanese-desktop: 0.9.7をリリース。
+* 10/10
+  * https://github.com/VOICEVOX/voicevox_core/pull/1459
+    * voicevox_core: MIGraphXをサポートするフィードバック
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150463
+    * debusine: work-request signに影響する旨をフィードバック
