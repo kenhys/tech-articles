@@ -44,3 +44,5 @@ published: false
     * debusine: work-request signに影響する旨をフィードバック
   * https://koedolug.connpass.com/event/407537/
     * 小江戸らぐ10月のオフな集まりにオンラインで参加した
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150493
+    * groonga: 16.1.3+dfsg-2としてアップロードした
