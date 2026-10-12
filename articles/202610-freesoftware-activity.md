@@ -43,6 +43,14 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150463
     * debusine: work-request signに影響する旨をフィードバック
   * https://koedolug.connpass.com/event/407537/
-    * 小江戸らぐ10月のオフな集まりにオンラインで参加した
+    * 小江戸らぐ10月のオフな集まりにオンラインに参加した
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150493
     * groonga: 16.1.3+dfsg-2としてアップロードした
+  * deskflow: 1.27.0+dfsg-1をアップロードした
+  * https://salsa.debian.org/deeplearning-team/onnxruntime/-/merge_requests/11
+    * onnxruntime: MIGraphXが有効になっていないのでフィードバックした
+* 10/11
+  * debianのonnxruntimeとmigraphxでvoicevox_coreを使えるか調査
+* 10/12
+  * https://github.com/hiroyuki-komatsu/japanpost_zipcode/pull/3
+    * japanpost_zipcode: 定期的に更新してくれるやつを用意した
