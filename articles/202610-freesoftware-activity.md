@@ -57,3 +57,9 @@ published: false
 * 10/13
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1130733
     * mozc: 3.33.6133+ds1-0.1でppc64elサポートしたのでクローズした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=981269
+    * mozc: abseil bundle化に関してwontfixにしておいた
+  * https://salsa.debian.org/debian/uim/-/merge_requests/40
+    * uim: multi-arch等のレビュー実施
+  * https://salsa.debian.org/debian/uim/-/merge_requests/41
+    * uim: wrap-and-sort -a結果のレビュー実施
