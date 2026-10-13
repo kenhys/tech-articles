@@ -54,3 +54,6 @@ published: false
 * 10/12
   * https://github.com/hiroyuki-komatsu/japanpost_zipcode/pull/3
     * japanpost_zipcode: 定期的に更新してくれるやつを用意した
+* 10/13
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1130733
+    * mozc: 3.33.6133+ds1-0.1でppc64elサポートしたのでクローズした
