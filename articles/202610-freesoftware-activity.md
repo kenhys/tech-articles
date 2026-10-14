@@ -65,3 +65,6 @@ published: false
     * uim: wrap-and-sort -a結果のレビュー実施
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=985709
     * mozc: mozc-toolがKDE Qt theme無視する問題について最新版で試して再現してないし、元の報告はbullseye時代のやつなので閉じた
+* 10/15
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150949
+    * zstd-jni-java: mozcが間接的に依存しているが、JNIがまともにビルドできていないのでフィードバックした
