@@ -69,6 +69,12 @@ published: false
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150949
     * zstd-jni-java: mozcが間接的に依存しているが、JNIがまともにビルドできていないのでフィードバックした
   * dfsg-reviewのフィードバックを反映してmozc: mozc 3.33.6133+ds1-0.2をアップロードした
+* 10/18
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150975
+    * mozc: 3.34.6239+ds1-0.1~exp1をexperimentalにアップロードした
+* 10/20
+  * https://lists.debian.or.jp/mailman3/hyperkitty/list/debian-devel@debian.or.jp/thread/VEKKWLACJ27PPTC2E6SUBR6XGMCNXNJB/
+    * mozc: debian-develとdebian-usersにMozc 3.34.6239+ds1-0.1~exp1の動作確認依頼のメールを投げた
 * 10/22
   * https://salsa.debian.org/debian/uim/-/merge_requests/43
     * uim: mozcのサポート対象が変わっているのでそれに追従するためのフィードバックをした
