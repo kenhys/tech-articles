@@ -68,3 +68,7 @@ published: false
 * 10/15
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150949
     * zstd-jni-java: mozcが間接的に依存しているが、JNIがまともにビルドできていないのでフィードバックした
+  * dfsg-reviewのフィードバックを反映してmozc: mozc 3.33.6133+ds1-0.2をアップロードした
+* 10/22
+  * https://salsa.debian.org/debian/uim/-/merge_requests/43
+    * uim: mozcのサポート対象が変わっているのでそれに追従するためのフィードバックをした
