@@ -78,3 +78,5 @@ published: false
 * 10/22
   * https://salsa.debian.org/debian/uim/-/merge_requests/43
     * uim: mozcのサポート対象が変わっているのでそれに追従するためのフィードバックをした
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1149540
+    * hipblaslt: experimentalのバージョンがあればFTBFSの問題は解消しそうに思えるのでフィードバックした
