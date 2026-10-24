@@ -80,3 +80,8 @@ published: false
     * uim: mozcのサポート対象が変わっているのでそれに追従するためのフィードバックをした
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1149540
     * hipblaslt: experimentalのバージョンがあればFTBFSの問題は解消しそうに思えるのでフィードバックした
+* 10/24
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1151519
+    * bazel-buildtools: リポジトリの移転をフィードバックしている点をコメント
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150813
+    * mozc: uim側にサポートされているアーキテクチャに関してフィードバックしてマージしてもらっていることをコメント
