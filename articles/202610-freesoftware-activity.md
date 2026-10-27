@@ -85,3 +85,10 @@ published: false
     * bazel-buildtools: リポジトリの移転をフィードバックしている点をコメント
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150813
     * mozc: uim側にサポートされているアーキテクチャに関してフィードバックしてマージしてもらっていることをコメント
+* 10/26
+  * bazel-buildtools: dfsg-teamフィードバック修正
+  * https://salsa.debian.org/debian/uim/-/merge_requests/44
+    * uim: 1:1.9.9-2のreview実施
+* 10/27
+  * https://salsa.debian.org/debian/uim/-/merge_requests/45
+    * uim: IBusインテグレーションのパッケージを追加するフィードバック
