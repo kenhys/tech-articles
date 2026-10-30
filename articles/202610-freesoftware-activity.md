@@ -92,3 +92,6 @@ published: false
 * 10/27
   * https://salsa.debian.org/debian/uim/-/merge_requests/45
     * uim: IBusインテグレーションのパッケージを追加するフィードバック
+* 10/30
+  * https://salsa.debian.org/debian/uim/-/merge_requests/46
+    * uim: サポートされているアーキテクチャの更新漏れを修正
