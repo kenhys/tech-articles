@@ -8,6 +8,13 @@ published: false
 
 ### 10月のハイライト
 
+Mozcに関連して、uim関連の整備を手伝ったりしたのが10月の目立った成果。
+また、Mozcの各環境での検証作業を楽にするために、[virt-japanese-desktop](https://salsa.debian.org/kenhys/virt-japanese-desktop)を開発した。
+virt-japanese-desktopについては、小江戸らぐ10月のあつまりにオンラインで参加したときに紹介したりもした。
+
+ここ数ヶ月地道に対応をすすめてきたMozcの3.33.6133+ds1-0.2をunstableに投入できたのも
+よかった。事前にexperimentalで気になるところを潰しておいたので、いまのところ致命的な不具合報告とかはない。
+
 ### 10月の活動記録
 
 * 10/1
