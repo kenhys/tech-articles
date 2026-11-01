@@ -13,3 +13,4 @@ published: false
 * 11/1
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1152726
     * uim: RCバグに関してMRだしていることをフィードバックした
+  * olekさんにbazel-buildtoolsのリポジトリをbazel-team配下にtransferするように依頼
