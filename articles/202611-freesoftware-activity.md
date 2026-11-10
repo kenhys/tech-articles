@@ -23,3 +23,9 @@ published: false
 * 11/7
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1153208
     * groonga: Multi-Arch: sameの不具合を修正して、16.1.5+dfsg-1をアップロードした
+* 11/8
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=967462
+    * growl-for-linux: GTK2からGTK3に移行させるパッチを適用して延命した
+* 11/10
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1153551
+    * bazel-buildtools: dfsgレビューで指摘された点を修正して10.2.0-1をアップロードした。
