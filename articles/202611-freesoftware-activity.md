@@ -29,3 +29,9 @@ published: false
 * 11/10
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1153551
     * bazel-buildtools: dfsgレビューで指摘された点を修正して10.2.0-1をアップロードした。
+* 11/11
+  * https://github.com/togatoga/karukan/pull/154
+    * karukan: Ctrl+Hで変換キャンセル処理出来ない問題をフィードバックした
+* 11/12
+  * https://salsa.debian.org/debian/uim/-/merge_requests/47
+    * uim: ppc64el環境でビルドできない問題をフィードバックした
