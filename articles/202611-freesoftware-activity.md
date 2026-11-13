@@ -35,3 +35,5 @@ published: false
 * 11/12
   * https://salsa.debian.org/debian/uim/-/merge_requests/47
     * uim: ppc64el環境でビルドできない問題をフィードバックした
+* 11/13
+  * aklomp-base64: 0.5.3-1をアップロードした
