@@ -37,3 +37,6 @@ published: false
     * uim: ppc64el環境でビルドできない問題をフィードバックした
 * 11/13
   * aklomp-base64: 0.5.3-1をアップロードした
+* 11/15
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150813
+    * ftp.d.o: mozcのarmhfやi386バイナリがまだアーカイブに残っているので削除依頼のバグをreopenしておいた
