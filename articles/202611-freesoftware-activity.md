@@ -40,3 +40,6 @@ published: false
 * 11/15
   * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1150813
     * ftp.d.o: mozcのarmhfやi386バイナリがまだアーカイブに残っているので削除依頼のバグをreopenしておいた
+* 11/17
+  * https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1153081
+    * deskflow: 再現しなくなったということなのでバグをクローズした
